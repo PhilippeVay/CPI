@@ -1,7 +1,7 @@
 Code de la propriété intellectuelle
 
-- Date de consolidation : 18 avril 2001
-- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006069414&dateTexte=20010418)
+- Date de consolidation : 1er juillet 2001
+- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006069414&dateTexte=20010701)
 
 
 # Partie législative
@@ -7273,6 +7273,15 @@ Le cas échéant, les informations nominatives exclues du droit d'accès sont oc
 Les documents qui ont un caractère préparatoire aux décisions des organes sociaux ou qui se rattachent à une procédure contentieuse en cours ne sont pas accessibles.
 
 La société peut ne pas donner suite aux demandes répétitives ou abusives.
+
+
+#### Article R321-6-3
+
+L'associé auquel est opposé un refus de communication peut saisir une commission spéciale composée d'au moins cinq associés élus par l'assemblée générale parmi ceux qui ne détiennent aucun mandat social.
+
+Les avis de cette commission sont motivés. Ils sont notifiés au demandeur et aux organes de direction de la société.
+
+La commission rend compte annuellement de son activité à l'assemblée générale. Son rapport est communiqué au ministre chargé de la culture ainsi qu'au président de la commission prévue à l'article L. 321-13.
 
 
 #### Article R321-6-4
