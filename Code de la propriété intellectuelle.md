@@ -1,7 +1,7 @@
 Code de la propriété intellectuelle
 
-- Date de consolidation : 21 septembre 2000
-- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006069414&dateTexte=20000921)
+- Date de consolidation : 15 février 2001
+- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006069414&dateTexte=20010215)
 
 
 # Partie législative
@@ -9384,11 +9384,19 @@ I. - Pour les fonctionnaires ou agents publics de l'Etat et de ses établissemen
 
 
 
-II. - Le complément de rémunération dû au titre de l'intéressement est versé annuellement. Les sommes qui lui sont affectées sont égales à 25 p. 100 du produit hors taxes des redevances perçues au titre de l'invention, après déduction de la totalité des frais directs supportés par la personne publique bénéficiaire.
+II. - Le complément de rémunération dû au titre de l'intéressement est versé annuellement et peut faire l'objet d'avances en cours d'année.
 
 
 
-III. - Lorsque plusieurs agents sont auteurs d'une même invention, les sommes mentionnées au II du présent article sont réparties selon l'importance de la contribution de chaque agent à l'invention. Les modalités de la répartition sont définitivement arrêtées, avant le premier versement annuel, par le ministre ayant autorité sur le service ou par l'ordonnateur principal de l'établissement.
+Il est calculé, pour chaque invention, sur une base constituée du produit hors taxes des redevances perçues chaque année au titre de l'invention par la personne publique après déduction de la totalité des frais directs supportés par celle-ci, et affectée du coefficient représentant la contribution à l'invention de l'agent concerné.
+
+
+
+Le complément de rémunération versé à chaque agent auteur d'une invention est égal à 50 % de la base définie ci-dessus, dans la limite du montant du traitement brut annuel soumis à retenue pour pension correspondant au deuxième chevron du groupe hors échelle D, et, au-delà de ce montant, à 25 % de cette base.
+
+
+
+III. - Lorsque plusieurs agents sont auteurs d'une même invention, la contribution respective de chacun d'eux à l'invention, représentée par un coefficient, est déterminée définitivement avant le premier versement annuel ou, le cas échéant, avant le versement d'avances, selon des modalités arrêtées par le ministre ayant autorité sur le service ou par l'ordonnateur principal de la personne publique. Lorsqu'un seul agent est auteur de l'invention, le coefficient représentant sa contribution est égal à 1.
 
 
 
@@ -9409,7 +9417,7 @@ V. - En cas de décès de l'agent, la prime d'intéressement est versée jusqu'a
 
 ###### Article Annexe art. R611-14-1
 
-Ministère de l'éducation nationale, de l'enseignement supérieur et de la recherche.
+Education nationale, enseignement supérieur et recherche.
 
 
 
@@ -9425,11 +9433,17 @@ Corps de fonctionnaires :
 - ingénieurs, assistants ingénieurs et techniciens de recherche et de formation régis par le décret n° 85-1534 du 31 décembre 1985 modifié.
 
 
+- Ingénieurs principaux de physique nucléaire, ingénieurs de physique nucléaire, techniciens principaux de physique nucléaire, techniciens de physique nucléaire, techniciens d'atelier de physique nucléaire, techniciens d'études de physique nucléaire, préparateurs de physique nucléaire et prototypistes de physique nucléaire, régis par le décret n° 85-1462 du 30 décembre 1985 modifié.
+
+
+- Chargés de mission de la recherche du Centre national de la recherche scientifique, régis par le décret n° 85-1461 du 30 décembre 1985 ;
+
+
 
 Agents non titulaires :
 
 
-- chercheurs régis par le décret n° 59-1400 du 9 décembre 1959 modifié.
+- chercheurs régis par le décret n° 80-31 du 17 janvier 1980 modifié.
 
 
 - ingénieurs et spécialistes régis par le décret n° 59-1405 du 9 décembre 1959 modifié.
@@ -9453,8 +9467,23 @@ Agents non titulaires :
 - attachés temporaires d'enseignement et de recherche régis par le décret n° 88-654 du 7 mai 1988 modifié.
 
 
+- Chercheurs associés au Centre national de la recherche scientifique régis par le décret n° 69-894 du 26 septembre 1969 modifié.
 
-Ministère de l'éducation nationale, de l'enseignement supérieur et de la recherche et ministère du travail et des affaires sociales :
+
+- Agents contractuels hors catégorie, de catégorie exceptionnelle et de première catégorie régis par le règlement intérieur du 30 mars 1988 portant dispositions applicables aux agents contractuels du Centre national du machinisme agricole, du génie rural, des eaux et des forêts.
+
+
+- Ingénieurs et spécialistes de l'Institut national de la santé et de la recherche médicale régis par le décret n° 64-420 du 12 mai 1964 modifié.
+
+
+- Ingénieurs experts de l'Institut national de recherche en informatique et en automatique régis par le décret n° 86-83 du 17 janvier 1986 modifié.
+
+
+- Agents recrutés par les établissements publics à caractère scientifique et technologique en application des dispositions de l'article 23 de la loi n° 82-610 du 15 juillet 1982 modifiée d'orientation et de programmation pour la recherche et le développement technologique de la France.
+
+
+
+Enseignement supérieur, recherche et affaires sociales :
 
 
 - personnels enseignants et hospitaliers des centres hospitaliers et universitaires, régis par le décret n° 84-135 du 24 février 1984 modifié.
@@ -9467,7 +9496,7 @@ Ministère de l'éducation nationale, de l'enseignement supérieur et de la rech
 
 
 
-Ministère de l'agriculture, de la pêche et de l'alimentation.
+Agriculture, pêche et alimentation.
 
 
 
@@ -9515,15 +9544,47 @@ Agents non titulaires :
 
 
 
-Ministère de l'industrie, de la poste et des télécommunications :
+Industrie  :
+
+Corps de fonctionnaires :
+
+
+- Corps des ingénieurs des mines régis par le décret n° 88-507 du 29 avril 1988 modifié.
+
+
+- Ingénieurs de l'industrie et des mines régis par le décret n° 88-507 du 29 avril 1988 modifié.
+
+
+- Professeurs, maîtres-assistants et assistants des écoles nationales supérieures des mines et des écoles nationales supérieures des techniques industrielles et des mines régis par le décret n° 69-444 du 14 mai 1969 modifié.
+
+
+- Techniciens de laboratoire affectés dans les écoles nationales supérieures des mines et dans les écoles nationales supérieures des techniques industrielles et des mines et régis par le décret n° 96-273 du 26 mars 1996 modifié.
+
+
+- Ingénieurs du corps interministériel des ingénieurs des télécommunications régis par le décret n° 67-715 du 16 août 1967.
+
+
+- Fonctionnaires de l'Etat détachés sur des emplois du groupe des écoles des télécommunications en vertu du 1° de l'article 36 du décret n° 96-1177 du 27 décembre 1996.
 
 
 
-Corps des ingénieurs des mines régis par le décret n° 88-507 du 29 avril 1988, modifié par le décret n° 94-449 du 31 mai 1994.
+Agents non titulaires
+
+
+- Personnels chercheurs des écoles nationales supérieures des mines de Paris et Saint-Etienne régis par le décret n° 71-999 du 7 décembre 1971.
+
+
+- Personnels enseignants, chercheurs et ingénieurs associés régis par le décret n° 70-663 du 10 juillet 1970 modifié.
+
+
+- Agents contractuels chargés de mission de classe exceptionnelle, agents contractuels chargés de mission de classe normale, agents contractuels hors catégorie et agents contractuels de 1re catégorie régis par le décret n° 75-62 du 28 janvier 1975 modifié.
+
+
+- Personnels contractuels de droit public du groupe des écoles des télécommunications recrutés en vertu du 2° de l'article 36 du décret n° 96-1177 du 27 décembre 1996 et régis par le décret n° 86-83 du 17 janvier 1986 modifié.
 
 
 
-Ministère de l'équipement, des transports et du logement.
+Equipement, transports et logement.
 
 
 
