@@ -1,7 +1,7 @@
 Code de la propriété intellectuelle
 
-- Date de consolidation : 24 septembre 1997
-- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006069414&dateTexte=19970924)
+- Date de consolidation : 31 décembre 1997
+- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006069414&dateTexte=19971231)
 
 
 # Partie législative
@@ -3906,6 +3906,11 @@ Les artistes de nationalité étrangère, leurs héritiers et ayants cause bén�
 Toutefois, les artistes de nationalité étrangère qui, au cours de leur carrière artistique, auront participé à la vie de l'art français et auront eu, pendant au moins cinq années, même non consécutives, leur résidence en France pourront, sans condition de réciprocité, être admis à bénéficier des droits prévus à l'article R. 122-2.
 
 Les ayants droit de ces artistes jouissent de la même faculté. Les artistes intéressés ou leurs ayants droit doivent présenter une demande au ministre chargé de la culture, qui statue après avis d'une commission dont la composition et les conditions de fonctionnement sont fixées par un arrêté du ministre.
+
+
+#### Article R122-12
+
+Pour l'application des dispositions du d du 3° de l'article L. 122-5, le catalogue d'une vente d'oeuvres d'art graphiques ou plastiques s'entend des exemplaires d'une liste illustrée ou non, diffusée avant une vente aux enchères publiques, décrivant, en vue d'informer les acheteurs potentiels, les oeuvres qui seront dispersées au cours de la vente, ainsi que les conditions de celle-ci, et mis gratuitement ou à prix coûtant à la disposition de toute personne qui en fait la demande à l'officier public ou ministériel procédant à la vente.
 
 
 #### Chapitre III : Durée de la protection.
