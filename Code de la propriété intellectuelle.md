@@ -1,7 +1,7 @@
 Code de la propriété intellectuelle
 
-- Date de consolidation : 1er octobre 2001
-- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006069414&dateTexte=20011001)
+- Date de consolidation : 1er janvier 2002
+- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006069414&dateTexte=20020101)
 
 
 # Partie législative
@@ -1293,7 +1293,7 @@ Elle peut effectuer sur pièces et sur place le contrôle des sociétés et orga
 
 III. - La commission de contrôle des sociétés de perception et de répartition des droits présente un rapport annuel au Parlement, au Gouvernement et aux assemblées générales des sociétés de perception et de répartition des droits.
 
-IV. - Le fait, pour tout dirigeant d'une société ou d'un organisme soumis au contrôle de la commission de contrôle des sociétés de perception et de répartition des droits, de ne pas répondre aux demandes d'information de la commission, de faire obstacle de quelque manière que ce soit à l'exercice de sa mission ou de lui communiquer sciemment des renseignements inexacts est puni d'un an d'emprisonnement et de 100 000 F d'amende.
+IV. - Le fait, pour tout dirigeant d'une société ou d'un organisme soumis au contrôle de la commission de contrôle des sociétés de perception et de répartition des droits, de ne pas répondre aux demandes d'information de la commission, de faire obstacle de quelque manière que ce soit à l'exercice de sa mission ou de lui communiquer sciemment des renseignements inexacts est puni d'un an d'emprisonnement et de 15 000 euros d'amende.
 
 V. - La commission siège dans les locaux de la Cour des comptes, qui assure son secrétariat.
 
@@ -1403,7 +1403,7 @@ Les officiers de police judiciaire compétents peuvent procéder, dès la consta
 
 Toute édition d'écrits, de composition musicale, de dessin, de peinture ou de toute autre production, imprimée ou gravée en entier ou en partie, au mépris des lois et règlements relatifs à la propriété des auteurs, est une contrefaçon ; et toute contrefaçon est un délit.
 
-La contrefaçon en France d'ouvrages publiés en France ou à l'étranger est punie de deux ans d'emprisonnement et de 1 000 000 F d'amende [*sanctions pénales*].
+La contrefaçon en France d'ouvrages publiés en France ou à l'étranger est punie de deux ans d'emprisonnement et de 150000 euros d'amende [*sanctions pénales*].
 
 Seront punis des mêmes peines le débit, l'exportation et l'importation des ouvrages contrefaits.
 
@@ -1417,7 +1417,7 @@ Est également un délit de contrefaçon la violation de l'un des droits de l'au
 
 ##### Article L335-4
 
-Est punie de deux ans d'emprisonnement et de 1 000 000 F d'amende [*sanctions pénales*] toute fixation, reproduction, communication ou mise à disposition du public, à titre onéreux ou gratuit, ou toute télédiffusion d'une prestation, d'un phonogramme, d'un vidéogramme ou d'un programme, réalisée sans l'autorisation, lorsqu'elle est exigée, de l'artiste-interprète, du producteur de phonogrammes ou de vidéogrammes ou de l'entreprise de communication audiovisuelle.
+Est punie de deux ans d'emprisonnement et de 150000 euros d'amende [*sanctions pénales*] toute fixation, reproduction, communication ou mise à disposition du public, à titre onéreux ou gratuit, ou toute télédiffusion d'une prestation, d'un phonogramme, d'un vidéogramme ou d'un programme, réalisée sans l'autorisation, lorsqu'elle est exigée, de l'artiste-interprète, du producteur de phonogrammes ou de vidéogrammes ou de l'entreprise de communication audiovisuelle.
 
 Est punie des mêmes peines toute importation ou exportation de phonogrammes ou de vidéogrammes réalisée sans l'autorisation du producteur ou de l'artiste-interprète, lorsqu'elle est exigée.
 
@@ -1428,7 +1428,7 @@ Est puni de la peine d'amende prévue au premier alinéa le défaut de versement
 
 Dans le cas de condamnation fondée sur l'une des infractions définies aux trois précédents articles, le tribunal peut ordonner la fermeture totale ou partielle, définitive ou temporaire, pour une durée au plus de cinq ans, de l'établissement ayant servi à commettre l'infraction.
 
-La fermeture temporaire ne peut entraîner ni rupture ni suspension du contrat de travail, ni aucun préjudice pécuniaire à l'encontre des salariés concernés. Lorsque la fermeture définitive entraîne le licenciement du personnel, elle donne lieu, en dehors de l'indemnité de préavis et de l'indemnité de licenciement, aux dommages et intérêts prévus aux articles L. 122-14-4 et L. 122-14-5 du code du travail en cas de rupture de contrat de travail. Le non-paiement de ces indemnités est puni de six mois d'emprisonnement et de 25 000 F d'amende [*sanctions pénales*].
+La fermeture temporaire ne peut entraîner ni rupture ni suspension du contrat de travail, ni aucun préjudice pécuniaire à l'encontre des salariés concernés. Lorsque la fermeture définitive entraîne le licenciement du personnel, elle donne lieu, en dehors de l'indemnité de préavis et de l'indemnité de licenciement, aux dommages et intérêts prévus aux articles L. 122-14-4 et L. 122-14-5 du code du travail en cas de rupture de contrat de travail. Le non-paiement de ces indemnités est puni de six mois d'emprisonnement et de 3750 euros d'amende [*sanctions pénales*].
 
 
 ##### Article L335-6
@@ -1539,7 +1539,7 @@ Toutefois, dans le cas où une base de données protégée fait l'objet d'un nou
 
 ##### Article L343-1
 
-Est puni de deux ans d'emprisonnement et de 1 000 000 F d'amende le fait de porter atteinte aux droits du producteur d'une base de données tels que définis à l'article L. 342-1 [*sanctions pénales*].
+Est puni de deux ans d'emprisonnement et de 150000 euros d'amende le fait de porter atteinte aux droits du producteur d'une base de données tels que définis à l'article L. 342-1 [*sanctions pénales*].
 
 
 ##### Article L343-2
@@ -2031,11 +2031,11 @@ Les officiers de police judiciaire peuvent procéder, dès la constatation des i
 
 ##### Article L521-4
 
-Toute atteinte portée sciemment aux droits garantis par le présent livre est punie de deux ans d'emprisonnement et de 1 000 000 F d'amende [*sanctions pénales*].
+Toute atteinte portée sciemment aux droits garantis par le présent livre est punie de deux ans d'emprisonnement et de 150000 euros d'amende [*sanctions pénales*].
 
 En outre, le tribunal peut ordonner la fermeture totale ou partielle, définitive ou temporaire, pour une durée au plus de cinq ans, de l'établissement ayant servi à commettre l'infraction.
 
-La fermeture temporaire ne peut entraîner ni rupture, ni suspension du contrat de travail, ni aucun préjudice pécuniaire à l'encontre des salariés concernés. Lorsque la fermeture définitive entraîne le licenciement du personnel, elle donne lieu, en dehors de l'indemnité de préavis et de l'indemnité de licenciement, aux dommages et intérêts prévus aux articles L. 122-14-4 et L. 122-14-5 du code du travail en cas de rupture de contrat de travail. Le non-paiement de ces indemnités est puni de six mois d'emprisonnement et de 25 000 F d'amende.
+La fermeture temporaire ne peut entraîner ni rupture, ni suspension du contrat de travail, ni aucun préjudice pécuniaire à l'encontre des salariés concernés. Lorsque la fermeture définitive entraîne le licenciement du personnel, elle donne lieu, en dehors de l'indemnité de préavis et de l'indemnité de licenciement, aux dommages et intérêts prévus aux articles L. 122-14-4 et L. 122-14-5 du code du travail en cas de rupture de contrat de travail. Le non-paiement de ces indemnités est puni de six mois d'emprisonnement et de 3750 euros d'amende.
 
 
 ##### Article L521-5
@@ -3072,17 +3072,17 @@ Les dispositions de l'article L. 615-4 ne sont pas applicables aux demandes de b
 
 ###### Article L615-12
 
-Quiconque se prévaut indûment de la qualité de propriétaire d'un brevet ou d'une demande de brevet est puni d'une amende de 50 000 F [*sanctions pénales*]. En cas de récidive, l'amende peut être portée au double. Il y a récidive au sens du présent article lorsqu'il a été rendu contre le prévenu dans les cinq années antérieure une condamnation pour le même délit.
+Quiconque se prévaut indûment de la qualité de propriétaire d'un brevet ou d'une demande de brevet est puni d'une amende de 7 500 euros. En cas de récidive, l'amende peut être portée au double. Il y a récidive au sens du présent article lorsqu'il a été rendu contre le prévenu dans les cinq années antérieure une condamnation pour le même délit.
 
 
 ###### Article L615-13
 
-Sans préjudice, s'il échet, des peines plus graves prévues en matière d'atteinte à la sûreté de l'Etat, quiconque a sciemment enfreint une des interdictions portées aux articles L. 612-9 et L. 612-10 est puni d'une amende de 30 000 F [*sanctions pénales*]. Si la violation a porté préjudice à la défense nationale, une peine d'emprisonnement de un à cinq ans [*circonstances aggravantes*] pourra, en outre, être prononcée.
+Sans préjudice, s'il échet, des peines plus graves prévues en matière d'atteinte à la sûreté de l'Etat, quiconque a sciemment enfreint une des interdictions portées aux articles L. 612-9 et L. 612-10 est puni d'une amende de 4 500 euros. Si la violation a porté préjudice à la défense nationale, une peine d'emprisonnement de un à cinq ans pourra, en outre, être prononcée.
 
 
 ###### Article L615-14
 
-1. Seront punis de deux ans d'emprisonnement et de 1 000 000 F d'amende ceux qui auront porté sciemment atteinte aux droits du propriétaire d'un brevet, tels que définis aux articles L. 613-3 à L. 613-6.
+1. Seront punis de deux ans d'emprisonnement et de 150000 euros d'amende ceux qui auront porté sciemment atteinte aux droits du propriétaire d'un brevet, tels que définis aux articles L. 613-3 à L. 613-6.
 2. Alinéa perimé.
 
 
@@ -3097,12 +3097,12 @@ Les coupables peuvent, en outre, être privés pendant un temps qui n'excédera 
 
 ###### Article L615-15
 
-Sans préjudice, s'il échet, des peines plus graves prévues en matière d'atteinte à la sûreté de l'Etat, quiconque aura sciemment enfreint une des obligations ou interdictions prévues aux articles L. 614-18, L. 614-20 et au premier alinéa de l'article L. 614-21 sera puni d'une amende de 40 000 F [*sanctions pénales*]. Si la violation a porté préjudice à la défense nationale, une peine d'emprisonnement de cinq ans pourra, en outre, être prononcée.
+Sans préjudice, s'il échet, des peines plus graves prévues en matière d'atteinte à la sûreté de l'Etat, quiconque aura sciemment enfreint une des obligations ou interdictions prévues aux articles L. 614-18, L. 614-20 et au premier alinéa de l'article L. 614-21 sera puni d'une amende de 6 000 euros. Si la violation porté préjudice à la défense nationale, une peine d'emprisonnement de cinq ans pourra, en outre, être prononcée.
 
 
 ###### Article L615-16
 
-Sans préjudice, s'il échet, des peines plus graves prévues en matière d'atteinte à la sûreté de l'Etat, quiconque aura sciemment enfreint l'une des obligations ou interdictions prévues au second alinéa de l'article L. 614-2, à l'article L. 614-4 et au premier alinéa de l'article L. 614-5 sera puni d'une amende de 40 000 F [*sanctions pénales*]. Si la violation a porté préjudice à la défense nationale, une peine d'emprisonnement de cinq ans pourra, en outre, être prononcée.
+Sans préjudice, s'il échet, des peines plus graves prévues en matière d'atteinte à la sûreté de l'Etat, quiconque aura sciemment enfreint l'une des obligations ou interdictions prévues au second alinéa de l'article L. 614-2, à l'article L. 614-4 et au premier alinéa de l'article L. 614-5 sera puni d'une amende de 6 000 euros. Si la violation a porté préjudice à la défense nationale, une peine d'emprisonnement de cinq ans pourra, en outre, être prononcée.
 
 
 ###### Section 3 : Règles de compétence et de procédure
@@ -3163,7 +3163,7 @@ Les peines frappant la violation des secrets de fabrique sont prévues à l'arti
 
 "Art. L. 152-7 :
 
-"Le fait, par tout directeur ou salarié d'une entreprise où il est employé, de révéler ou de tenter de révéler un secret de fabrique est puni de deux ans d'emprisonnement et de 200 000 F d'amende [*sanctions pénales*].
+"Le fait, par tout directeur ou salarié d'une entreprise où il est employé, de révéler ou de tenter de révéler un secret de fabrique est puni de deux ans d'emprisonnement et de 30 000 euros d'amende.
 
 "Le tribunal peut également prononcer, à titre de peine complémentaire, pour une durée de cinq ans au plus, l'interdiction des droits civiques, civils et de famille prévue par l'article 131-26 du code pénal".
 
@@ -3487,7 +3487,7 @@ Les tribunaux de grande instance compétents, dont le nombre ne pourra être inf
 
 ###### Article L623-32
 
-Toute atteinte portée sciemment aux droits du titulaire d'un certificat d'obtention végétale, tels qu'ils sont définis à l'article L. 623-4, constitue un délit puni d'une amende de 25 000 F [*sanctions pénales*]. En cas de récidive, un emprisonnement de six mois peut, en outre, être prononcé. Il y a récidive, au sens du présent article, lorsqu'il a été rendu contre le prévenu dans les cinq années antérieures une condamnation pour le même délit.
+Toute atteinte portée sciemment aux droits du titulaire d'un certificat d'obtention végétale, tels qu'ils sont définis à l'article L. 623-4, constitue un délit puni d'une amende de 3750 euros [*sanctions pénales*]. En cas de récidive, un emprisonnement de six mois peut, en outre, être prononcé. Il y a récidive, au sens du présent article, lorsqu'il a été rendu contre le prévenu dans les cinq années antérieures une condamnation pour le même délit.
 
 
 ###### Article L623-33
@@ -3504,7 +3504,7 @@ Quiconque se prévaut indûment de la qualité de propriétaire d'un certificat 
 
 ###### Article L623-35
 
-Sans préjudice, s'il échet, des peines plus graves prévues en matière d'atteinte à la sûreté de l'Etat, quiconque a sciemment enfreint une des interdictions portées aux articles L. 623-9 et L. 623-10 est puni d'une amende de 30 000 F [*sanctions pénales*]. Si la violation a porté préjudice à la défense nationale, une peine d'emprisonnement de cinq ans pourra, en outre, être prononcée.
+Sans préjudice, s'il échet, des peines plus graves prévues en matière d'atteinte à la sûreté de l'Etat, quiconque a sciemment enfreint une des interdictions portées aux articles L. 623-9 et L. 623-10 est puni d'une amende de 4 500 euros. Si la violation a porté préjudice à la défense nationale, une peine d'emprisonnement de cinq ans pourra, en outre, être prononcée.
 
 
 ### Livre VII : Marques de fabrique, de commerce ou de service et autres signes distinctifs
@@ -3916,7 +3916,7 @@ Les officiers de police judiciaire peuvent procéder, dès la constatation des i
 
 ##### Article L716-9
 
-Sera puni de deux ans d'emprisonnement et de 1 000 000 F d'amende quiconque aura [*sanctions pénales*] :
+Sera puni de deux ans d'emprisonnement et de 150000 euros d'amende quiconque aura [*sanctions pénales*] :
 
 a) Reproduit, imité, utilisé, apposé, supprimé ou modifié une marque, une marque collective ou une marque collective de certification en violation des droits conférés par son enregistrement et des interdictions qui découlent de celui-ci ;
 
@@ -3951,7 +3951,7 @@ Les dispositions du présent article sont applicables aux marques syndicales pr�
 
 Outre les sanctions prévues aux articles L. 716-9 et L. 716-10, le tribunal peut ordonner la fermeture totale ou partielle, définitive ou temporaire, pour une durée au plus de cinq ans, de l'établissement ayant servi à commettre l'infraction.
 
-La fermeture temporaire ne peut entraîner ni rupture, ni suspension du contrat de travail, ni aucun préjudice pécuniaire à l'encontre des salariés concernés. Lorsque la fermeture définitive entraîne le licenciement du personnel, elle donne lieu, en dehors de l'indemnité de préavis et de l'indemnité de licenciement, aux dommages et intérêts prévus aux articles L. 122-14-4 et L. 122-14-5 du code du travail en cas de rupture de contrat de travail. Le non-paiement de ces indemnités est puni de six mois d'emprisonnement et de 25 000 F d'amende [*sanctions pénales*].
+La fermeture temporaire ne peut entraîner ni rupture, ni suspension du contrat de travail, ni aucun préjudice pécuniaire à l'encontre des salariés concernés. Lorsque la fermeture définitive entraîne le licenciement du personnel, elle donne lieu, en dehors de l'indemnité de préavis et de l'indemnité de licenciement, aux dommages et intérêts prévus aux articles L. 122-14-4 et L. 122-14-5 du code du travail en cas de rupture de contrat de travail. Le non-paiement de ces indemnités est puni de six mois d'emprisonnement et de 3 750 euros d'amende.
 
 
 ##### Article L716-11-2
@@ -4078,6 +4078,17 @@ Pour l'application du présent code et des dispositions qu'il rend applicables e
 De même, les références à des dispositions législatives non applicables en Polynésie française, dans les îles Wallis-et-Futuna, dans les Terres australes et antarctiques françaises et en Nouvelle-Calédonie sont remplacées par les références aux dispositions ayant le même objet, résultant des textes applicables localement.
 
 
+##### Article L811-3
+
+Pour son application en Polynésie française, dans les îles de Wallis-et-Futuna, dans les Terres australes et antarctiques françaises, en Nouvelle-Calédonie et à Mayotte, l'article L. 621-1 du présent code est ainsi rédigé :
+
+"Art. L. 621-1 :
+
+"Le fait, par tout directeur ou salarié d'une entreprise où il est employé, de révéler ou de tenter de révéler un secret de fabrique est puni de deux ans d'emprisonnement et de 30 000 euros d'amende.
+
+"Le tribunal peut également prononcer, à titre de peine complémentaire, pour une durée de cinq ans au plus, l'interdiction des droits civiques, civils et de famille prévue par l'article 131-26 du code pénal".
+
+
 ##### Article L811-4
 
 I. - Pour leur application en Polynésie française, dans les îles Wallis-et-Futuna, dans les Terres australes et antarctiques françaises, en Nouvelle-Calédonie et à Mayotte, les articles L. 717-1, L. 717-4 et l'article L. 717-7 du présent code sont ainsi rédigés :
@@ -4156,17 +4167,6 @@ III. - La demande de marque nationale issue de la transformation d'une demande o
 #### Titre unique
 
 ##### Chapitre unique
-
-##### Article L811-3
-
-Pour son application en Polynésie française, dans les îles de Wallis-et-Futuna, dans les Terres australes et antarctiques françaises, en Nouvelle-Calédonie et à Mayotte, l'article L. 621-1 du présent code est ainsi rédigé :
-
-"Art. L. 621-1 :
-
-"Le fait, par tout directeur ou salarié d'une entreprise où il est employé, de révéler ou de tenter de révéler un secret de fabrique est puni de deux ans d'emprisonnement et de 200 000 F d'amende [*sanctions pénales*].
-
-"Le tribunal peut également prononcer, à titre de peine complémentaire, pour une durée de cinq ans au plus, l'interdiction des droits civiques, civils et de famille prévue par l'article 131-26 du code pénal".
-
 
 ### Livre VIII : Application en Polynésie française, dans les îles Wallis-et-Futuna, dans les terres australes et antarctiques françaises et en Nouvelle - Calédonie
 
