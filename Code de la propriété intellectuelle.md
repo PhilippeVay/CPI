@@ -1,7 +1,7 @@
 Code de la propriété intellectuelle
 
-- Date de consolidation : 27 décembre 1998
-- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006069414&dateTexte=19981227)
+- Date de consolidation : 11 juillet 2000
+- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006069414&dateTexte=20000711)
 
 
 # Partie législative
@@ -307,7 +307,7 @@ b) Les revues de presse ;
 
 c) La diffusion, même intégrale, par la voie de presse ou de télédiffusion, à titre d'information d'actualité, des discours destinés au public prononcés dans les assemblées politiques, administratives, judiciaires ou académiques, ainsi que dans les réunions publiques d'ordre politique et les cérémonies officielles ;
 
-d) Les reproductions, intégrales ou partielles d'oeuvres d'art graphiques ou plastiques destinées à figurer dans le catalogue d'une vente aux enchères publiques effectuée en France par un officier public ou ministériel pour les exemplaires qu'il met à la disposition du public avant la vente dans le seul but de décrire les oeuvres d'art mises en vente.
+d) Les reproductions, intégrales ou partielles d'oeuvres d'art graphiques ou plastiques destinées à figurer dans le catalogue d'une vente judiciaire effectuée en France pour les exemplaires mis à la disposition du public avant la vente dans le seul but de décrire les oeuvres d'art mises en vente.
 
 Un décret en Conseil d'Etat fixe les caractéristiques des documents et les conditions de leur distribution.
 4. La parodie, le pastiche et la caricature, compte tenu des lois du genre.
