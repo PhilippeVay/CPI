@@ -1,7 +1,7 @@
 Code de la propriété intellectuelle
 
-- Date de consolidation : 2 août 2000
-- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006069414&dateTexte=20000802)
+- Date de consolidation : 21 septembre 2000
+- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006069414&dateTexte=20000921)
 
 
 # Partie législative
@@ -1206,7 +1206,7 @@ Le tribunal apprécie la qualification professionnelle des fondateurs de ces soc
 
 ##### Article L321-4
 
-Les sociétés de perception et de répartition des droits sont tenues de nommer au moins un commissaire aux comptes et un suppléant, choisis sur la liste mentionnée à l'article 219 de la loi n° 66-537 du 24 juillet 1966 sur les sociétés commerciales et qui exercent leurs fonctions dans les conditions prévues par ladite loi, sous réserve des règles qui leur sont propres. Les dispositions de l'article 457 de la loi n° 66-537 du 24 juillet 1966 précitée sont applicables.
+Les sociétés de perception et de répartition des droits sont tenues de nommer au moins un commissaire aux comptes et un suppléant, choisis sur la liste mentionnée à l'article L. 225-219 du code de commerce et qui exercent leurs fonctions dans les conditions prévues par ladite loi, sous réserve des règles qui leur sont propres. Les dispositions de l'article L. 242-27 du code de commerce précité sont applicables.
 
 Les dispositions de l'article 29 de la loi n° 84-148 du 1er mars 1984 relative à la prévention et au règlement amiable des difficultés des entreprises sont applicables.
 
