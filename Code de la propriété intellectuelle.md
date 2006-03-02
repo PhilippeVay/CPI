@@ -1,7 +1,7 @@
 Code de la propriété intellectuelle
 
-- Date de consolidation : 1er janvier 2006
-- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006069414&dateTexte=20060101)
+- Date de consolidation : 2 mars 2006
+- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006069414&dateTexte=20060302)
 
 
 # Partie législative
@@ -3490,7 +3490,11 @@ Ce comité peut faire appel à des experts étrangers.
 
 ###### Article L623-13
 
-La durée du certificat est de vingt ans à partir de sa délivrance. Elle est fixée à vingt-cinq ans si la constitution des éléments de production de l'espèce exige de longs délais.
+La durée de la protection est de vingt-cinq ans à partir de sa délivrance.
+
+
+
+Pour les arbres forestiers, fruitiers ou d'ornement, pour la vigne ainsi que pour les graminées et légumineuses fourragères pérennes, les pommes de terre et les lignées endogames utilisées pour la production de variétés hybrides, la durée de la protection est fixée à trente ans.
 
 
 ###### Article L623-14
