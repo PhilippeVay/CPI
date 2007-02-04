@@ -1,7 +1,7 @@
 Code de la propriété intellectuelle
 
-- Date de consolidation : 1er janvier 2007
-- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006069414&dateTexte=20070101)
+- Date de consolidation : 4 février 2007
+- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006069414&dateTexte=20070204)
 
 
 # Partie législative
@@ -10784,7 +10784,10 @@ Corps de fonctionnaires :
 Agents non titulaires
 
 
-- Personnels chercheurs des écoles nationales supérieures des mines de Paris et Saint-Etienne régis par le décret n° 71-999 du 7 décembre 1971.
+- chercheurs et ingénieurs régis par le décret n° 2000-677 du 18 juillet 2000 portant dispositions statutaires communes aux agents contractuels des écoles nationales supérieures des mines et des écoles nationales supérieures des techniques industrielles et des mines placées sous la tutelle du ministre chargé de l'industrie ;
+
+
+- attachés de recherche régis par le décret n° 71-999 du 7 décembre 1971 ;
 
 
 - Personnels enseignants, chercheurs et ingénieurs associés régis par le décret n° 70-663 du 10 juillet 1970 modifié.
