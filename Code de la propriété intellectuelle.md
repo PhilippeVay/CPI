@@ -1,7 +1,7 @@
 Code de la propriété intellectuelle
 
-- Date de consolidation : 4 février 2007
-- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006069414&dateTexte=20070204)
+- Date de consolidation : 27 février 2007
+- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006069414&dateTexte=20070227)
 
 
 # Partie législative
@@ -2976,7 +2976,9 @@ a) Aux actes accomplis dans un cadre privé et à des fins non commerciales ;
 
 b) Aux actes accomplis à titre expérimental qui portent sur l'objet de l'invention brevetée ;
 
-c) A la préparation de médicaments faite extemporanément et par unité dans les officines de pharmacie, sur ordonnance médicale, ni aux actes concernant les médicaments ainsi préparés.
+c) A la préparation de médicaments faite extemporanément et par unité dans les officines de pharmacie, sur ordonnance médicale, ni aux actes concernant les médicaments ainsi préparés ;
+
+d) Aux études et essais requis en vue de l'obtention d'une autorisation de mise sur le marché pour un médicament, ainsi qu'aux actes nécessaires à leur réalisation et à l'obtention de l'autorisation.
 
 
 ###### Article L613-5-1
