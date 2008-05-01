@@ -1,7 +1,7 @@
 Code de la propriété intellectuelle
 
-- Date de consolidation : 27 avril 2008
-- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006069414&dateTexte=20080427)
+- Date de consolidation : 1er mai 2008
+- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006069414&dateTexte=20080501)
 
 
 # Partie législative
@@ -3966,13 +3966,11 @@ Des décrets en Conseil d'Etat fixent les modalités d'application du présent t
 
 ##### Article L621-1
 
-Les peines frappant la violation des secrets de fabrique sont prévues à l'article L. 152-7 du code du travail ci-après reproduit :
+Les peines frappant la violation des secrets de fabrique sont prévues à l'article L. 1227-1 du code du travail ci-après reproduit :
 
-"Art. L. 152-7 :
+" Art. L. 1227-1-" Le fait pour un directeur ou un salarié de révéler ou de tenter de révéler un secret de fabrication est puni d'un emprisonnement de deux ans et d'une amende de 30 000 euros.
 
-"Le fait, par tout directeur ou salarié d'une entreprise où il est employé, de révéler ou de tenter de révéler un secret de fabrique est puni de deux ans d'emprisonnement et de 30 000 euros d'amende.
-
-"Le tribunal peut également prononcer, à titre de peine complémentaire, pour une durée de cinq ans au plus, l'interdiction des droits civiques, civils et de famille prévue par l'article 131-26 du code pénal".
+La juridiction peut également prononcer, à titre de peine complémentaire, pour une durée de cinq ans au plus, l'interdiction des droits civiques, civils et de famille prévue par l'article 131-26 du code pénal. "
 
 
 ##### Chapitre II : Produits semi-conducteurs
@@ -9686,7 +9684,7 @@ Maintien en vigueur ;
 Recours en restauration ;
 2. Pour les brevets européens :
 
-Publication de traduction ou de traduction révisée d'un brevet européen ou des revendications d'une demande de brevet européen ;
+Publication de traduction ou de traduction révisée des revendications d'une demande de brevet ou des revendications d'un brevet européen ;
 
 Etablissement et transmission de copies de la demande de brevet européen aux Etats destinataires ;
 3. Pour les demandes internationales (traité de coopération en matière de brevets, PCT) :
@@ -9720,7 +9718,7 @@ Prorogation ;
 Régularisation, rectification, relevé de déchéance ;
 
 Enregistrement et gardiennage d'enveloppe spéciale ;
-6. Redevances communes aux brevets d'invention, certificats d'utilité, certificats complémentaires de protection, logiciels, marques, dessins ou modèles. - Palmarès et récompenses :
+6. Redevances communes aux brevets d'invention, certificats d'utilité, certificats complémentaires de protection, logiciels, marques, dessins ou modèles.-Palmarès et récompenses :
 
 Supplément pour requête tardive, paiement tardif ou accomplissement tardif d'une formalité ;
 
@@ -9739,11 +9737,12 @@ Déclaration ;
 Dépôt d'un acte.
 
 En cas d'irrecevabilité, les redevances suivantes sont remboursées :
-- pour les brevets d'invention, certificats d'utilité et certificats complémentaires de protection : dépôt ;
-- pour les marques de fabrique, de commerce ou de service :
 
-dépôt, classe de produit ou service, renouvellement ;
-- pour les dessins et modèles : dépôt, prorogation.
+-pour les brevets d'invention, certificats d'utilité et certificats complémentaires de protection : dépôt ;
+
+-pour les marques de fabrique, de commerce ou de service : dépôt, classe de produit ou service, renouvellement ;
+
+-pour les dessins et modèles : dépôt, prorogation.
 
 Est également remboursée la redevance de rapport de recherche d'un brevet d'invention lorsqu'il est mis fin à la procédure de délivrance du brevet ou en cas de prorogation des interdictions de divulgation et de libre exploitation, si la procédure d'établissement du rapport de recherche n'a pas été engagée.
 
@@ -13149,42 +13148,27 @@ Si, dans le délai prévu au troisième alinéa de l'article R. 614-5, l'une des
 Les dispositions des articles R. 614-5 et R. 614-6 sont applicables aux demandes de certificats d'utilité.
 
 
-##### Article R614-8
-
-La traduction en français du texte du brevet européen prévue à l'article L. 614-7 doit être remise dans un délai de trois mois à compter de la date de publication au Bulletin européen des brevets de la mention de la délivrance du brevet visée à l'article 97, paragraphe 4, de la convention sur le brevet européen et, le cas échéant, de la mention de la décision concernant l'opposition visée à son article 103. La traduction doit être accompagnée de la justification de la redevance exigible.
-
-
-##### Article R614-9
-
-Mention de la remise de la traduction du texte du brevet européen est publiée au Bulletin officiel de la propriété industrielle dans le délai d'un mois à compter de la date à laquelle elle a été fournie. Cette mention comporte les indications nécessaires à l'identification du brevet.
-
-A compter du jour de la publication de la mention visée à l'alinéa précédent, toute personne peut prendre connaissance gratuitement à l'Institut national de la propriété industrielle du texte de la traduction et en obtenir reproduction à ses frais.
-
-
-##### Article R614-10
-
-Mention du défaut de la remise de la traduction du brevet européen ou du défaut de paiement de la redevance exigible dans le délai prévu à l'article R. 614-8 est publiée au Bulletin officiel de la propriété industrielle. Cette mention comporte les indications nécessaires à l'identification du brevet. La redevance payée est remboursée.
-
-
 ##### Article R614-11
 
-La traduction des revendications de la demande de brevet européen visée par l'article L. 614-9 est établie par le demandeur. Son texte est remis à l'Institut national de la propriété industrielle par le demandeur, accompagné d'une réquisition de publication et de la justification du paiement de la redevance exigible. Les dispositions de l'article R. 614-9 sont applicables.
+La traduction des revendications de la demande de brevet européen mentionnée à l'article L. 614-9 est établie par le demandeur. Son texte est remis à l'Institut national de la propriété industrielle par le demandeur, accompagné d'une réquisition de publication et de la justification du paiement de la redevance exigible.
 
 La réquisition de publicité est déclarée irrecevable si elle n'est pas accompagnée de la justification du paiement de la redevance.
+
+Mention de la remise de la traduction des revendications est publiée au Bulletin officiel de la propriété industrielle dans le délai d'un mois à compter de la date à laquelle elle a été fournie. Cette mention comporte les indications nécessaires à l'identification de la demande de brevet.
+
+A compter du jour de la publication de la mention mentionnée à l'alinéa précédent, toute personne peut prendre connaissance gratuitement à l'Institut national de la propriété industrielle du texte de la traduction et en obtenir reproduction à ses frais.
 
 
 ##### Article R614-12
 
-Les dispositions de l'article R. 614-11 sont applicables à la production de la traduction révisée du texte du brevet européen ou des revendications de la demande de brevet européen prévue au second alinéa de l'article L. 614-10.
+Les dispositions de l'article R. 614-11 sont applicables à la production de la traduction révisée des revendications prévue au second alinéa de l'article L. 614-10.
 
 
 ##### Article R614-13
 
-Font l'objet d'une inscription d'office au Registre national des brevets :
-1. La décision définitive visée à l'article R. 614-6 ;
-2. Le défaut de la remise de la traduction et celui du paiement de la redevance exigible visés à l'article R. 614-10 ;
-3. La remise de la traduction et celle de la traduction révisée du texte du brevet européen visées aux articles R. 614-8 et R. 614-12 ;
-4. La remise de la traduction et celle de la traduction révisée des revendications de la demande de brevet européen visées aux articles R. 614-11 et R. 614-12.
+Font l'objet d'une inscription d'office au registre national des brevets :
+1. La décision définitive mentionnée à l'article R. 614-6 ;
+2. La remise de la traduction et celle de la traduction révisée des revendications de la demande de brevet ou des revendications du brevet européen mentionnées aux articles R. 614-11 et R. 614-12.
 
 
 ##### Article R614-14
@@ -13213,7 +13197,7 @@ Dans le cas prévu au troisième alinéa de l'article L. 614-6, la redevance pr�
 
 ##### Article R614-18
 
-La publication de chacune des traductions et des traductions révisées mentionnées aux articles R. 614-8, R. 614-11 et R. 614-12 donne lieu au paiement d'une redevance exigible lors de la remise de la traduction.
+La publication de chacune des traductions et des traductions révisées mentionnées aux articles R. 614-11 et R. 614-12 donne lieu au paiement d'une redevance exigible lors de la remise de la traduction.
 
 
 ##### Article R614-19
