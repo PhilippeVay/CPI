@@ -1,7 +1,7 @@
 Code de la propriété intellectuelle
 
-- Date de consolidation : 5 juin 2008
-- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006069414&dateTexte=20080605)
+- Date de consolidation : 30 juin 2008
+- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006069414&dateTexte=20080630)
 
 
 # Partie législative
@@ -9048,7 +9048,7 @@ Le ministre chargé de la culture désigne chaque année la société répondant
 
 ##### Article R331-1
 
-Les agents désignés par le Centre national de la cinématographie, par les organismes professionnels d'auteurs et par les sociétés mentionnées au titre II du présent livre, après avoir été agréés par le ministre chargé de la culture, prêtent serment devant le juge du tribunal d'instance de leur résidence. La formule de serment est la suivante : " Je jure de bien et fidèlement remplir mes fonctions et de ne rien révéler ou utiliser de ce qui sera porté à ma connaissance à l'occasion de leur exercice ".
+Les agents désignés par le Centre national de la cinématographie, par les organismes de défense professionnelle visés à l'article L. 331-1 et par les sociétés mentionnées au titre II du présent livre, après avoir été agréés par le ministre chargé de la culture, prêtent serment devant le juge du tribunal d'instance de leur résidence. La formule de serment est la suivante : " Je jure de bien et fidèlement remplir mes fonctions et de ne rien révéler ou utiliser de ce qui sera porté à ma connaissance à l'occasion de leur exercice ".
 
 
 ##### Section 2 : Mesures techniques de protection et d'information
@@ -9394,6 +9394,26 @@ Les décisions prises par l'Autorité en application des règles de procédure p
 
 #### Chapitre II : Saisie-contrefaçon
 
+#### Article R332-1
+
+Le délai prévu à la seconde phrase du 4° de l'article L. 332-1 est de vingt jours ouvrables ou de trente et un jours civils si ce délai est plus long, à compter du jour de l'exécution de l'ordonnance.
+
+
+#### Article R332-2
+
+Le délai prévu au premier alinéa de l'article L. 332-2 est de vingt jours ouvrables ou de trente et un jours civils si ce délai est plus long, à compter, selon le cas, du jour de la signature du procès-verbal de la saisie prévue au premier alinéa de l'article L. 332-1 ou du jour de l'exécution de l'ordonnance prévue au même article.
+
+
+#### Article R332-3
+
+Le délai prévu à l'article L. 332-3 et imparti au demandeur pour se pourvoir au fond est de vingt jours ouvrables ou de trente et un jours civils si ce délai est plus long, à compter, selon le cas, du jour de la signature du procès-verbal de la saisie prévue au premier alinéa de l'article L. 332-1 ou de la date de l'ordonnance prévue au même article.
+
+
+#### Article R332-4
+
+Le délai prévu au troisième alinéa de l'article L. 332-4 et imparti au demandeur pour se pourvoir au fond est de vingt jours ouvrables ou de trente et un jours civils si ce délai est plus long, à compter de la date de l'ordonnance.
+
+
 #### Chapitre III : Saisie-arrêt
 
 #### Chapitre IV : Droit de suite
@@ -9441,6 +9461,19 @@ Est puni de l'amende prévue pour les contraventions de la quatrième classe le 
 2. De recourir à un service conçu ou spécialement adapté pour porter, dans les mêmes conditions, l'atteinte visée à l'alinéa précédent.
 
 Ces dispositions ne s'appliquent pas aux actes qui ne portent pas préjudice aux titulaires de droits et qui sont réalisés à des fins de sécurité informatique ou à des fins de recherche scientifique en cryptographie.
+
+
+### Titre IV : Droits des producteurs de bases de données
+
+### Chapitre Ier : Champ d'application
+
+### Chapitre II : Etendue de la protection
+
+### Chapitre III : Procédures et sanctions
+
+### Article R343-1
+
+Le délai prévu au dernier alinéa de l'article L. 343-2 et imparti au demandeur pour se pourvoir au fond est de vingt jours ouvrables ou de trente et un jours civils si ce délai est plus long, à compter de la date de l'ordonnance.
 
 
 ## Livre IV : Organisation administrative et professionnelle
@@ -10899,6 +10932,13 @@ Le conseil en propriété industrielle :
 5. Remet au client qui l'a dessaisi, ou au nouveau mandataire de celui-ci, tous les documents ayant un caractère officiel dont il est dépositaire ainsi que toutes les pièces et informations nécessaires à l'exécution ou à l'achèvement de la mission qui lui était confiée ; la remise doit intervenir dans un délai permettant d'éviter toute forclusion ou prescription.
 
 
+##### Article R422-55
+
+La demande de dispense mentionnée au 3° de l'article L. 422-12 est adressée au ministre chargé de la propriété industrielle ou, par délégation, au directeur de l'Institut national de la propriété industrielle par lettre recommandée avec demande d'avis de réception ou remise contre récépissé. Elle indique l'objet de la dispense, le cas échéant la durée souhaitée et les raisons pour lesquelles elle est demandée. Elle est accompagnée d'un exemplaire des statuts sociaux et, lorsque la société a au moins une année d'activité, d'une copie du dernier bilan.
+
+L'autorité compétente statue sur la demande de dispense après avis de la Compagnie nationale des conseils en propriété industrielle. La compagnie notifie son avis dans le délai d'un mois à compter de sa saisine.A défaut, elle est réputée s'être prononcée.
+
+
 ##### Section 5 : Régime disciplinaire
 
 ##### Article R422-56
@@ -11387,15 +11427,6 @@ Les articles R. 512-1 à R. 514-5 sont applicables aux dépôts produisant effet
 
 
 ### Titre II : Contentieux
-
-#### Chapitre Ier : Retenue en douane.
-
-#### Chapitre II : Contentieux des dessins et modèles communautaires
-
-### Article R522-1
-
-Ainsi qu'il est dit à l'article R. 211-7 du code de l'organisation judiciaire, les actions et demandes en matière de dessin ou modèle communautaire prévues par l'article L. 522-2 sont portées devant le tribunal de grande instance de Paris.
-
 
 ## Livre VI : Protection des inventions et des connaissances techniques
 
@@ -12602,163 +12633,36 @@ Les pièces originales des descriptions et des dessins des brevets non imprimés
 
 ##### Section 1 : Droits d'exploitation
 
-###### Sous-section 2 : Licences obligatoires.
+###### Sous-section 1 : Licences obligatoires
 
-###### Article R613-4
+###### Sous-section 2 : Licences d'office dans l'intérêt de la santé publique
 
-Les demandes tendant à obtenir une licence obligatoire en application des articles L. 613-11 à L. 613-15 sont soumises aux tribunaux désignés conformément aux dispositions de l'article L. 615-17. Elles sont formées, instruites et jugées conformément à la procédure de droit commun, sous réserve des dispositions prévues aux articles R. 613-5 à R. 613-44.
+###### Sous-section 3 : Licences obligatoires pour des brevets visant la fabrication de produits pharmaceutiques destinés à l'exportation vers des pays connaissant des problèmes de santé publique
 
+###### Article R613-25-1
 
-###### Article R613-5
+La demande de licence d'exploitation prévue à l'article L. 613-17-1 est adressée au ministre chargé de la propriété industrielle. Elle comporte les éléments mentionnés à l'article 6 du règlement (CE) n° 816 / 2006 du Parlement européen et du Conseil du 17 mai 2006 concernant l'octroi de licences obligatoires pour des brevets visant la fabrication de produits pharmaceutiques destinés à l'exportation vers des pays connaissant des problèmes de santé publique. La demande identifie les brevets et, lorsqu'ils existent, les certificats complémentaires de protection pour lesquels une licence d'exploitation est demandée.
 
-A peine d'irrecevabilité, l'assignation et les conclusions doivent être, dans les quinze jours de la signification ou de la notification, communiquées par lettre recommandée avec demande d'avis de réception à l'Institut national de la propriété industrielle par la partie qui a signifié ou notifié.
+Le ministre notifie sans délai la demande au titulaire du brevet d'invention et, le cas échéant, aux titulaires de licences inscrites au registre national des brevets, qui disposent d'un délai de quinze jours à compter de la réception de cette notification pour présenter des observations.
 
 
-###### Article R613-6
+###### Article R613-25-2
 
-Le ministre chargé de la propriété industrielle peut présenter au tribunal ses observations sur la demande de licence par mémoire adressée au secrétariat-greffe.
+L'arrêté portant octroi de la licence obligatoire d'exploitation est pris après avis motivé de la commission mentionnée à l'article R. 613-10 qui se prononce sur la conformité de la demande aux articles 6 à 10 du règlement (CE) n° 816 / 2006.
 
-Le directeur général de l'Institut national de la propriété industrielle ou un fonctionnaire de son service, délégué par le ministre chargé de la propriété industrielle, est entendu, s'il le désire, par le tribunal.
+La procédure applicable est celle prévue aux articles R. 613-11, R. 613-12, R. 613-15 et R. 613-19 à R. 613-25.
 
+Les arrêtés portant octroi ou résiliation de la licence obligatoire d'exploitation sont notifiés à la Commission européenne.
 
-###### Article R613-7
 
-Les dispositions des articles R. 613-4 à R. 613-6 s'appliquent à la procédure devant la cour d'appel.
+###### Article R613-25-3
 
+Le titulaire de la licence obligatoire d'exploitation peut demander au ministre chargé de la propriété industrielle de modifier les conditions de la licence afin de pouvoir fournir des quantités supplémentaires de produits, dans les conditions prévues à l'article 16-4 du règlement (CE) n° 816 / 2006.
 
-###### Article R613-8
 
-Toutes les décisions prises par les tribunaux, les cours d'appel et la Cour de cassation en matière de licences obligatoires sont notifiées immédiatement par le secrétaire-greffier au directeur général de l'Institut national de la propriété industrielle. Les décisions définitives sont inscrites d'office au Registre national des brevets.
+###### Article R613-25-4
 
-
-###### Article R613-9
-
-Les demandes tendant à la cession de la licence obligatoire, à son retrait ou à la révision des conditions auxquelles elle a été accordée sont soumises aux dispositions des articles R. 613-4 à R. 613-8.
-
-
-###### Sous-section 3 : Licences d'office dans l'intérêt de la santé publique.
-
-###### Article R613-10
-
-Les arrêtés du ministre chargé de la propriété industrielle prévus aux articles L. 613-16 et L. 613-17 sont pris sur avis motivé d'une commission composée comme suit :
-1. Un conseiller d'Etat, président, nommé par arrêté conjoint des ministres chargés de la propriété industrielle et de la santé ;
-2. Le directeur général de la santé ou son représentant ;
-3. Le directeur de l'Institut national de la santé et de la recherche médicale ou son représentant ;
-4. Le directeur général de l'Institut national de la propriété industrielle ou son représentant ;
-5. Le directeur général des entreprises ou son représentant ;
-6. Le directeur général de l'Agence française de sécurité sanitaire des produits de santé ou son représentant ;
-7. Deux médecins ou leurs suppléants désignés pour trois ans renouvelables par le ministre chargé de la santé, sur proposition de l'Académie nationale de médecine ;
-8. Un pharmacien ou son suppléant désigné pour trois ans renouvelables par le ministre chargé de la santé, sur proposition de l'Académie nationale de pharmacie ;
-9. Une personnalité qualifiée désignée pour trois ans renouvelables par le ministre chargé de la santé en raison de sa compétence en matière de droit pharmaceutique ;
-10. Deux membres désignés pour trois ans renouvelables par le ministre chargé de la propriété industrielle.
-
-Le secrétariat de la commission est assuré par l'Institut national de la propriété industrielle.
-
-La commission ne peut valablement siéger, sur une première convocation, que si sept au moins de ses membres sont présents. Lorsque le quorum n'est pas atteint, le conseil délibère valablement sans condition de quorum après une nouvelle convocation portant sur le même ordre du jour et spécifiant qu'aucun quorum ne sera exigé.
-
-La voix du président est prépondérante en cas de partage égal des voix.
-
-
-###### Article R613-11
-
-Les rapports devant la commission sont confiés soit aux membres de celle-ci, soit à des membres du Conseil d'Etat, de la Cour des comptes, de l'inspection générale des finances et de l'inspection de la pharmacie, nommés par arrêté du ministre chargé de la propriété industrielle.
-
-Le président désigne, pour chaque affaire, un ou, s'il y a lieu, plusieurs rapporteurs.
-
-Les rapporteurs perçoivent une indemnité dont le montant est fixé par arrêté conjoint du ministre chargé de la propriété industrielle et du ministre de l'économie et des finances.
-
-
-###### Article R613-12
-
-La commission peut désigner des experts dont la rémunération, assurée dans les mêmes conditions que celles des experts auprès des tribunaux, donne lieu à un arrêté de taxe du président de la commission.
-
-
-###### Article R613-13
-
-Dans les cas prévus à l'article L. 613-16, la commission est saisie par décision motivée du ministre chargé de la propriété industrielle, prise sur requête du ministre chargé de la santé publique.
-
-Cette décision est notifiée, dans les quarante-huit heures, avec ses motifs, au propriétaire du brevet et, le cas échéant, aux titulaires de licences sur ce brevet inscrites au Registre national des brevets, ou à leurs représentants en France.
-
-Son dispositif est publié sans délai au Bulletin officiel de la propriété industrielle.
-
-
-###### Article R613-14
-
-Le propriétaire du brevet et les titulaires de licences peuvent, dans les quinze jours suivant réception de la notification prévue à l'article précédent, ou, si la notification ne leur est pas parvenue, suivant la publication prévue au même article, adresser leurs observations à la commission.
-
-
-###### Article R613-15
-
-Les propositions du rapporteur et le dossier constitué par lui sont communiqués aux propriétaires du brevet et, le cas échéant, aux titulaires de licences.
-
-Le président fixe les conditions, la date et la forme de cette communication ainsi que le délai dans lequel les intéressés sont admis à présenter leurs observations.
-
-
-###### Article R613-16
-
-La commission se prononce dans un délai de deux mois à compter du jour où la décision par laquelle elle est saisie est parvenue à son secrétariat.
-
-
-###### Article R613-17
-
-L'arrêté prévu à l'article L. 613-16 est pris immédiatement après l'avis de la commission. Il est notifié au propriétaire du brevet, aux titulaires de licences et au directeur général de l'Institut national de la propriété industrielle. Il est inscrit d'office au Registre national des brevets.
-
-
-###### Article R613-18
-
-La demande de licence d'exploitation prévue à l'article L. 613-17 est adressée au ministre chargé de la propriété industrielle.
-
-Elle indique :
-1. Les nom, prénoms, profession, adresse et nationalité du demandeur et, éventuellement, le nom de la personne chargée de le représenter ou de l'assister ;
-2. Le brevet dont la licence est demandée ;
-3. La justification de la qualification du demandeur notamment du point de vue légal, technique, industriel et financier.
-
-Dans les quarante-huit heures de sa réception par le ministre, la demande est notifiée au propriétaire du brevet et, le cas échéant, aux titulaires de licences inscrites au Registre national des brevets.
-
-
-###### Article R613-19
-
-Dans le délai maximum de deux mois à compter de la réception de la demande, la commission visée à l'article R. 613-10 donne son avis sur les conditions d'octroi de la licence d'exploitation, notamment quant à sa durée et à son champ d'application.
-
-Cet avis est notifié au demandeur de licence ainsi qu'au propriétaire du brevet et, le cas échéant, aux titulaires de licences inscrites au Registre national des brevets. Le président de la commission fixe le délai qui est imparti au demandeur de licence, au propriétaire du brevet et aux titulaires de licences pour faire connaître leurs observations sur les conditions d'octroi de la licence envisagées par la commission.
-
-Ces observations sont soumises à la commission.
-
-
-###### Article R613-20
-
-Le ministre chargé de la propriété industrielle prend sa décision au vu de l'avis définitif émis par la commission, après examen des observations des intéressés.
-
-
-###### Article R613-21
-
-L'arrêté d'octroi de la licence d'exploitation prévu à l'article L. 613-17 est notifié au propriétaire du brevet, aux titulaires de licences et au bénéficiaire de la licence sollicitée.
-
-Il est inscrit d'office au Registre national des brevets.
-
-
-###### Article R613-22
-
-Le demandeur de licence, le propriétaire du brevet et les titulaires de licences ou leurs représentants peuvent être entendus par la commission chargée d'émettre les avis prévus aux articles R. 613-10 et R. 613-19, soit sur leur demande, soit sur convocation d'office de la commission.
-
-Les convocations leur sont adressées au moins huit jours à l'avance.
-
-
-###### Article R613-23
-
-Au cas où les délais prévus aux articles R. 613-14, R. 613-15 et R. 613-19 (alinéa 2) ne sont pas observés, la commission passe outre sans rappel ni mise en demeure.
-
-
-###### Article R613-24
-
-Dans les instances en fixation des redevances prévues à l'article L. 613-17 (alinéa 3), l'assignation est faite à jour fixe.
-
-
-###### Article R613-25
-
-Les modifications des clauses de la licence d'exploitation demandées soit par le propriétaire du brevet, soit par le titulaire de cette licence sont décidées et publiées selon la procédure prescrite pour l'octroi de ladite licence. Si elles portent sur le montant des redevances, elles sont décidées selon la procédure prescrite pour la fixation initiale de ce montant.
-
-La procédure d'octroi de la licence est également applicable au retrait de cette licence demandé par le propriétaire du brevet pour inexécution des obligations imposées au titulaire de la licence.
+Les modalités de l'identification des produits fabriqués sous licence obligatoire en application de l'article 10-5 du règlement (CE) n° 816 / 2006 sont établies par une décision du directeur général de l'Agence française de sécurité sanitaire des produits de santé.
 
 
 ###### Sous-section 4 : Licences d'office dans l'intérêt du développement économique
@@ -13287,42 +13191,11 @@ Les modalités d'application des articles R. 614-21 à R. 614-24 sont fixées, e
 
 #### Chapitre V : Actions en justice
 
-##### Section 1 : Mesures probatoires.
+##### Section 1 : Mesures provisoires et conservatoires
 
-##### Article R615-1
+##### Section 2 : Mesures probatoires
 
-La description détaillée, avec ou sans saisie réelle, des produits ou procédés prétendus contrefaits, prévue à l'article L. 615-5 est ordonnée par le président d'un des tribunaux de grande instance énumérés à l'article R. 631-2, dans le ressort duquel les opérations doivent être effectuées.
-
-L'ordonnance est rendue sur simple requête et sur la représentation soit du brevet, du certificat complémentaire de protection, du certificat d'utilité ou du certificat d'addition, soit, dans le cas prévu à l'article L. 615-4, premier alinéa, d'une copie certifiée conforme de la demande de brevet, de certificat complémentaire de protection, de certificat d'utilité ou de certificat d'addition. Dans ce dernier cas, le requérant doit justifier en outre que les conditions prévues audit article L. 615-4 sont remplies.
-
-Si la requête est présentée par le concessionnaire d'un droit exclusif d'exploitation ou par le titulaire d'une licence octroyée en vertu des articles L. 613-10, L. 613-11 ou L. 613-15, le requérant doit justifier que la condition prescrite par l'article L. 615-2, deuxième alinéa, est remplie.
-
-
-##### Article R615-2
-
-Lorsque la saisie réelle est ordonnée, le juge peut exiger du requérant un cautionnement, qui doit être consigné avant qu'il soit procédé à la saisie.
-
-A peine de nullité et de dommages-intérêts contre l'huissier, celui-ci doit, avant de procéder à la saisie, donner copie aux détenteurs des objets saisis ou décrits de l'ordonnance et, le cas échéant, de l'acte constatant le dépôt de cautionnement. Copie doit être laissée aux mêmes détenteurs du procès-verbal de saisie.
-
-
-##### Article R615-3
-
-Le délai prévu à l'article L. 615-5, quatrième alinéa, et imparti au requérant pour se pourvoir devant le tribunal est de quinze jours à compter du jour où la saisie ou la description est intervenue.
-
-
-##### Article R615-4
-
-Le président du tribunal peut ordonner, au vu du procès-verbal de saisie, toute mesure de nature à compléter la preuve des actes de contrefaçon allégués. A la demande de la partie saisie agissant sans délai et justifiant d'un intérêt légitime, il peut également prendre toute mesure pour préserver la confidentialité de certains éléments.
-
-
-##### Article R615-5
-
-Lorsque, dans un litige civil en matière de brevets d'invention, une expertise technique apparaît nécessaire, le président de la juridiction saisie peut consulter, sur le choix de l'expert, l'un des organismes désignés par arrêté conjoint du garde des sceaux et des ministres intéressés.
-
-S'il a été procédé à cette consultation, il en est fait mention dans l'arrêt ou le jugement.
-
-
-##### Section 2 : Commission paritaire de conciliation.
+##### Section 3 : Commission paritaire de conciliation
 
 ##### Article R615-6
 
@@ -13636,7 +13509,7 @@ Le dépôt est inopposable aux tiers si le libellé de la déclaration complét�
 
 #### Article R622-6
 
-Les articles R. 411-19 à R. 411-26, R. 612-1 (2e alinéa), R. 612-2, R. 612-38, R. 613-45, R. 613-53 à R. 613-59 et R. 618-1 à R. 618-3 sont applicables aux conditions dans lesquelles sont reçus les dépôts, transmis ou modifiés les droits qui y sont attachés, émises les notifications de l'Institut national de la propriété industrielle et réglé le contentieux.
+Les articles R. 411-19 à R. 411-26, R. 612-1 (2e alinéa), R. 612-2, R. 612-38, R. 613-45, R. 613-53 à R. 613-59, R. 615-1 à R. 615-4, et R. 618-1 à R. 618-3 sont applicables aux conditions dans lesquelles sont reçus les dépôts, transmis ou modifiés les droits qui y sont attachés, émises les notifications de l'Institut national de la propriété industrielle et réglé le contentieux.
 
 Pour l'application des articles R. 613-53 à R. 613-59, le Registre national visé auxdits articles comporte une section dite Registre national des dépôts de topographies de produits semi-conducteurs. La première inscription prévue à l'article R. 613-53 porte sur le contenu de la déclaration de dépôt, complétée par les dates et références du dépôt et de son enregistrement.
 
@@ -14071,13 +13944,27 @@ Tous les délais fixés par la présente section sont francs. Le jour de l'acte 
 Tout délai qui expirerait normalement un samedi, un dimanche ou un jour férié sera prorogé jusqu'au premier jour ouvrable suivant.
 
 
+###### Article R623-50-1
+
+Le délai prévu au dernier alinéa de l'article L. 623-27-1 et imparti au demandeur pour se pourvoir au fond est de vingt jours ouvrables ou de trente et un jours civils si ce délai est plus long, à compter de la date de l'ordonnance.
+
+
 ###### Article R623-51
 
-La description détaillée, avec ou sans saisie réelle des plantes, parties de plantes, ou tous éléments de reproduction ou de multiplication végétative de la variété considérée prétendue contrefaite, prévue par l'article L. 623-27, est ordonnée par le président du tribunal de grande instance ou dans les territoires d'outre-mer du tribunal de première instance dans le ressort duquel les opérations doivent être effectuées.
+La saisie, descriptive ou réelle, prévue à l'article L. 623-27-1 est ordonnée par le président de l'un des tribunaux de grande instance mentionnés à l'article D. 631-1, dans le ressort duquel les opérations doivent être effectuées.
 
-L'ordonnance est rendue sur simple requête et sur la présentation soit du certificat d'obtention, soit, dans le cas prévu à l'article L. 623-26, d'une copie conforme de la demande de certificat d'obtention végétale.
+L'ordonnance est rendue sur simple requête et sur la présentation du certificat d'obtention végétale, soit dans le cas prévu à l'article L. 623-26, d'une copie certifiée conforme de la demande de certificat d'obtention végétale. Dans ce dernier cas, le demandeur doit justifier en outre que les conditions prévues audit article L. 623-26 sont remplies.
 
-Si la requête est présentée par le concessionnaire d'un droit exclusif d'exploitation ou par le titulaire d'une licence d'office visée aux articles L. 623-17 et L. 623-20, le requérant doit justifier de l'inaction du propriétaire du certificat d'obtention végétale après une mise en demeure l'invitant à exercer l'action.
+Si la requête est présentée par le concessionnaire d'un droit exclusif d'exploitation ou par le titulaire d'une licence octroyée en vertu de l'article L. 623-18, le requérant doit justifier que les conditions de l'article L. 623-25 sont remplies.
+
+Le président peut autoriser l'huissier à procéder à toute constatation utile en vue d'établir l'origine, la consistance et l'étendue de la contrefaçon.
+
+
+###### Article R623-51-1
+
+Lorsque le juge a subordonné la saisie à la constitution de garanties par le demandeur, celles-ci doivent être constituées avant qu'il soit procédé à la saisie.
+
+A peine de nullité et de dommages-intérêts contre l'huissier, celui-ci doit, avant de procéder à la saisie, donner copie aux détenteurs des objets saisis ou décrits de l'ordonnance et, le cas échéant, de l'acte constatant la constitution des garanties. Copie doit être laissée aux mêmes détenteurs du procès-verbal de saisie.
 
 
 ###### Article R623-52
@@ -14087,7 +13974,12 @@ Lorsque la saisie réelle est ordonnée, le juge peut exiger du requérant un ca
 
 ###### Article R623-53
 
-Le délai prévu à l'article L. 623-27, deuxième alinéa, pour se pourvoir devant le tribunal est de quinze jours à compter du jour où la saisie ou la description est intervenue.
+Le délai prévu au dernier alinéa de l'article L. 623-7-1 et imparti au demandeur pour se pourvoir au fond est de vingt jours ouvrables ou de trente et un jours civils si ce délai est plus long, à compter du jour où est intervenue la saisie ou la description.
+
+
+###### Article R623-53-1
+
+Le président du tribunal de grande instance peut ordonner, au vu du procès-verbal de saisie, toute mesure pour compléter la preuve des actes de contrefaçon allégués. A la demande de la partie saisie agissant sans délai et justifiant d'un intérêt légitime, il peut également prendre toute mesure pour préserver la confidentialité de certains éléments.
 
 
 ###### Article R623-54
@@ -14173,551 +14065,243 @@ Un arrêté conjoint du ministre de l'économie et des finances et du ministre c
 
 #### Article D631-1
 
-Ainsi qu'il est dit à l'article R. 312-2 du code de l'organisation judiciaire, le siège et le ressort des tribunaux de grande instance appelés à connaître des actions en matière d'obtentions végétales en application de l'article L. 623-31 du code de la propriété intellectuelle sont fixés conformément au tableau IV annexé au code de l'organisation judiciaire, ci-après reproduit :
+Ainsi qu'il est dit à l'article D. 211-5 du code de l'organisation judiciaire, le siège et le ressort des tribunaux de grande instance appelés à connaître des actions en matière d'obtentions végétales en application de l'article L. 623-31 du code de la propriété intellectuelle sont fixés conformément au tableau V annexé au code de l'organisation judiciaire, ci-après reproduit :
+
+
+
+
 
 Siège et ressort des tribunaux compétents pour connaître des actions en matière d'obtentions végétales
 
 
+
+
+
+
+
+
+
+
+
+
+
+Tribunaux de grande instance
+
+
+
+
+
+Compétence territoriale
+
+s'étendant aux départements compris dans le ressort des cours d'appel de
+
+
+
+
+
+
+
+
+
+Marseille
+
+
+
+
+
+Aix : Aix-en-Provence,Bastia, Nîmes
+
+
+
+
+
+
+
+
+
+Bordeaux
+
+
+
+
+
+Bordeaux : Agen, Bordeaux, Poitiers
+
+
+
+
+
+
+
+
+
+Strasbourg
+
+
+
+
+
+Colmar : Colmar, Metz
+
+
+
+
+
+
+
+
+
+Lille
+
+
+
+
+
+Douai : Amiens, Douai
+
+
+
+
+
+
+
+
+
+Limoges
+
+
+
+
+
+Limoges : Bourges,Limoges, Riom
+
+
+
+
+
+
+
+
+
+Lyon
+
+
+
+
+
+Lyon : Chambéry,Lyon, Grenoble
+
+
+
+
+
+
+
+
+
+Nancy
+
+
+
+
+
+Nancy : Besançon,Dijon, Nancy
+
+
+
+
+
+
+
+
+
+Paris
+
+
+
+
+
+Paris : Orléans,Paris, Reims, Rouen, Versailles, Basse-Terre, Fort-de-France, Saint-Denis-de-la-Réunion,Nouméa, Papeete, Mamoudzou et Saint-Pierre-et-Miquelon
+
+
+
+
+
+
+
+
+
+Rennes
+
+
+
+
+
+Rennes : Angers, Caen,Rennes
+
+
+
+
+
+
+
+
+
+Toulouse
+
+
+
+
+
+Toulouse : Pau, Montpellier, Toulouse
+
+
 #### Article D631-2
 
-Ainsi qu'il est dit à l'article R. 312-2-1 du code de l'organisation judiciaire, le siège et le ressort des tribunaux de grande instance appelés à connaître des actions en matière de brevets d'invention, de certificats d'utilité, de certificats complémentaires de protection et de topographies de produits semi-conducteurs en application des articles L. 611-2, L. 615-17 et L. 622-7 du code de la propriété intellectuelle sont fixés conformément au tableau IV sexties annexé au code de l'organisation judiciaire.
+Ainsi qu'il est dit à l'article D. 211-6 du code de l'organisation judiciaire, le siège et le ressort des tribunaux de grande instance appelés à connaître des actions en matière de brevets d'invention, de certificats d'utilité, de certificats complémentaires de protection et de topographies de produits semi-conducteurs en application des articles L. 611-2, L. 615-17 et L. 622-7 du code de la propriété intellectuelle sont fixés conformément au tableau VI annexé au code de l'organisation judiciaire.
 
 
 ## Livre VII : Marques de fabrique, de commerce ou de service et autres signes distinctifs
 
-### Titre unique : Marques de fabrique, de commerce ou de service
+### Titre Ier : Marques de fabrique, de commerce ou de service
 
-#### Chapitre Ier : Eléments constitutifs de la marque
+### Titre II : Indications géographiques
 
-#### Chapitre II : Acquisition du droit sur la marque
+#### Chapitre Ier : Généralités
 
-#### Article R712-1
+#### Chapitre II : Contentieux
 
-La demande d'enregistrement de marque est déposée à l'Institut national de la propriété industrielle. Il en est accusé réception.
+##### Section 1 : Mesures provisoires et conservatoires
 
-Le dépôt peut résulter de l'envoi à l'Institut national de la propriété industrielle d'un pli postal recommandé avec demande d'avis de réception, ou d'un message par tout mode de télétransmission défini par décision de son directeur général. Dans ce cas, la date de dépôt est celle de la réception à l'institut. Le présent article s'applique aux déclarations de renouvellement prévues à l'article R. 712-24.
+##### Article R722-1
 
+Le délai prévu au dernier alinéa de l'article L. 722-3 et imparti au demandeur pour se pourvoir au fond est de vingt jours ouvrables ou de trente et un jours civils si ce délai est plus long, à compter de la date de l'ordonnance.
 
-#### Article R712-2
 
-Le dépôt peut être fait personnellement par le demandeur ou par un mandataire ayant son domicile, son siège ou son établissement dans un Etat membre de la communauté européenne ou dans un Etat partie à l'accord sur l'Espace économique européen.
+##### Section 2 : Mesures probatoires
 
-Sous réserve des exceptions prévues aux articles L. 422-4 et L. 422-5, le mandataire constitué pour le dépôt d'une demande d'enregistrement de marque et tout acte subséquent relatif à la procédure d'enregistrement, à l'exception du simple paiement des redevances et des déclarations de renouvellement, doit avoir la qualité de conseil en propriété industrielle.
+##### Article R722-2
 
-Les personnes n'ayant pas leur domicile ou leur siège dans un Etat membre de la Communauté européenne ou dans un Etat partie à l'accord sur l'Espace économique européen doivent, dans le délai qui leur est imparti par l'institut, constituer un mandataire satisfaisant aux conditions prévues à l'alinéa précédent.
+La saisie, descriptive ou réelle, prévue à l'article L. 722-4 est ordonnée par le président du tribunal de grande instance compétent pour connaître du fond.
 
-En cas de pluralité de déposants, un mandataire commun doit être constitué. Si celui-ci n'est pas l'un des déposants, il doit satisfaire aux conditions prévues par le deuxième alinéa.
+Le président peut autoriser l'huissier à procéder à toute constatation utile en vue d'établir l'origine, la consistance et l'étendue de l'atteinte à une indication géographique.
 
-Sauf lorsqu'il a la qualité de conseil en propriété industrielle ou d'avocat, le mandataire doit joindre un pouvoir qui s'étend, sous réserve des dispositions des articles R. 712-21 et R. 714-1 et sauf stipulation contraire, à tous les actes et à la réception de toutes les notifications prévues au présent titre. Le pouvoir est dispensé de légalisation.
 
+##### Article R722-3
 
-#### Article R712-3
+Lorsque le juge a subordonné la saisie à la constitution de garanties par le demandeur, celles-ci doivent être constituées avant qu'il soit procédé à la saisie.
 
-Le dépôt comprend :
-1. La demande d'enregistrement de la marque établie dans les conditions prévues par l'arrêté mentionné à l'article R. 712-26 et précisant notamment :
+A peine de nullité et de dommages-intérêts contre l'huissier, celui-ci doit, avant de procéder à la saisie, donner copie aux détenteurs des objets saisis ou décrits de l'ordonnance et, le cas échéant, de l'acte constatant la constitution de garanties. Copie doit être laissée aux mêmes détenteurs du procès-verbal de saisie.
 
-a) L'identification du déposant :
 
-b) Le modèle de la marque, consistant dans la représentation graphique de cette dernière ; le modèle peut être complété par une brève description ; cette dernière est obligatoire dans les cas prévus à l'arrêté précité ;
+##### Article R722-4
 
-c) L'énumération des produits ou services auxquels elle s'applique, ainsi que l'énumération des classes correspondantes ;
+Le délai prévu au dernier alinéa de l'article L. 722-4 et imparti au demandeur pour se pourvoir au fond est de vingt jours ouvrables ou de trente et un jours civils si ce délai est plus long, à compter du jour où est intervenue la saisie ou la description.
 
-d) Le cas échéant, l'indication qu'est revendiqué le droit de priorité attaché à un précédent dépôt étranger ou qu'un certificat de garantie a été délivré en application de la loi du 13 avril 1908.
-2. Les pièces annexes ci-après :
 
-a) La justification du paiement des redevances prescrites ;
+##### Article R722-5
 
-b) S'il est constitué un mandataire, le pouvoir de ce dernier, à moins qu'il n'ait la qualité de conseil en propriété industrielle ou d'avocat ;
-
-c) Si le caractère distinctif du signe déposé à titre de marque a été acquis par l'usage, la justification de cet usage ;
-
-d) S'il s'agit d'une marque collective de certification, le règlement déterminant les conditions auxquelles est subordonné l'usage de la marque ;
-
-e) Si le déposant est un étranger qui n'est ni domicilié, ni établi sur le territoire national, et sous réserve des conventions internationales, la justification qu'il a régulièrement déposé la marque dans le pays de son domicile ou de son établissement et que ce pays accorde la réciprocité de protection aux marques françaises.
-
-Un même dépôt ne peut porter que sur une seule marque.
-
-
-#### Article R712-4
-
-La revendication, à l'occasion d'un dépôt effectué en France, d'un droit de priorité attaché à un précédent dépôt étranger emporte obligation de faire parvenir à l'Institut national de la propriété industrielle, dans les trois mois du dépôt en France, une copie officielle du dépôt antérieur et, s'il y a lieu, la justification du droit de revendiquer la priorité.
-
-Si cette obligation n'est pas respectée, la priorité est réputée n'avoir pas été revendiquée.
-
-
-#### Article R712-5
-
-A la réception du dépôt, sont mentionnés sur la demande d'enregistrement : la date, le lieu et le numéro d'ordre de dépôt ou le numéro national prévu à l'article R. 712-6.
-
-Un récépissé du dépôt est remis au déposant.
-
-Lorsque le dépôt est effectué au greffe du tribunal de commerce ou du tribunal de grande instance en tenant lieu, les pièces du dépôt et le montant des redevances sont transmis sans délai à l'Institut national de la propriété industrielle par le greffier.
-
-
-#### Article R712-6
-
-Dès sa réception à l'Institut national de la propriété industrielle, le dépôt donne lieu à l'attribution d'un numéro national. Lorsqu'il n'a pu être mentionné sur le récépissé du dépôt, ce numéro est notifié au déposant.
-
-Est déclaré irrecevable toute correspondance ou dépôt ultérieur de pièces qui ne rappelle pas le numéro national de la demande d'enregistrement, qui ne porte pas la signature du déposant ou de son mandataire ou qui, le cas échéant, n'est pas accompagné de la justification du paiement de la redevance prescrite.
-
-
-#### Article R712-7
-
-Est déclaré irrecevable tout dépôt qui ne comporte pas les mentions prévues à l'article R. 712-3 (1° a, b et c) et qui n'est pas accompagné de la justification du paiement de la redevance de dépôt.
-
-Toutefois, cette irrecevabilité ne peut être opposée par l'Institut national de la propriété industrielle qu'après que le déposant a été invité à compléter les mentions manquantes. La demande de régularisation mentionne qu'à défaut de régularisation dans le délai fixé le dépôt sera déclaré irrecevable.
-
-Si la régularisation est effectuée dans le délai, la date de dépôt à prendre en compte est celle à laquelle les mentions manquantes ont été produites.
-
-
-#### Article R712-8
-
-Tout dépôt reconnu recevable est publié au Bulletin officiel de la propriété industrielle, sauf s'il apparaît soit que sa présentation ne satisfait pas aux prescriptions techniques nécessaires pour permettre sa reproduction, soit que sa publication serait de nature à porter atteinte à l'ordre public ou aux bonnes moeurs.
-
-La publication au Bulletin officiel intervient dans les six semaines qui suivent la réception du dépôt à l'Institut national de la propriété industrielle. Mention y est faite de la faculté ouverte à toute personne intéressée de formuler des observations dans un délai de deux mois et aux personnes mentionnées à l'article L. 712-4 de former dans ce même délai opposition à enregistrement.
-
-
-#### Article R712-9
-
-Les observations formulées en application de l'article L. 712-3 sont communiquées sans délai au déposant par l'institut ou classées sans suite s'il apparaît qu'elles ont été formulées après l'expiration du délai prescrit ou que leur objet est manifestement étranger aux prévisions législatives en vigueur. L'auteur en est informé.
-
-
-#### Article R712-10
-
-Tout dépôt donne lieu à vérification par l'institut :
-1. Que la demande d'enregistrement et les pièces qui y sont annexées sont conformes aux prescriptions de la législation et de la réglementation en vigueur ;
-2. Que le signe déposé peut constituer une marque par application des articles L. 711-1 et L. 711-2 ou être adopté comme marque par application de l'article L. 711-3.
-
-
-#### Article R712-11
-
-1. En cas de non-conformité de la demande aux dispositions de l'article R. 712-10, notification motivée en est faite au déposant.
-
-Un délai lui est imparti pour régulariser le dépôt ou contester les objections de l'institut. A défaut de régularisation ou d'observation permettant de lever l'objection, la demande est rejetée.
-
-La notification peut être assortie d'une proposition de régularisation. Cette proposition est réputée acceptée si le déposant ne la conteste pas dans le délai qui lui est imparti.
-2. Dans le cas prévu à l'article R. 712-10 (2°), la notification d'irrégularité ne peut être émise plus de quatre mois après la date de réception de la demande à l'institut. En l'absence d'observations ou si les observations formulées ne permettent pas de lever l'objection émise, un projet de décision est établi. Il est notifié au déposant auquel un délai est imparti pour en contester éventuellement le bien-fondé. Ce projet, s'il n'est pas contesté, vaut décision.
-3. Aucune régularisation effectuée conformément aux dispositions du présent article ne peut avoir pour effet d'étendre la portée du dépôt.
-
-
-#### Article R712-12
-
-Le relevé de déchéance prévu à l'article L. 712-10 est applicable aux délais prévus au présent titre, à l'exception de ceux mentionnées aux articles R. 712-16, R. 712-24 (1°), R. 717-2, R. 717-5 et R. 717-8.
-
-La demande doit être formée dans un délai de deux mois à compter de la cessation de l'empêchement et l'acte non accompli doit l'être dans le même délai. Elle n'est plus recevable après un délai préfix de six mois décompté à partir de l'expiration du délai non observé.
-
-La demande est présentée au directeur général de l'institut par le titulaire du dépôt, qui doit être le titulaire inscrit au registre national des marques si la demande d'enregistrement est publiée, ou son mandataire.
-
-Elle n'est recevable qu'après paiement de la redevance prescrite.
-
-La demande est écrite. Elle indique les faits et justifications invoqués à son appui.
-
-La décision motivée est notifiée au demandeur.
-
-
-#### Article R712-13
-
-L'opposition à enregistrement formée par le propriétaire d'une marque antérieure ou le bénéficiaire d'un droit exclusif d'exploitation dans les conditions prévues à l'article L. 712-4 peut être présentée par l'intéressé agissant personnellement ou par l'intermédiaire d'une personne remplissant les conditions prévues à l'article R. 712-2.
-
-
-#### Article R712-14
-
-L'opposition est présentée par écrit dans les conditions prévues par l'arrêté mentionné à l'article R. 712-26.
-
-Elle précise :
-1. L'identité de l'opposant, ainsi que les indications propres à établir l'existence, la nature, l'origine et la portée de ses droits ;
-2. Les références de la demande d'enregistrement contre laquelle est formée l'opposition, ainsi que l'indication des produits ou services visés par l'opposition ;
-3. L'exposé des moyens sur lesquels repose l'opposition ;
-4. La justification du paiement de la redevance prescrite ;
-5. Le cas échéant, sauf lorsqu'il a la qualité de conseil en propriété industrielle ou d'avocat, le pouvoir du mandataire, ce pouvoir pouvant être adressé à l'institut dans le délai maximum d'un mois.
-
-
-#### Article R712-15
-
-Est déclarée irrecevable toute opposition soit formée hors délai, soit présentée par une personne qui n'avait pas qualité, soit non conforme aux conditions prévues aux articles R. 712-13 et R. 712-14 et à l'arrêté mentionné à l'article R. 712-26.
-
-
-#### Article R712-16
-
-Sous réserve des cas de suspension prévus au quatrième alinéa de l'article L. 712-4 ou de clôture de la procédure en application de l'article R. 712-18, l'opposition est instruite selon la procédure ci-après :
-1. L'opposition est notifiée sans délai au titulaire de la demande d'enregistrement.
-
-Un délai est imparti à celui-ci pour présenter les observations en réponse et, le cas échéant, constituer un mandataire répondant aux conditions prévues à l'article R. 712-13. Le délai imparti ne peut être inférieur à deux mois ;
-2. A défaut d'observation en réponse ou, le cas échéant, de constitution régulière d'un mandataire dans le délai imparti, il est statué sur l'opposition.
-
-Dans le cas contraire, un projet de décision est établi au vu de l'opposition et des observations en réponse. Ce projet est notifié aux parties auxquelles un délai est imparti pour en contester éventuellement le bien-fondé ;
-3. Ce projet, s'il n'est pas contesté, vaut décision.
-
-Dans le cas contraire, il est statué sur l'opposition au vu des dernières observations et, si l'une des parties le demande, après que celles-ci auront été admises à présenter des observations orales.
-
-L'institut doit respecter le principe du contradictoire. Toute observation dont il est saisi par l'une des parties est notifiée à l'autre.
-
-
-#### Article R712-17
-
-Le titulaire de la demande d'enregistrement peut, dans ses premières observations en réponse, inviter l'opposant à produire des pièces propres à établir que la déchéance de ses droits pour défaut d'exploitation n'est pas encourue.
-
-Ces pièces doivent établir l'exploitation de la marque antérieure, au cours des cinq années précédant la demande de preuves d'usage, pour au moins l'un des produits ou services sur lesquels est fondée l'opposition ou faire état d'un juste motif de non-exploitation.
-
-L'institut impartit alors un délai à l'opposant pour produire ces pièces.
-
-
-#### Article R712-18
-
-La procédure d'opposition est clôturée :
-1. Lorsque l'opposant a retiré son opposition, a perdu qualité pour agir ou n'a fourni dans le délai imparti aucune pièce propre à établir que la déchéance de ses droits n'est pas encourue ;
-2. Lorsque l'opposition est devenue sans objet par suite soit d'un accord entre les parties, soit du retrait ou du rejet de la demande d'enregistrement contre laquelle l'opposition a été formée ;
-3. Lorsque les effets de la marque antérieure ont cessé.
-
-
-#### Article R712-20
-
-Jusqu'au début des préparatifs techniques relatifs à l'enregistrement, le déposant peut être autorisé, sur requête écrite adressée au directeur de l'Institut national de la propriété industrielle, à rectifier les erreurs matérielles relevées dans les pièces déposées.
-
-L'institut peut exiger la justification de la réalité de l'erreur matérielle à rectifier et le sens de la correction demandée.
-
-
-#### Article R712-21
-
-La demande d'enregistrement peut être retirée jusqu'au début des préparatifs techniques relatifs à l'enregistrement. Le retrait peut être limité à une partie du dépôt. Il s'effectue par une déclaration écrite adressée ou remise à l'institut.
-
-Une déclaration de retrait ne peut viser qu'une seule marque. Elle est formulée par le demandeur ou par son mandataire lequel, sauf s'il a la qualité de conseil en propriété industrielle ou d'avocat, doit joindre un pouvoir spécial.
-
-Elle indique s'il a été ou non concédé des droits d'exploitation ou de gage. Dans l'affirmative, elle doit être accompagnée du consentement écrit du bénéficiaire de ce droit ou du créancier gagiste.
-
-Si la demande d'enregistrement a été formulée par plusieurs personnes, son retrait ne peut être effectué que s'il est requis par l'ensemble de celles-ci.
-
-Le retrait ne fait pas obstacle à la publication prévue au premier alinéa de l'article R. 712-8.
-
-
-#### Article R712-23
-
-La marque est enregistrée, à moins que la demande n'ait été rejetée ou retirée. Un certificat est adressé au déposant.
-
-L'enregistrement est publié au Bulletin officiel de la propriété industrielle.
-
-La date à laquelle une marque est réputée enregistrée, notamment pour l'application des articles L. 712-4 et L. 714-5, est :
-1. Pour les marques françaises, celle du Bulletin officiel de la propriété industrielle dans lequel l'enregistrement est publié ;
-2. Pour les marques internationales n'ayant pas fait l'objet d'une notification d'irrégularité fondée sur le 2° de l'article R. 712-11 ou d'une opposition, celle de l'expiration du délai prévu à l'article R. 717-4 ou, si elle est postérieure, celle de l'expiration du délai pour former opposition ;
-3. Pour les marques internationales ayant fait l'objet d'une notification d'irrégularité fondée sur le 2° de l'article R. 712-11 ou d'une opposition, celle, le cas échéant, de l'inscription au registre international des marques de la levée totale ou partielle du refus.
-
-
-#### Article R712-24
-
-L'enregistrement peut être renouvelé pour une nouvelle période de dix ans par déclaration du propriétaire de la marque, établie dans les conditions prévues à l'arrêté mentionné à l'article R. 712-26. Il peut être précisé que le renouvellement ne vaut que pour certains produits ou services désignés dans l'acte d'enregistrement.
-
-Le renouvellement prend effet le jour suivant la date d'expiration de l'enregistrement.
-
-La déclaration doit à peine d'irrecevabilité :
-1. Etre présentée au cours d'un délai de six mois expirant le dernier jour du mois au cours duquel prend fin la période de protection et être accompagnée de la justification du paiement de la redevance prescrite.
-
-Toutefois, la déclaration peut encore être présentée ou la redevance acquittée dans un délai supplémentaire de six mois à compter du lendemain du dernier jour du mois d'expiration de la protection, moyennant le paiement d'un supplément de redevance dans le même délai.
-2. Comporter la désignation de la marque à renouveler et émaner du titulaire inscrit, au jour de la déclaration, au registre national des marques ou de son mandataire.
-
-Si la déclaration ne satisfait pas à ces conditions, il est fait application de la procédure prévue au 1° de l'article R. 712-11.
-
-
-
-L'irrecevabilité ne peut être prononcée sans que le déposant ait été mis en mesure de présenter des observations.
-
-
-#### Article R712-25
-
-Tout nouveau dépôt portant sur une modification du signe ou une extension de la liste des produits et services d'une marque enregistrée peut être accompagné d'une déclaration de renouvellement anticipé de cette marque. La nouvelle période de protection court à compter de la déclaration de renouvellement.
-
-Les renouvellements ultérieurs de la marque renouvelée et du nouveau dépôt s'effectuent par une déclaration unique.
-
-
-#### Article R712-26
-
-Les conditions de présentation de la demande et le contenu du dossier sont précisés par arrêté du ministre chargé de la propriété industrielle, notamment en ce qui concerne :
-1. La demande d'enregistrement prévue à l'article R. 712-3 ;
-2. L'opposition prévue à l'article R. 712-14 ;
-3. La déclaration de retrait prévue à l'article R. 712-21 ou de renonciation prévue à l'article R. 714-1 ;
-4. La déclaration de renouvellement prévue aux articles R. 712-24 et R. 712-25 ;
-5. La demande d'inscription au Registre national des marques prévue aux articles R. 714-4 et R. 714-6 ;
-6. Les demandes d'enregistrement international de marque et d'inscription postérieure au registre international soumises au visa de l'institut.
-
-
-#### Article R712-27
-
-Jusqu'au début des préparatifs techniques relatifs à l'enregistrement ou lors d'une procédure de recours contre la décision d'enregistrement de la marque, le déposant ou son mandataire peut procéder au dépôt de demandes divisionnaires de sa demande d'enregistrement initiale.
-
-La division ne peut porter que sur la liste des produits et services.
-
-Les demandes divisionnaires bénéficient de la date de dépôt et, le cas échéant, de la date de priorité de la demande initiale.
-
-
-#### Article R712-28
-
-En cas de division d'une demande d'enregistrement conformément à l'article R. 712-27, chaque demande divisionnaire doit être conforme aux dispositions de l'article R. 712-3.
-
-
-#### Chapitre III : Droits conférés par l'enregistrement
-
-#### Chapitre IV : Transmission et perte du droit sur la marque
-
-#### Article R714-1
-
-Le titulaire d'une marque enregistrée peut à tout moment y renoncer, pour tout ou partie des produits ou services.
-
-La déclaration de renonciation doit, pour être recevable :
-1. Emaner du titulaire de la marque inscrit, au jour de la déclaration, sur le registre national des marques, ou de son mandataire ;
-2. Etre accompagnée de la justification du paiement de la redevance prescrite.
-
-Les dispositions de l'article R. 712-21 sont applicables à la renonciation.
-
-
-#### Article R714-2
-
-Le Registre national des marques est tenu par l'Institut national de la propriété industrielle.
-
-Y figurent pour chaque marque :
-1. L'identification du demandeur et les références du dépôt, ainsi que les actes ultérieurs en affectant l'existence ou la portée ;
-2. Les actes modifiant la propriété de la marque ou la jouissance des droits qui lui sont attachés ; en cas de revendication de propriété, l'assignation correspondante ;
-3. Les changements de nom, de forme juridique ou d'adresse ainsi que les rectifications d'erreurs matérielles affectant les inscriptions.
-
-Aucune inscription n'est portée au registre tant que le dépôt n'est pas publié dans les conditions prévues à l'article R. 712-8.
-
-
-#### Article R714-3
-
-Les indications mentionnées au 1° de l'article R. 714-2 sont inscrites à l'initiative de l'Institut national de la propriété industrielle ou, s'il s'agit d'une décision judiciaire, sur réquisition du greffier ou sur requête de l'une des parties.
-
-Seules les décisions judiciaires définitives peuvent être inscrites au registre national des marques.
-
-
-#### Article R714-4
-
-Les actes modifiant la propriété d'une marque ou la jouissance des droits qui lui sont attachés, tels que cession, concession d'un droit d'exploitation, constitution ou cession d'un droit de gage ou renonciation à ce droit, saisie, validation et mainlevée de saisie, sont inscrits à la demande de l'une des parties à l'acte ou, s'il n'est pas partie à l'acte, du titulaire du dépôt au jour de la demande d'inscription.
-
-Toutefois, un acte ne peut être inscrit que si la personne indiquée dans l'acte comme étant le titulaire de la demande d'enregistrement ou de la marque avant la notification résultant de l'acte est inscrite comme telle au registre national des marques.
-
-La demande comprend :
-1. Un bordereau de demande d'inscription ;
-2. Une copie ou un extrait de l'acte constatant la modification de la propriété ou de la jouissance ;
-3. La justification du paiement de la redevance prescrite ;
-4. S'il y a lieu, le pouvoir du mandataire, à moins que celui-ci n'ait la qualité de conseil en propriété industrielle ou d'avocat.
-
-
-#### Article R714-5
-
-Par dérogation au 2° de l'article R. 714-4, peut être produit avec la demande :
-1. En cas de mutation par décès : copie de tout acte établissant le transfert, à la demande des héritiers ou légataires ;
-2. En cas de transfert par suite de fusion, scission ou absorption : copie d'un extrait du registre du commerce et des sociétés à jour de la modification ;
-3. Sur justification de l'impossibilité matérielle de produire une copie : tout document établissant la modification de la propriété ou de la jouissance.
-
-
-#### Article R714-6
-
-Les changements de nom, de forme juridique, d'adresse et les rectifications d'erreurs matérielles sont inscrits à la demande du titulaire de la demande d'enregistrement ou de la marque, qui doit être le titulaire inscrit au registre national des marques. Toutefois, lorsque ces changements et rectifications portent sur un acte précédemment inscrit, la demande peut être présentée par toute partie à l'acte.
-
-La demande comprend :
-1. Un bordereau de demande d'inscription ;
-2. S'il y a lieu, le pouvoir du mandataire, à moins qu'il n'ait la qualité de conseil en propriété industrielle ou d'avocat ;
-3. S'il s'agit d'une rectification d'erreur matérielle, la justification du paiement de la redevance prescrite ;
-
-L'institut peut exiger la justification de la réalité du changement dont l'inscription est sollicitée ou de l'erreur matérielle à rectifier.
-
-
-#### Article R714-7
-
-En cas de non-conformité d'une demande d'inscription, notification motivée en est faite au demandeur.
-
-Un délai lui est imparti pour régulariser sa demande ou présenter des observations. A défaut de régularisation ou d'observations permettant de lever l'objection, la demande est rejetée par décision du directeur général de l'Institut national de la propriété industrielle.
-
-La notification peut être assortie d'une proposition de régularisation. Cette proposition est réputée acceptée si le déposant ne la conteste pas dans le délai qui lui est imparti.
-
-
-#### Article R714-8
-
-Toute inscription portée au Registre national des marques fait l'objet d'une mention au Bulletin officiel de la propriété industrielle.
-
-Toute personne intéressée peut obtenir de l'institut :
-1. Un certificat d'identité comprenant le modèle de la marque, les indications relatives au dépôt et à l'enregistrement, et, s'il y a lieu, les limitations à la liste des produits ou services résultant d'un retrait, d'une renonciation ou d'une décision judiciaire ;
-2. Une reproduction des inscriptions portées au Registre national des marques ;
-3. Un certificat constatant qu'il n'existe pas d'inscription.
-
-A compter du jour de la publication prévue au premier alinéa, toute personne intéressée peut demander à prendre connaissance d'un dossier de demande d'enregistrement de marque et obtenir à ses frais reproduction des pièces. L'institut peut subordonner l'usage de cette faculté à la justification d'un intérêt suffisant.
-
-Toutefois, sont exclues de la communication au public les pièces non communiquées au déposant ainsi que celles qui comportent des données à caractère personnel ou qui sont relatives au secret des affaires.
-
-
-#### Article R714-9
-
-Les dépôts irrecevables, rejetés, ou non renouvelés peuvent être restitués à leur propriétaire, sur sa demande et à ses frais.
-
-S'ils n'ont pas été réclamés, ils peuvent être détruits par l'Institut national de la propriété industrielle, au terme d'un délai d'un an pour les dépôts irrecevables et rejetés, ou de dix ans pour les dépôts non renouvelés.
-
-
-#### Chapitre V : Marques collectives
-
-#### Article R715-1
-
-La mention "marque collective" portée dans l'enregistrement d'une marque déposée antérieurement au 28 décembre 1991 sera, sauf s'il s'agit d'une marque collective de certification, radiée sur demande de son propriétaire.
-
-Cette radiation sera inscrite au Registre national des marques.
-
-
-#### Article R715-2
-
-En cas de dissolution de la personne morale titulaire d'une marque collective de certification, la transmission de cette marque ne peut intervenir qu'au profit d'un autre organisme certificateur ou d'une personne morale détenant majoritairement, directement ou indirectement, un organisme certificateur auquel elle (en) concède une licence exclusive de cette marque.
-
-Cette transmission est opérée, à la demande du titulaire de la marque ou de son mandataire, par un arrêté du ministre chargé de l'industrie, si la marque collective de certification est relative à la certification de services ou de produits autres qu'alimentaires.
-
-
-#### Chapitre VI : Contentieux
-
-#### Article R716-1
-
-I. -  La demande de retenue de marchandises par l'administration des douanes prévue à l'article L. 716-8 comporte :
-1. Les nom et prénoms ou la dénomination sociale du demandeur, son domicile ou son siège ;
-2. Le cas échéant, le nom et l'adresse du mandataire et la justification de son mandat ;
-3. La qualité du demandeur au regard des droits qu'il invoque ;
-4. La désignation et le numéro d'enregistrement de la marque concernée ;
-5. La description des marchandises arguées de contrefaçon dont la retenue est demandée ;
-6. L'ensemble des documents et informations permettant d'attester que les marchandises arguées de contrefaçon ne sont légalement ni fabriquées, ni mises en libre pratique non plus que commercialisées dans un autre Etat membre de la Communauté européenne.
-
-II. - La demande mentionnée au I peut être présentée à l'autorité administrative compétente préalablement à l'entrée des marchandises arguées de contrefaçon sur le territoire français. Dans ce cas, elle est valable un an et peut être renouvelée.
-
-Les modalités de présentation de la demande sont précisées par arrêté du ministre chargé des douanes.
-
-
-#### Article R*716-1-1
-
-L'autorité administrative compétente mentionnée aux I et II de l'article R. 716-1 est le ministre chargé des douanes.
-
-
-#### Chapitre VII : Marque internationale et marque communautaire
-
-##### Section 1 : Marque internationale
-
-##### Article R717-1
-
-Les articles R. 712-3 (2°, d), R. 712-9 à R. 712-11, R. 712-13 à R. 712-18, R. 714-2 et R. 714-4 à R. 714-8 sont applicables aux enregistrements internationaux de marque étendus à la France conformément à l'arrangement de Madrid du 14 avril 1891 et du Protocole de Madrid du 27 juin 1989, dans la limite et sous la réserve des dispositions prévues au présent chapitre.
-
-
-##### Article R717-2
-
-Lorsque l'enregistrement international concerne une marque collective de certification, le règlement d'usage mentionné à l'article R. 712-3 (2°, d), accompagné, le cas échéant, de sa traduction en langue française, doit être fourni dans un délai de six mois à compter de l'inscription de la marque au Registre international.
-
-Lorsque cette prescription n'est pas respectée, l'enregistrement international est réputé ne pas porter en France sur une marque collective de certification.
-
-
-##### Article R717-3
-
-L'institut tient à la disposition du public le bulletin La Gazette publié par l'Organisation mondiale de la propriété intellectuelle.
-
-Le délai de deux mois dans lequel les observations de tiers doivent être présentées en application de l'article L. 712-3 court à partir du premier jour du mois suivant la réception du bulletin La Gazette à l'Institut national de la propriété industrielle.
-
-
-##### Article R717-4
-
-L'examen prévu à l'article R. 712-10 est limité à la vérification de l'aptitude du signe à constituer une marque ou à être adopté à titre de marque.
-
-Le délai de quatre mois dans lequel doivent être émises les notifications d'irrégularité, conformément à l'article R. 712-11 (2°), court à compter de la notification à l'Institut national de la propriété industrielle de l'extension à la France de l'enregistrement international.
-
-Les irrégularités sont notifiées au titulaire de l'enregistrement international par l'intermédiaire du bureau international de l'Organisation mondiale de la propriété intellectuelle.
-
-
-##### Article R717-5
-
-Le délai pour former opposition, conformément à l'article L. 712-4, court à partir du premier jour du mois suivant la réception du bulletin La Gazette à l'Institut national de la propriété industrielle.
-
-L'opposition est notifiée au titulaire de l'enregistrement international par l'intermédiaire du bureau international de l'Organisation mondiale de la propriété intellectuelle.
-
-Le titulaire de l'enregistrement international est réputé avoir reçu la notification de l'opposition dans un délai de quinze jours à compter de la date d'émission de cette notification par l'Institut national de la propriété industrielle.
-
-
-##### Article R717-6
-
-Toute décision de rejet est prononcée sous forme de refus de protection en France de l'enregistrement international.
-
-Elle est notifiée au titulaire de l'enregistrement international par l'intermédiaire du bureau international de l'Organisation mondiale de la propriété intellectuelle.
-
-
-##### Article R717-7
-
-Les actes relatifs aux enregistrements internationaux qui produisent effet en France peuvent être inscrits au Registre national des marques, dès lors qu'ils ne sont pas susceptibles d'être inscrits au Registre international.
-
-
-##### Article R717-8
-
-Toute demande d'enregistrement international ou d'inscription postérieure à cet enregistrement soumise, en vertu de l'arrangement de Madrid du 14 avril 1891 et du Protocole de Madrid du 27 juin 1989, au visa de l'Institut national de la propriété industrielle pour transmission au bureau international, doit être présentée dans les conditions fixées à l'arrêté mentionné à l'article R. 712-26.
-
-Les dispositions de l'article R. 712-11 sont applicables à toute demande ne répondant pas aux conditions prévues à l'alinéa précédent. La date de saisine de l'Institut national de la propriété industrielle est celle à laquelle la demande a, le cas échéant, été régularisée.
-
-
-##### Section 2 : Marque communautaire
-
-##### Article R717-9
-
-La marque communautaire ou la demande de marque communautaire est transformée en demande de marque française dès la réception par l'Institut national de la propriété industrielle de la requête en transformation adressée à l'Office de l'harmonisation dans le marché intérieur. Un numéro national lui est attribué.
-1. Un délai est imparti au demandeur pour fournir :
-
-a) La demande d'enregistrement prévue au 1° de l'article R. 712-3 ;
-
-b) La justification du paiement des redevances prévue au a du 2° de l'article R. 712-3 ;
-
-c) La traduction en français, s'il y a lieu, de la requête en transformation et des pièces jointes à celle-ci.
-
-Si le demandeur n'a pas son domicile ou son siège dans un Etat membre de la Communauté européenne ou dans un Etat partie à l'accord sur l'Espace économique européen, il doit, dans le même délai, constituer un mandataire satisfaisant aux conditions prévues à l'article R. 712-2 et communiquer le nom et l'adresse de celui-ci à l'Institut national de la propriété industrielle ;
-2. La demande issue de la requête en transformation est rejetée si les pièces mentionnées au 1° ne sont pas produites dans le délai prescrit ;
-3. Lorsque la demande issue de la requête en transformation est reconnue recevable, elle est publiée au Bulletin officiel de la propriété industrielle dans les six semaines qui suivent la réception par l'Institut national de la propriété industrielle des pièces visées au 1°. Sous réserve des dispositions du troisième alinéa de l'article L. 717-5, mention y est faite de la faculté ouverte à toute personne intéressée de formuler des observations dans le délai de deux mois et aux personnes mentionnées à l'article L. 712-4 de former dans ce même délai opposition à enregistrement.
-
-
-##### Article R717-10
-
-La demande de marque nationale issue de la requête en transformation est examinée et enregistrée ou rejetée dans les conditions prévues aux articles R. 712-9 à R. 712-23.
-
-
-##### Article R717-11
-
-Ainsi qu'il est dit à l'article R. 312-10 du code de l'organisation judiciaire, les actions et demandes en matière de marque communautaire prévues par l'article L. 717-4 sont portées devant le tribunal de grande instance de Paris.
-
-
-#### Chapitre VIII : Dispositions communes
-
-##### Section unique
-
-##### Article R718-1
-
-Sous réserve des dispositions de l'article R. 712-16 (1°), les délais impartis par l'Institut national de la propriété industrielle ne sont ni inférieurs à un mois ni supérieurs à quatre mois.
-
-
-##### Article R718-2
-
-Lorsqu'un délai est exprimé en jours, celui de l'acte, de l'événement, de la décision ou de la notification qui le fait courir ne compte pas.
-
-Lorsqu'un délai est exprimé en mois ou en année, ce délai expire le jour du dernier mois ou de la dernière année qui porte le même quantième que le jour de l'acte, de l'événement, de la décision ou de la notification qui fait courir le délai. A défaut de quantième identique, le délai expire le dernier jour du mois.
-
-Lorsqu'un délai est exprimé en mois et en jours, les mois sont d'abord décomptés, puis les jours.
-
-Tout délai expire le dernier jour à vingt-quatre heures.
-
-Le délai qui expirerait normalement un samedi, un dimanche ou un jour férié ou chômé est prorogé jusqu'au premier jour ouvrable suivant.
-
-Le délai qui expirerait normalement un jour où l'une des délégations régionales de l'Institut national de la propriété industrielle n'est pas ouverte est prorogé jusqu'au premier jour où toutes les délégations régionales de l'institut sont ouvertes.
-
-La liste des jours mentionnés à l'alinéa précédent est établie chaque année par décision du directeur général de l'Institut national de la propriété industrielle. Elle est publiée au Bulletin officiel de la propriété industrielle.
-
-
-##### Article R718-3
-
-Toute notification est réputée régulière si elle est faite :
-1. Soit au dernier titulaire de la demande d'enregistrement de marque déclaré à l'institut ou au dernier propriétaire inscrit au Registre national des marques ;
-2. Soit au mandataire du titulaire ou du propriétaire susmentionné.
-
-Si le titulaire n'est pas domicilié dans un Etat membre de la Communauté européenne ou dans un Etat partie à l'accord sur l'Espace économique européen, la notification est réputée régulière si elle est faite au dernier mandataire qu'il a constitué auprès de l'institut.
-
-
-##### Article R718-4
-
-Les notifications prévues par le présent titre sont faites par lettre recommandée avec demande d'avis de réception.
-
-L'envoi recommandé peut être remplacé par la remise de la lettre au destinataire, contre récépissé, dans les locaux de l'Institut national de la propriété industrielle ou par un message sous forme électronique selon les modalités fixées par le directeur général de l'institut pour garantir notamment la sécurité de l'envoi.
-
-Si l'adresse du destinataire est inconnue, la notification est faite par publication d'un avis au Bulletin officiel de la propriété industrielle.
+Le président du tribunal de grande instance peut ordonner, au vu du procès-verbal de saisie, toute mesure pour compléter la preuve des actes portant prétendument atteinte à une indication géographique. A la demande de la partie saisie agissant sans délai et justifiant d'un intérêt légitime, il peut également prendre toute mesure pour préserver la confidentialité de certains éléments.
 
 
 ## Livre VIII : Dispositions particulières à Mayotte, aux îles Wallis et Futuna, à la Nouvelle-Calédonie et aux Terres australes et antarctiques françaises
@@ -14733,13 +14317,13 @@ Sous réserve des adaptations prévues par l'article R. 811-3 ci-après, sont ap
 2. Les dispositions du livre II ;
 3. Les dispositions du livre III à l'exception des articles R. 326-1 à R. 326-7 ;
 4. Les dispositions du livre IV à l'exception des articles R. 421-1 à R. 421-12, R. 422-1 à R. 422-66, R. 423-1 et R. 423-2 ;
-5. Les dispositions du livre V à l'exception des articles R. 512-2, R. 512-3, R. 512-13, R. 512-15, R. 513-1 et R. 513-2 seulement en tant qu'ils concernent les conseils en propriété industrielle ;
-6. Les dispositions du livre VI à l'exception des articles R. 615-1 à R. 615-5 ainsi que des articles R. 612-2, R. 612-38, R. 613-46, R. 613-56 et R. 613-58 seulement en tant qu'ils concernent les conseils en propriété industrielle ;
+5. Les dispositions du livre V à l'exception des articles R. 522-1 et R. 717-11 ainsi que des articles R. 512-2, R. 512-3, R. 512-13, R. 512-15, R. 513-1 et R. 513-2 seulement en tant qu'ils concernent les conseils en propriété industrielle ;
+6. Les dispositions du livre VI à l'exception des articles R. 612-2, R. 612-38, R. 613-25-1 à R. 613-25-4, R. 613-46, R. 613-56 et R. 613-58 seulement en tant qu'ils concernent les conseils en propriété industrielle ;
 7. Les dispositions du livre VII à l'exception des articles R. 712-2, R. 712-13, R. 712-14, R. 712-21, R. 712-24, R. 714-4 et R. 714-6 seulement en tant qu'ils concernent les conseils en propriété industrielle.
 
 Toutefois, l'article R. 613-63 est ainsi rédigé :
 
-Art. R. 613-63. - La demande de réduction des redevances prévue à l'article L. 612-20, dans sa rédaction antérieure à la loi n° 2005-842 du 26 juillet 2005, est présentée par écrit au directeur général de l'Institut national de la propriété industrielle.
+Art.R. 613-63.-La demande de réduction des redevances prévue à l'article L. 612-20, dans sa rédaction antérieure à la loi n° 2005-842 du 26 juillet 2005, est présentée par écrit au directeur général de l'Institut national de la propriété industrielle.
 
 Elle est accompagnée d'un avis de non-imposition ou d'une justification équivalente. Il est statué par décision motivée. La décision est notifiée au requérant.
 
@@ -14748,17 +14332,31 @@ Si la demande est accueillie, le bénéfice de la rédaction est acquis au requ�
 
 #### Article R811-2
 
-Sous réserve des adaptations prévues par l'article R. 811-3 ci-après, sont applicables à Mayotte les dispositions du présent code à l'exception des articles R. 133-1, R. 133-2, R. 326-1 et R. 326-2.
+Sous réserve des adaptations prévues par l'article R. 811-3 ci-après, sont applicables à Mayotte les dispositions du présent code à l'exception des articles R. 133-1, R. 133-2, R. 326-1, R. 326-2, R. 522-1 et R. 613-25-1 à R. 613-25-4.
 
 
 #### Article R811-3
 
 Pour application du présent code et des dispositions qu'il rend applicables aux territoires d'outre-mer et à Mayotte, les mots suivants énumérés ci-dessous sont respectivement remplacés par les mots suivants :
+
+
 - "tribunal de grande instance" par "tribunal de première instance" ;
+
+
 - "juge d'instance" par "juge du tribunal de première instance" ;
+
+
 - "région" par "territoire" et, en ce qui concerne Mayotte, par "collectivité départementale" ;
+
+
 - "cour d'appel" par "tribunal supérieur d'appel" et "commissaire de police" par "officier de police judiciaire" en ce qui concerne Mayotte ;
+
+
 - "tribunal de commerce" par "tribunal de première instance statuant en matière commerciale" en ce qui concerne Mayotte et "tribunal mixte de commerce" en ce qui concerne les territoires de la Nouvelle-Calédonie, de la Polynésie française et de Wallis-et-Futuna ;
+
+
 - "conseil de prud'hommes" par "tribunal du travail".
+
+Pour l'application du présent code aux collectivités d'outre-mer et à Mayotte, toute référence au code des douanes est remplacée par la référence aux codes des douanes applicables à ces collectivités et à Mayotte, ayant le même objet.
 
 
