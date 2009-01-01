@@ -1,7 +1,7 @@
 Code de la propriété intellectuelle
 
-- Date de consolidation : 25 décembre 2008
-- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006069414&dateTexte=20081225)
+- Date de consolidation : 1er janvier 2009
+- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006069414&dateTexte=20090101)
 
 
 # Partie législative
@@ -9766,22 +9766,15 @@ Les règles relatives à la comptabilité, à la forme des budgets et des compte
 
 L'Institut national de la propriété industrielle perçoit des redevances, dont le montant et les modalités d'application sont fixés par arrêté conjoint du ministre chargé de la propriété industrielle et du ministre chargé du budget, à l'occasion des procédures et formalités suivantes :
 1. Pour les brevets d'invention, certificats d'utilité et certificats complémentaires de protection :
-
-Dépôt ;
-
-Rapport de recherche ou rapport de recherche complémentaire ;
-
-Revendication supplémentaire à partir de la onzième ;
-
-Requête en rectification d'erreurs ;
-
-Requête en poursuite de la procédure ;
-
-Délivrance et impression du fascicule ;
-
-Maintien en vigueur ;
-
-Recours en restauration ;
+- dépôt ;
+- rapport de recherche ou rapport de recherche complémentaire ;
+- revendication supplémentaire à partir de la onzième ;
+- requête en rectification d'erreurs ;
+- requête en poursuite de la procédure ;
+- requête en limitation ;
+- délivrance et impression du fascicule ;
+- maintien en vigueur ;
+- recours en restauration.
 2. Pour les brevets européens :
 
 Publication de traduction ou de traduction révisée des revendications d'une demande de brevet ou des revendications d'un brevet européen ;
@@ -9840,7 +9833,9 @@ En cas d'irrecevabilité, les redevances suivantes sont remboursées :
 
 -pour les brevets d'invention, certificats d'utilité et certificats complémentaires de protection : dépôt ;
 
--pour les marques de fabrique, de commerce ou de service : dépôt, classe de produit ou service, renouvellement ;
+-pour les marques de fabrique, de commerce ou de service :
+
+dépôt, classe de produit ou service, renouvellement ;
 
 -pour les dessins et modèles : dépôt, prorogation.
 
@@ -11445,10 +11440,6 @@ Tout délai expire le dernier jour à vingt-quatre heures.
 
 Le délai qui expirerait normalement un samedi, un dimanche ou un jour férié ou chômé est prorogé jusqu'au premier jour ouvrable suivant.
 
-Le délai qui expirerait normalement un jour où l'une des délégations régionales de l'Institut national de la propriété industrielle n'est pas ouverte est prorogé jusqu'au premier jour où toutes les délégations régionales de l'institut sont ouvertes.
-
-La liste des jours mentionnés à l'alinéa précédent est établie chaque année par le directeur général de l'Institut national de la propriété industrielle. Elle est publiée au Bulletin officiel de la propriété industrielle.
-
 
 ##### Article R514-3
 
@@ -12126,9 +12117,17 @@ Si la décision judiciaire est rendue en faveur de la personne qui a intenté l'
 
 La procédure de délivrance du brevet est suspendue à la requête écrite de toute personne qui apporte la justification qu'elle a intenté auprès du tribunal de grande instance une action en revendication de la propriété de la demande de brevet.
 
-La suspension de la procédure prend effet du jour où la justification est apportée et s'applique notamment au délai prévu au premier alinéa de l'article L. 612-15 ; toutefois, elle ne fait pas obstacle à l'application de l'article R. 612-39.
+
+
+La suspension de la procédure prend effet du jour où la justification est apportée ; toutefois, elle ne fait pas obstacle à l'application de l'article R. 612-39.
+
+
+
+
 
 La procédure de délivrance du brevet est reprise dès que la décision du tribunal est passée en force de chose jugée ; elle peut également être reprise à tout moment sur le consentement écrit de la personne qui a intenté l'action en revendication de propriété de la demande de brevet ; ce consentement est irrévocable.
+
+
 
 La suspension et la reprise de la procédure sont inscrites au Registre national des brevets.
 
@@ -12180,8 +12179,12 @@ La demande de brevet ne doit pas contenir :
 ##### Article R612-5
 
 La demande de brevet doit, dans le mois à compter de la remise des pièces, être suivie du paiement :
+
+
 1. De la redevance de dépôt ;
-2. De la redevance de rapport de recherche, à moins que l'établissement de ce dernier n'ait été différé.
+
+
+2. De la redevance de rapport de recherche.
 
 
 ##### Article R612-6
@@ -12196,18 +12199,27 @@ Dans les quinze jours qui suivent la remise ou l'arrivée des pièces à l'Insti
 
 ##### Article R612-8
 
-Le bénéfice de la date de dépôt de la demande de brevet est acquis à la date de la remise d'au moins un exemplaire des pièces énumérées à l'article L. 612-2, rédigées en langue française, sauf exception prévue à l'article R. 612-21. Le bénéfice de la date de dépôt est acquis même si ces pièces sont irrégulières en la forme.
+Le bénéfice de la date de dépôt de la demande de brevet est acquis à la date de la remise d'au moins un exemplaire des pièces énumérées à l'article L. 612-2, rédigées en langue française, sous réserve des dispositions de l'article R. 612-21.
 
-Lorsque l'une des pièces mentionnées à l'alinéa précédent fait défaut, invitation est faite au demandeur d'avoir à compléter la demande de brevet dans le délai d'un mois.
+
+
+Lorsque l'une des pièces mentionnées à l'alinéa précédent fait défaut, invitation est faite au demandeur d'avoir à compléter la demande de brevet dans le délai de deux mois.
+
+
 
 Si le demandeur défère à cette invitation, la date de dépôt est celle à laquelle la demande a été complétée ; cette date est notifiée au demandeur. Dans le cas contraire, la demande est déclarée irrecevable ; les pièces remises sont renvoyées au demandeur et les redevances éventuellement acquittées lui sont remboursées.
+
+Un renvoi à une demande déposée antérieurement effectué conformément au c de l'article L. 612-2 doit indiquer la date de dépôt, le numéro de cette demande et l'office auprès duquel elle a été déposée. Un tel renvoi doit préciser qu'il remplace la description et, le cas échéant, les dessins.
+
+Si la demande contient un renvoi conformément à l'alinéa précédent, une copie de la demande déposée antérieurement, accompagnée, le cas échéant, de sa traduction en langue française doit être produite dans un délai de deux mois à compter du dépôt de la demande.
 
 
 ##### Article R612-9
 
-Si les dessins sont remis après la date de dépôt visée à l'article précédent, le demandeur est informé que les dessins et les références faites aux dessins dans la demande de brevet sont supprimés à moins qu'il ne présente, dans le délai d'un mois, une requête tendant à l'obtention d'un brevet prenant date au jour de la remise des dessins.
-
-Si les dessins n'ont pas été remis, le demandeur est invité à réparer l'omission dans un délai d'un mois ; il est informé que la demande de brevet prendra date au jour de la remise des dessins et qu'à défaut les références faites à ces derniers sont supprimées.
+1.S'il est constaté que des parties de la description, ou des dessins auxquels il est fait référence dans la description ou les revendications, ne semblent pas figurer dans la demande, le demandeur est invité à produire les parties manquantes dans le délai de deux mois.
+2. Si les parties manquantes de la description ou les dessins manquants sont remis dans le délai de deux mois après la date de dépôt ou, lorsqu'une invitation est émise conformément au paragraphe 1, dans le délai de deux mois à compter de cette invitation, le demandeur est informé que la date de dépôt de la demande est celle à laquelle les parties manquantes de la description ou les dessins manquants ont été déposés, à moins que les parties manquantes de la description ou les dessins manquants ne soient retirés dans un délai d'un mois à compter de la date de leur dépôt.
+3. Si les parties manquantes de la description ou les dessins manquants sont remis dans le délai prévu au 2°, et si la demande revendique la priorité d'une demande antérieure, la date de dépôt reste la date à laquelle il a été satisfait aux exigences de l'article L. 612-2, sous réserve que les parties manquantes de la description ou les dessins manquants figurent intégralement dans la demande antérieure et que, dans le délai prévu au 2°, le demandeur en fasse la demande et produise une copie de la demande antérieure, à moins qu'une telle copie ne soit à la disposition de l'Institut national de la propriété industrielle ainsi que, le cas échéant, une traduction en langue française. Le demandeur doit alors indiquer l'endroit où les parties manquantes de la description ou les dessins manquants figurent intégralement dans la demande antérieure et, le cas échéant, dans la traduction de celle-ci.
+4. Si le demandeur ne dépose pas les parties manquantes de la description ou les dessins manquants dans les délais prévus aux 1° et 2°, toute référence faite à ces parties de la description ou ces dessins est supprimée.
 
 Le cas échéant, la nouvelle date de dépôt est notifiée au demandeur.
 
@@ -12225,14 +12237,12 @@ La requête en délivrance est signée du demandeur ou de son mandataire. Y figu
 ##### Article R612-11
 
 La requête en délivrance est complétée, le cas échéant, par les indications relatives :
-1. A l'établissement différé du rapport de recherche ;
-2. Aux facilités demandées pour le paiement de la redevance d'établissement de ce rapport ;
-3. A la réduction du taux des redevances accordée au demandeur ou requise par lui ;
-4. Aux dépôts antérieurs dont les éléments ont été éventuellement repris ;
-5. Aux priorités revendiquées ;
-6. A la présentation de l'invention dans une exposition officielle ou officiellement reconnue.
+1. A la réduction du taux des redevances accordée au demandeur ou requise par lui ;
+2. Aux dépôts antérieurs dont les éléments ont été éventuellement repris ;
+3. Aux priorités revendiquées ;
+4. A la présentation de l'invention dans une exposition officielle ou officiellement reconnue.
 
-En cas de non-respect des dispositions prévues à l'article R. 612-10 (3°), invitation est notifiée au demandeur d'avoir à régulariser sa demande dans un délai de seize mois à compter de la date de dépôt ou de la date la plus ancienne dont bénéficie la demande de brevet ou, si une priorité a été revendiquée, de la date de priorité.
+En cas de non-respect des dispositions prévues au 3° de l'article R. 612-10, invitation est notifiée au demandeur d'avoir à régulariser sa demande dans un délai de seize mois à compter de la date de dépôt ou de la date la plus ancienne dont bénéficie la demande de brevet ou, si une priorité a été revendiquée, de la date de priorité.
 
 
 ##### Article R612-12
@@ -12331,15 +12341,9 @@ Le contenu définitif de l'abrégé est, si nécessaire, mis en forme par l'Inst
 
 ##### Article R612-21
 
-Peuvent être rédigées en langue étrangère les descriptions et revendications contenues dans des demandes déposées :
+Les descriptions et revendications contenues dans les demandes déposées peuvent être rédigées en langue étrangère.
 
-Soit par des personnes physiques ou morales étrangères, à condition que le pays dont ces personnes sont ressortissantes accorde un traitement équivalent aux ressortissants français ;
-
-Soit par des personnes physiques ou morales cessionnaires d'une demande déposée à l'étranger ou d'un droit de priorité sur une telle demande, à la condition que le pays dans lequel la demande initiale a été déposée accorde aux ressortissants français un traitement équivalent.
-
-S'il est usé de cette faculté, une traduction des pièces est fournie par le demandeur dans le délai de trois mois à compter de la date de dépôt de la demande de brevet.
-
-La liste des pays considérés comme accordant un traitement équivalent ainsi que la langue nationale ou l'une de celles des langues nationales dans laquelle les ressortissants de ces pays peuvent faire le dépôt sont arrêtées par le ministre des affaires étrangères et le ministre chargé de la propriété industrielle.
+S'il est usé de cette faculté, le demandeur est invité à fournir une traduction en langue française des pièces dans le délai de deux mois.
 
 
 ##### Article R612-22
@@ -12351,17 +12355,19 @@ L'attestation mentionne la date d'ouverture de l'exposition et, le cas échéant
 
 ##### Article R612-24
 
-La déclaration de priorité prévue à l'article L. 612-7, paragraphe 1, comporte la date du dépôt antérieur, l'Etat dans lequel ou pour lequel il a été effectué, ainsi que le numéro qui lui a été attribué.
+La déclaration de priorité prévue au 1 de l'article L. 612-7 comporte la date du dépôt antérieur, l'Etat dans lequel ou pour lequel il a été effectué, ainsi que le numéro qui lui a été attribué.
 
-La date et l'état du dépôt antérieur sont indiqués lors du dépôt de la demande de brevet, le numéro de dépôt avant l'expiration du seizième mois suivant la date de priorité.
+La déclaration de priorité doit être effectuée lors du dépôt de la demande de brevet ou dans le délai de seize mois à compter de la date de priorité la plus ancienne revendiquée.
 
-La copie de la demande antérieure prévue à l'article L. 612-7, paragraphe 1, est produite avant l'expiration du seizième mois suivant la date de priorité, accompagnée, le cas échéant, de l'autorisation de revendiquer la priorité donnée par écrit par le propriétaire de la demande antérieure.
+Le demandeur peut corriger la déclaration de priorité dans un délai de seize mois à compter de la date de priorité la plus ancienne ou, dans le cas où la correction entraîne une modification de la date de priorité la plus ancienne, dans un délai de seize mois à compter de la date de priorité la plus ancienne corrigée, le délai de seize mois qui expire en premier devant être appliqué, étant entendu que la correction peut être demandée jusqu'à l'expiration d'un délai de quatre mois à compter de la date de dépôt attribuée à la demande de brevet.
 
-Elle est certifiée conforme par l'autorité qui a reçu la demande antérieure et accompagnée d'une attestation de cette autorité indiquant sa date de dépôt.
+Toutefois, une déclaration de priorité ne peut être effectuée ou corrigée après qu'une requête a été présentée en vertu du 1° de l'article L. 612-21.
+
+Conformément au 1 de l'article L. 612-7, le demandeur doit produire, afin de justifier de l'existence de la demande antérieure, une copie de celle-ci avant l'expiration du seizième mois suivant la date de priorité, accompagnée, le cas échéant, de l'autorisation de revendiquer la priorité donnée par écrit par le propriétaire de la demande antérieure.
 
 En cas de non-respect des dispositions prévues aux paragraphes précédents, la revendication du droit de priorité est déclarée irrecevable.
 
-Si la date du dépôt antérieur indiquée précède de plus d'un an la date de dépôt de la demande de brevet, notification est faite au demandeur qu'il n'existe pas de droit de priorité, à moins que dans le délai d'un mois il n'indique une date rectifiée qui se situe dans le délai de priorité.
+Si la date du dépôt antérieur indiquée précède de plus d'un an la date de dépôt de la demande de brevet, notification est faite au demandeur qu'il n'existe pas de droit de priorité, à moins que dans le délai visé aux deuxième et troisième alinéas, il n'indique une date rectifiée qui se situe dans le délai de priorité ou qu'il ne présente un recours en restauration conformément à l'article L. 612-16-1.
 
 Les indications contenues dans la déclaration de priorité sont mentionnées dans la demande de brevet publiée et portées sur le fascicule du brevet.
 
@@ -12560,8 +12566,14 @@ Sous réserve des empêchements résultant de l'application des dispositions des
 ###### Article R612-45
 
 La demande de brevet est rejetée si :
-1. Elle n'a pas été complétée dans les délais prévus aux articles R. 612-11 (2e alinéa), R. 612-21 et R. 612-35 (4e alinéa) ;
+
+
+1. Elle n'a pas été complétée dans les délais prévus aux articles R. 612-8 (cinquième alinéa), R. 612-11 (sixième alinéa), R. 612-21 et R. 612-35 (sixième alinéa) ;
+
+
 2. Les redevances de dépôt et de rapport de recherche visées à l'article R. 612-5 n'ont pas été acquittées dans le délai prescrit.
+
+
 
 La décision de rejet est notifiée au demandeur qui dispose d'un délai de deux mois à compter de la date de réception de la notification pour présenter des observations ou payer les redevances exigibles visées au 2° du présent article en acquittant la redevance correspondante majorée du supplément prescrit. La décision de rejet est définitive si le demandeur n'a, dans le délai prescrit, ni contesté l'irrégularité ou le défaut de paiement ni acquitté la redevance majorée d'un supplément.
 
@@ -12608,9 +12620,13 @@ La demande de brevet est rejetée :
 
 ###### Article R612-50
 
-En cas de non-conformité partielle de la description ou des dessins aux dispositions de l'article L. 611-17 (a) ou L. 612-1, notification en est faite au demandeur.
+En cas de non-conformité partielle de la description ou des dessins aux dispositions des articles L. 611-17, L. 611-18, L. 611-19 (4°) ou L. 612-1, notification en est faite au demandeur.
+
+
 
 La notification précise les suppressions envisagées ainsi que le délai imparti au demandeur pour présenter des observations.
+
+
 
 Si le demandeur n'a pas présenté d'observations dans le délai imparti ou si ces observations ne sont pas retenues, les suppressions sont effectuées d'office.
 
@@ -12631,34 +12647,9 @@ Si une demande de brevet est rejetée ou susceptible de l'être en raison de l'i
 
 ###### Sous-section 5 : Etablissement du rapport de recherche
 
-###### Article R612-53
-
-La procédure d'établissement du rapport de recherche ne peut être différée, conformément aux dispositions de l'article L. 612-15, que si la requête en est présentée au moment du dépôt de la demande. Le paiement de la redevance de rapport de recherche vaut renonciation à cette requête.
-
-Lorsqu'une demande de brevet bénéficie de plusieurs dates conformément aux dispositions de l'article L. 612-3, le délai de dix-huit mois pendant lequel l'établissement du rapport de recherche peut être différé court à compter de la date la plus ancienne.
-
-
-###### Article R612-54
-
-La requête présentée par tout tiers et tendant à engager la procédure d'établissement du rapport de recherche est formulée par écrit. Elle n'est recevable que si elle est accompagnée de la justification du paiement de la redevance prescrite.
-
-Dès que la requête a été reçue, notification en est faite au demandeur. Si, dans le délai de trois mois à compter de la date de réception de cette notification, le demandeur a effectué le retrait de la demande de brevet ou sa transformation en demande de certificat d'utilité conformément aux dispositions de l'article R. 612-55, la procédure d'établissement du rapport de recherche n'est pas engagée et la redevance prescrite est remboursée à la personne qui a présenté la requête mentionnée au premier alinéa.
-
-A l'expiration du délai fixé à l'alinéa précédent, la procédure d'établissement du rapport de recherche est engagée. Dès que le rapport de recherche préliminaire prévu à l'article R. 612-57 est établi, il est notifié au tiers requérant en même temps qu'au demandeur.
-
-
 ###### Article R612-55
 
-La requête en transformation de la demande de brevet en demande de certificat d'utilité est formulée par écrit à tout moment pendant le délai fixé à l'article L. 612-15, même si le demandeur n'a pas requis le bénéfice des dispositions de cet article ou si un tiers a requis l'application de l'article R. 612-54.
-
-
-###### Article R612-56
-
-La transformation d'office prévue au deuxième alinéa de l'article L. 612-15 est notifiée au demandeur, qui dispose d'un délai de deux mois à compter de la date de réception de la notification pour présenter des observations ou requérir l'établissement du rapport de recherche en acquittant la redevance prescrite majorée du supplément pour requête tardive.
-
-En cas d'absence d'observations dans le délai, la transformation d'office est maintenue.
-
-Si les observations présentées ne sont pas retenues ou si le rapport de recherche n'a pas été valablement requis, la transformation d'office est confirmée et une nouvelle notification motivée est adressée au demandeur.
+La requête en transformation de la demande de brevet en demande de certificat d'utilité est formulée par écrit à tout moment pendant le délai de dix-huit mois à compter du dépôt ou de la date de priorité si une priorité a été revendiquée.
 
 
 ###### Article R612-56-1
@@ -12974,7 +12965,9 @@ Si une expertise est ordonnée, elle ne peut être effectuée que par des person
 
 ###### Article R613-43
 
-Les notifications et communications au propriétaire du brevet ou de la demande de brevet prévues par les dispositions des articles R. 613-10 à R. 613-42 sont valablement faites à l'adresse indiquée dans la demande de brevet ou à la dernière adresse que le propriétaire du brevet a notifiée à l'administration, soit à celle de son représentant en France. Est considéré comme tel le mandataire désigné par le demandeur du brevet au moment du dépôt de sa demande, à moins que la désignation d'un autre mandataire n'ait été notifiée à l'administration.
+Les notifications et communications au propriétaire du brevet ou de la demande de brevet prévues par les dispositions des articles R. 613-10 à R. 613-42 sont valablement faites à l'adresse indiquée dans la demande de brevet ou à la dernière adresse que le propriétaire du brevet a notifiée à l'administration, soit à celle de son représentant ayant son domicile, son siège ou un établissement dans un Etat membre de la Communauté européenne ou dans un Etat partie à l'accord sur l'Espace économique européen. Est considéré comme tel le mandataire désigné par le demandeur du brevet au moment du dépôt de sa demande, à moins que la désignation d'un autre mandataire n'ait été notifiée à l'administration.
+
+
 
 Toutes les notifications et communications adressées au propriétaire du brevet ou de la demande de brevet, à ses ayants cause ou aux demandeurs ou bénéficiaires de licences d'office en application des dispositions prévues aux articles R. 613-10 à R. 613-42 sont obligatoirement faites par lettre recommandée avec demande d'avis de réception.
 
@@ -12988,17 +12981,20 @@ Les dispositions prévues aux articles R. 613-4 à R. 613-43 et R. 613-51 s'appl
 
 ##### Article R613-45
 
-La renonciation au brevet ou à une ou plusieurs de ses revendications est faite par une déclaration écrite.
+La requête en renonciation ou en limitation est faite par une déclaration écrite.
 
-Cette déclaration ne peut viser qu'un seul brevet. Elle est formulée par le propriétaire du brevet ou par un mandataire, lequel, sauf s'il a la qualité de conseil en propriété industrielle ou d'avocat, doit joindre à la déclaration un pouvoir spécial de renonciation.
+La requête doit, pour être recevable :
+1. Emaner du titulaire du brevet inscrit, au jour de la requête, sur le registre national des brevets, ou de son mandataire, lequel, sauf s'il a la qualité de conseil en propriété industrielle ou d'avocat, doit joindre à la requête un pouvoir spécial de renonciation ou de limitation.
 
-Si le brevet appartient à plusieurs personnes, la renonciation ne peut être effectuée que si elle est requise par l'ensemble de celles-ci.
+Si le brevet appartient à plusieurs personnes, la renonciation ou la limitation ne peut être effectuée que si elle est requise par l'ensemble de celles-ci ;
+2. Etre accompagnée de la justification du paiement de la redevance prescrite ;
+3. Ne viser qu'un seul brevet ;
+4. Etre accompagnée, si des droits réels, de gage ou de licence ont été inscrits au registre national des brevets, du consentement des titulaires de ces droits ;
+5. Etre accompagnée, lorsque la limitation est requise, du texte complet des revendications modifiées et, le cas échéant, de la description et des dessins tels que modifiés.
 
-Si des droits réels, de gage ou de licence, ont été inscrits au Registre national des brevets, la déclaration de renonciation n'est recevable que si elle est accompagnée du consentement des titulaires de ces droits.
+Si, lorsque la limitation est demandée, les revendications modifiées ne constituent pas une limitation par rapport aux revendications antérieures du brevet ou si elles ne sont pas conformes aux dispositions de l'article L. 612-6, notification motivée en est faite au demandeur. Un délai lui est imparti pour régulariser sa requête ou présenter des observations. A défaut de régularisation ou d'observations permettant de lever l'objection, la requête est rejetée par décision du directeur général de l'Institut national de la propriété industrielle.
 
-La renonciation est inscrite au Registre national des brevets. Elle prend effet à la date de cette inscription.
-
-Un avis d'inscription est adressé à l'auteur de la renonciation.
+Les renonciations et limitations sont inscrites au registre national des brevets. Un avis d'inscription est adressé à l'auteur de la renonciation ou de la limitation.
 
 
 ##### Article R613-46
@@ -13028,7 +13024,9 @@ L'absence d'avertissement n'engage pas la responsabilité de l'Institut national
 
 ##### Article R613-49
 
-La requête prévue à l'article L. 613-22-1, tendant à la constatation de la déchéance des droits attachés à une demande de brevet ou à un brevet, est présentée par écrit.
+La requête prévue à l'article L. 613-22, tendant à la constatation de la déchéance des droits attachés à une demande de brevet ou à un brevet, est présentée par écrit.
+
+
 
 Il y est statué par décision motivée. La décision est notifiée au requérant.
 
@@ -13037,9 +13035,15 @@ Il y est statué par décision motivée. La décision est notifiée au requéran
 
 Sont inscrites au Registre national des brevets :
 
-La mention de la décision de constatation de déchéance prévue au 1 de l'article L. 613-22 ;
+
+
+La mention de la décision de constatation de déchéance prévue à l'article L. 613-22 ;
+
+
 
 Les requêtes introductives des recours en restauration, des recours contre les décisions du directeur de l'institut et des pourvois en cassation, ainsi que les décisions rendues.
+
+
 
 La décision qui restaure le breveté dans ses droits est sans effet si les redevances échues ne sont pas acquittées dans un délai de trois mois à compter de l'inscription de la décision au Registre national des brevets. Mention de la date du paiement est portée au registre.
 
@@ -13055,11 +13059,17 @@ Le délai prévu à l'alinéa 2 de l'article L. 613-21 est de quinze jours à co
 
 ##### Article R613-52
 
-Les recours en restauration prévus aux articles L. 612-16 et L. 613-22 sont présentés au directeur général de l'institut par le titulaire du dépôt, qui doit être le titulaire inscrit au registre national des brevets si le dépôt est publié, ou son mandataire.
+Les recours en restauration prévus aux articles L. 612-16 et L. 612-16-1 sont présentés au directeur général de l'institut par le titulaire du dépôt, qui doit être le titulaire inscrit au registre national des brevets si le dépôt est publié, ou son mandataire.
+
+
 
 Le recours n'est recevable qu'après paiement de la redevance prescrite.
 
+
+
 Le recours est écrit. Il indique les faits et justifications invoqués à son appui.
+
+
 
 La décision motivée est notifiée au requérant.
 
@@ -13579,7 +13589,7 @@ La requête n'est recevable que si elle est accompagnée de la justification du 
 
 #### Article R616-3
 
-Les dispositions des chapitres Ier, II, III, V, VI et VIII du présent titre sont applicables aux demandes de certificat d'utilité et aux certificats d'utilité, à l'exception des articles R. 612-53 à R. 612-69, du troisième alinéa de l'article R. 612-71, des articles R. 613-1 à R. 613-3 et R. 613-60 à R. 613-62.
+Les dispositions des chapitres Ier, II, III, V, VI et VIII du présent titre sont applicables aux demandes de certificat d'utilité et aux certificats d'utilité, à l'exception des articles R. 612-53 à R. 612-69, du troisième alinéa de l'article R. 612-71 et des articles R. 613-60 à R. 613-62.
 
 
 #### Chapitre VII : Le certificat complémentaire de protection
@@ -13591,7 +13601,9 @@ La redevance de dépôt d'un certificat complémentaire de protection ne couvre 
 
 #### Article R617-2
 
-Les articles R. 611-18 à R. 611-20, R. 612-1, R. 612-2, R. 612-5 (1°), R. 612-6, R. 612-7, R. 612-36, R. 612-38, R. 612-52, R. 612-71 (alinéas 1 et 2), R. 612-72, R. 613-1 à R. 613-3, R. 613-45 à R. 613-59 et R. 618-1 à R. 618-3 sont applicables aux demandes de certificat complémentaire de protection et aux certificats complémentaires de protection.
+Les articles R. 611-18 à R. 611-20, R. 612-1, R. 612-2,
+
+R. 612-5 (1°), R. 612-6, R. 612-7, R. 612-36, R. 612-38, R. 612-52, R. 612-71 (alinéas 1 et 2), R. 612-72, R. 613-45 à R. 613-59 et R. 618-1 à R. 618-3 sont applicables aux demandes de certificat complémentaire de protection et aux certificats complémentaires de protection.
 
 
 #### Chapitre VIII : Dispositions communes
@@ -13624,17 +13636,21 @@ Si l'adresse du destinataire est inconnue, la notification est faite par publica
 
 Lorsqu'un délai est exprimé en jours, celui de l'acte, de l'événement, de la décision ou de la notification qui le fait courir ne compte pas.
 
+
+
 Lorsqu'un délai est exprimé en mois ou en années, ce délai expire le jour du dernier mois ou de la dernière année qui porte le même quantième que le jour de l'acte, de l'événement, de la décision ou de la notification qui fait courir le délai. A défaut de quantième identique, le délai expire le dernier jour du mois.
+
+
 
 Lorsqu'un délai est exprimé en mois et en jours, les mois sont d'abord décomptés puis les jours.
 
+
+
 Tout délai expire le dernier jour à vingt-quatre heures.
 
+
+
 Le délai qui expirerait normalement un samedi, un dimanche ou un jour férié ou chômé est prorogé jusqu'au premier jour ouvrable suivant.
-
-Le délai qui expirerait normalement un jour où l'une des délégations régionales de l'Institut national de la propriété industrielle n'est pas ouverte est prorogé jusqu'au premier jour où toutes les délégations régionales de l'institut sont ouvertes.
-
-La liste des jours mentionnés à l'alinéa précédent est établie chaque année par décision du directeur général de l'Institut national de la propriété industrielle. Elle est publiée au Bulletin officiel de la propriété industrielle.
 
 
 ##### Article R618-4
@@ -14198,47 +14214,6 @@ Le droit de l'obtenteur porte sur tous les éléments de reproduction ou de mult
 ##### Article R623-58
 
 Toute personne qui, à l'occasion de tous actes de cession, de concession ou de commercialisation des variétés visées aux articles précédents, désire user de la faculté qui lui est offerte par l'article L. 623-15 d'adjoindre à la dénomination variétale une marque de commerce ou de fabrique, que cette marque lui soit propre ou qu'elle lui soit concédée, doit prendre les précautions nécessaires notamment dans la correspondance, dans la publicité, dans l'établissement des catalogues commerciaux, sur les emballages ou étiquettes, afin que cette dénomination soit suffisamment apparente dans son contexte pour qu'aucune confusion ne soit susceptible de s'établir dans l'esprit de l'acheteur sur l'identité de la variété.
-
-
-#### Chapitre IV : Transferts techniques internationaux
-
-#### Article R624-1
-
-Tout contrat ou avenant de contrat ayant pour objet l'acquisition par une personne physique ou morale dont le domicile ou le siège est situé en France, à une personne physique ou morale dont le domicile ou le siège est situé à l'étranger, de droits de propriété industrielle et de tous éléments intellectuels relevant de l'acte scientifique et technique sous toutes ses formes, notamment le savoir-faire et l'ingénierie, est soumis à déclaration auprès de l'Institut national de la propriété industrielle.
-
-Tout contrat ou avenant de contrat ayant pour objet la cession, par une personne physique ou morale dont le domicile ou le siège est situé en France à une personne physique ou morale dont le domicile ou le siège est situé à l'étranger, de droits de propriété industrielle et de tous les éléments intellectuels relevant de l'aide scientifique ou technique sous toutes ses formes, notamment le savoir-faire et l'ingénierie, est soumis à déclaration auprès de l'Institut national de la propriété industrielle.
-
-
-#### Article R624-2
-
-La déclaration visée à l'article R. 624-1 doit être faite obligatoirement par le contractant dont le domicile ou le siège est situé en France un mois au plus tard après la conclusion du contrat.
-
-
-#### Article R624-3
-
-Pour chacun des contrats visés à l'article R. 624-1 et pour chacun de ceux conclus antérieurement au 1er juin 1970 et ayant l'un des objets visés à l'article R. 624-1, le contractant dont le domicile ou le siège est situé en France doit établir obligatoirement au début de chaque année :
-- d'une part, un relevé des montants des transferts financiers à l'étranger ou en provenance de l'étranger effectués au cours de l'année précédente en exécution du contrat ;
-- d'autre part, un relevé des montants des apports ou échanges portant sur des droits ou connaissances effectués par voie de compensation et ne donnant lieu à aucun transfert financier effectif par la voie bancaire (ou postale) vers l'étranger ou en provenance de l'étranger, ces montants étant, le cas échéant, évalués par le déclarant.
-
-
-#### Article R624-4
-
-Les relevés annuels visés à l'article R. 624-3 doivent être adressés par le contractant dont le domicile ou le siège est situé en France à l'Institut national de la propriété industrielle avant le 31 mars de chaque année.
-
-
-#### Article R624-5
-
-Les renseignements et les documents qui sont fournis à l'administration en application du présent chapitre ont, au regard des tiers, le caractère confidentiel.
-
-
-#### Article R624-6
-
-Pour l'application du présent chapitre, les personnes physiques ou morales dont le domicile ou le siège est situé dans les territoires français d'outre-mer ou dans la Principauté de Monaco sont assimilées aux personnes physiques ou morales dont le domicile ou le siège est fixé en France.
-
-
-#### Article R624-7
-
-Un arrêté conjoint du ministre de l'économie et des finances et du ministre chargé de la propriété industrielle fixe les modalités d'application du présent chapitre.
 
 
 ### Titre III : Tribunaux compétents en matière d'actions relatives aux inventions et aux connaissances techniques
