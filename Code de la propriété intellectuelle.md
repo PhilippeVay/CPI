@@ -1,7 +1,7 @@
 Code de la propriété intellectuelle
 
-- Date de consolidation : 1er janvier 2009
-- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006069414&dateTexte=20090101)
+- Date de consolidation : 24 janvier 2009
+- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006069414&dateTexte=20090124)
 
 
 # Partie législative
@@ -1413,7 +1413,7 @@ Elle adresse au ministre chargé de la culture, à la demande de celui-ci, tout 
 
 Le ministre chargé de la culture ou son représentant peut recueillir, sur pièces et sur place, les renseignements mentionnés au présent article.
 
-Les règles comptables communes aux sociétés de perception et de répartition des droits sont établies dans les conditions fixées par le Comité de la réglementation comptable.
+Les règles comptables communes aux sociétés de perception et de répartition des droits sont établies dans les conditions fixées par l'Autorité des normes comptables.
 
 
 ##### Article L321-13
