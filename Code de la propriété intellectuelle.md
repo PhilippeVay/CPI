@@ -1,7 +1,7 @@
 Code de la propriété intellectuelle
 
-- Date de consolidation : 24 janvier 2009
-- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006069414&dateTexte=20090124)
+- Date de consolidation : 14 mai 2009
+- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006069414&dateTexte=20090514)
 
 
 # Partie législative
@@ -1865,9 +1865,7 @@ Elle peut également ordonner, aux frais du condamné, l'affichage du jugement o
 
 ##### Article L335-8
 
-Les personnes morales déclarées pénalement responsables, dans les conditions prévues par l'article 121-2 du code pénal, de l'une des infractions prévues aux articles L. 335-2 à L. 335-4-2 du présent code encourent :
-1. L'amende, suivant les modalités prévues par l'article 131-38 du code pénal ;
-2. Les peines mentionnées à l'article 131-39 du même code.
+Les personnes morales déclarées responsables pénalement, dans les conditions prévues par l'article 121-2 du code pénal, des infractions définies aux articles L. 335-2 à L. 335-4-2 encourent, outre l'amende suivant les modalités prévues par l'article 131-38 du code pénal, les peines prévues par l'article 131-39 du même code.
 
 L'interdiction mentionnée au 2° de l'article 131-39 du même code porte sur l'activité dans l'exercice ou à l'occasion de l'exercice de laquelle l'infraction a été commise.
 
@@ -1878,7 +1876,7 @@ La juridiction peut ordonner la destruction aux frais du condamné ou la remise 
 
 ##### Article L335-9
 
-En cas de récidive des délits prévus et réprimés au présent chapitre ou si le délinquant est ou a été lié par convention avec la partie lésée, les peines encourues sont portées au double.
+Si l'auteur de l'un des délits prévus et réprimés par le présent chapitre est ou a été lié par convention avec la partie lésée, les peines encourues sont portées au double.
 
 
 ##### Article L335-10
@@ -2049,9 +2047,7 @@ Elle peut également ordonner, aux frais du condamné, l'affichage ou la diffusi
 
 ##### Article L343-6
 
-Les personnes morales déclarées pénalement responsables dans les conditions prévues par l'article 121-2 du code pénal des délits prévus et réprimés au présent chapitre encourent :
-1. L'amende, suivant les modalités prévues par l'article 131-38 du code pénal ;
-2. Les peines mentionnées à l'article 131-39 du même code.
+Les personnes morales déclarées responsables pénalement, dans les conditions prévues par l'article 121-2 du code pénal, des infractions définies au présent chapitre encourent, outre l'amende suivant les modalités prévues par l'article 131-38 du code pénal, les peines prévues par l'article 131-39 du même code.
 
 L'interdiction mentionnée au 2° de l'article 131-39 du même code porte sur l'activité dans l'exercice ou à l'occasion de l'exercice de laquelle l'infraction a été commise.
 
@@ -2640,9 +2636,7 @@ Elle peut également ordonner, aux frais du condamné, l'affichage du jugement o
 
 ##### Article L521-12
 
-Les personnes morales déclarées pénalement responsables, dans les conditions prévues par l'article 121-2 du code pénal, du délit prévu au premier alinéa de l'article L. 521-10 du présent code encourent :
-1. L'amende, suivant les modalités prévues par l'article 131-38 du code pénal ;
-2. Les peines mentionnées à l'article 131-39 du même code.
+Les personnes morales déclarées responsables pénalement, dans les conditions prévues par l'article 121-2 du code pénal, de l'infraction définie au premier alinéa de l'article L. 521-10 encourent, outre l'amende suivant les modalités prévues par l'article 131-38 du code pénal, les peines prévues par l'article 131-39 du même code.
 
 L'interdiction mentionnée au 2° de l'article 131-39 du même code porte sur l'activité dans l'exercice ou à l'occasion de l'exercice de laquelle l'infraction a été commise.
 
@@ -3904,7 +3898,7 @@ Les dispositions de l'article L. 615-4 ne sont pas applicables aux demandes de b
 
 ###### Article L615-12
 
-Quiconque se prévaut indûment de la qualité de propriétaire d'un brevet ou d'une demande de brevet est puni d'une amende de 7 500 euros. En cas de récidive, l'amende peut être portée au double. Il y a récidive au sens du présent article lorsqu'il a été rendu contre le prévenu dans les cinq années antérieure une condamnation pour le même délit.
+Quiconque se prévaut indûment de la qualité de propriétaire d'un brevet ou d'une demande de brevet est puni d'une amende de 7 500 euros.
 
 
 ###### Article L615-13
@@ -3938,9 +3932,7 @@ Elle peut également ordonner, aux frais du condamné, l'affichage du jugement o
 
 ###### Article L615-14-3
 
-Les personnes morales déclarées pénalement responsables dans les conditions prévues par l'article 121-2 du code pénal du délit prévu à l'article L. 615-14 du présent code encourent :
-1. L'amende, suivant les modalités prévues par l'article 131-38 du code pénal ;
-2. Les peines mentionnées à l'article 131-39 du même code.
+Les personnes morales déclarées responsables pénalement, dans les conditions prévues par l'article 121-2 du code pénal, de l'infraction définie à l'article L. 615-14 encourent, outre l'amende suivant les modalités prévues par l'article 131-38 du code pénal, les peines prévues par l'article 131-39 du même code.
 
 L'interdiction mentionnée au 2° de l'article 131-39 du même code porte sur l'activité dans l'exercice ou à l'occasion de l'exercice de laquelle l'infraction a été commise.
 
@@ -4429,9 +4421,7 @@ Elle peut également ordonner, aux frais du condamné, l'affichage du jugement o
 
 ###### Article L623-32-2
 
-Les personnes morales déclarées pénalement responsables dans les conditions prévues par l'article 121-2 du code pénal du délit prévu à l'article L. 623-32 du présent code encourent :
-1. L'amende, suivant les modalités prévues par l'article 131-38 du code pénal ;
-2. Les peines mentionnées à l'article 131-39 du même code.
+Les personnes morales déclarées responsables pénalement, dans les conditions prévues par l'article 121-2 du code pénal, de l'infraction définie à l'article L. 623-32 encourent, outre l'amende suivant les modalités prévues par l'article 131-38 du code pénal, les peines prévues par l'article 131-39 du même code.
 
 L'interdiction mentionnée au 2° de l'article 131-39 du même code porte sur l'activité dans l'exercice ou à l'occasion de l'exercice de laquelle l'infraction a été commise.
 
@@ -4445,11 +4435,6 @@ La juridiction peut ordonner la destruction aux frais du condamné ou la remise 
 L'action publique pour l'application des peines prévues au précédent article ne peut être exercée par le ministère public que sur plainte de la partie lésée.
 
 Le tribunal correctionnel saisi ne peut statuer qu'après que la juridiction civile a constaté la réalité du délit par une décision passée en force de chose jugée. Les exceptions tirées par le défenseur de nullité du certificat d'obtention ou des questions relatives à la propriété dudit certificat ne peuvent être soulevées que devant la juridiction civile.
-
-
-###### Article L623-34
-
-Quiconque se prévaut indûment de la qualité de propriétaire d'un certificat ou d'une demande de certificat d'obtention végétale est puni d'une amende prévue par le 5° de l'article 131-13 du code pénal pour les contraventions de la 5e classe [*sanctions pénales*]. En cas de récidive, l'amende est celle prévue par le 5° de l'article 131-13 du code pénal pour les contraventions de la 5e classe commises en récidive. Il y a récidive au sens du présent article lorsqu'il a été rendu contre le prévenu, dans les cinq années antérieures, une condamnation pour le même délit.
 
 
 ###### Article L623-35
@@ -4995,9 +4980,7 @@ La fermeture temporaire ne peut entraîner ni rupture, ni suspension du contrat 
 
 ##### Article L716-11-2
 
-Les personnes morales déclarées pénalement responsables dans les conditions prévues par l'article 121-2 du code pénal des infractions définies aux articles L. 716-9 à L. 716-11 du présent code encourent :
-1. L'amende, suivant les modalités prévues par l'article 131-38 du code pénal ;
-2. Les peines mentionnées à l'article 131-39 du même code.
+Les personnes morales déclarées responsables pénalement, dans les conditions prévues par l'article 121-2 du code pénal, des infractions définies aux articles L. 716-9 à L. 716-11 encourent, outre l'amende suivant les modalités prévues par l'article 131-38 du code pénal, les peines prévues par l'article 131-39 du même code.
 
 L'interdiction mentionnée au 2° de l'article 131-39 du même code porte sur l'activité dans l'exercice ou à l'occasion de l'exercice de laquelle l'infraction a été commise.
 
