@@ -1,7 +1,7 @@
 Code de la propriété intellectuelle
 
-- Date de consolidation : 11 juin 2009
-- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006069414&dateTexte=20090611)
+- Date de consolidation : 14 juin 2009
+- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006069414&dateTexte=20090614)
 
 
 # Partie législative
@@ -247,7 +247,11 @@ L'agent ne peut :
 
 L'auteur seul a le droit de réunir ses articles et ses discours en recueil et de les publier ou d'en autoriser la publication sous cette forme.
 
-Pour toutes les oeuvres publiées ainsi dans un journal ou recueil périodique, l'auteur conserve, sauf stipulation contraire, le droit de les faire reproduire et de les exploiter, sous quelque forme que ce soit, pourvu que cette reproduction ou cette exploitation ne soit pas de nature à faire concurrence à ce journal ou à ce recueil périodique.
+
+
+Pour toutes les œuvres publiées dans un titre de presse au sens de l'article L. 132-35, l'auteur conserve, sauf stipulation contraire, le droit de faire reproduire et d'exploiter ses œuvres sous quelque forme que ce soit, sous réserve des droits cédés dans les conditions prévues à la section 6 du chapitre II du titre III du livre Ier.
+
+Dans tous les cas, l'exercice par l'auteur de son droit suppose que cette reproduction ou cette exploitation ne soit pas de nature à faire concurrence à ce titre de presse.
 
 
 ##### Article L121-9
@@ -334,7 +338,7 @@ e) La représentation ou la reproduction d'extraits d'oeuvres, sous réserve des
 Les personnes morales et établissements mentionnés au premier alinéa du présent 7° doivent apporter la preuve de leur activité professionnelle effective de conception, de réalisation et de communication de supports au bénéfice des personnes physiques mentionnées au même alinéa par référence à leur objet social, à l'importance de leurs membres ou usagers, aux moyens matériels et humains dont ils disposent et aux services qu'ils rendent.
 
 A la demande des personnes morales et des établissements mentionnés au premier alinéa du présent 7°, formulée dans les deux ans suivant le dépôt légal des oeuvres imprimées, les fichiers numériques ayant servi à l'édition de ces oeuvres sont déposés au Centre national du livre ou auprès d'un organisme désigné par décret qui les met à leur disposition dans un standard ouvert au sens de l'article 4 de la loi n° 2004-575 du 21 juin 2004 pour la confiance dans l'économie numérique. Le Centre national du livre ou l'organisme désigné par décret garantit la confidentialité de ces fichiers et la sécurisation de leur accès ;
-8. La reproduction d'une oeuvre, effectuée à des fins de conservation ou destinée à préserver les conditions de sa consultation sur place par des bibliothèques accessibles au public, par des musées ou par des services d'archives, sous réserve que ceux-ci ne recherchent aucun avantage économique ou commercial ;
+8. La reproduction d'une œuvre et sa représentation effectuées à des fins de conservation ou destinées à préserver les conditions de sa consultation à des fins de recherche ou d'études privées par des particuliers, dans les locaux de l'établissement et sur des terminaux dédiés par des bibliothèques accessibles au public, par des musées ou par des services d'archives, sous réserve que ceux-ci ne recherchent aucun avantage économique ou commercial ;
 9. La reproduction ou la représentation, intégrale ou partielle, d'une oeuvre d'art graphique, plastique ou architecturale, par voie de presse écrite, audiovisuelle ou en ligne, dans un but exclusif d'information immédiate et en relation directe avec cette dernière, sous réserve d'indiquer clairement le nom de l'auteur.
 
 Le premier alinéa du présent 9° ne s'applique pas aux oeuvres, notamment photographiques ou d'illustration, qui visent elles-mêmes à rendre compte de l'information.
@@ -621,7 +625,7 @@ En vue du paiement des redevances et rémunérations qui leur sont dues pour les
 
 ##### Article L131-9
 
-Le contrat mentionne la faculté pour le producteur de recourir aux mesures techniques prévues à l'article L. 331-5 ainsi qu'aux informations sous forme électronique prévues à l'article L. 331-22 en précisant les objectifs poursuivis pour chaque mode d'exploitation, de même que les conditions dans lesquelles l'auteur peut avoir accès aux caractéristiques essentielles desdites mesures techniques ou informations sous forme électronique auxquelles le producteur a effectivement recours pour assurer l'exploitation de l'oeuvre.
+Le contrat mentionne la faculté pour le producteur de recourir aux mesures techniques prévues à l'article L. 331-5 ainsi qu'aux informations sous forme électronique prévues à l'article L. 331-11 en précisant les objectifs poursuivis pour chaque mode d'exploitation, de même que les conditions dans lesquelles l'auteur peut avoir accès aux caractéristiques essentielles desdites mesures techniques ou informations sous forme électronique auxquelles le producteur a effectivement recours pour assurer l'exploitation de l'oeuvre.
 
 
 ##### Chapitre II : Dispositions particulières à certains contrats
@@ -890,6 +894,8 @@ L'auteur garantit au producteur l'exercice paisible des droits cédés.
 
 Le producteur est tenu d'assurer à l'oeuvre audiovisuelle une exploitation conforme aux usages de la profession.
 
+Les organisations représentatives des producteurs, les organisations professionnelles d'auteurs et les sociétés de perception et de répartition des droits mentionnées au titre II du livre III peuvent établir conjointement un recueil des usages de la profession.
+
 
 ###### Article L132-28
 
@@ -960,6 +966,95 @@ Le rang des inscriptions est déterminé par l'ordre dans lequel elles sont requ
 Les inscriptions de nantissement sont, sauf renouvellement préalable, périmées à l'expiration d'une durée de cinq ans.
 
 Un décret en Conseil d'Etat fixera les conditions d'application du présent article.
+
+
+###### Section 6 : Droit d'exploitation des œuvres des journalistes
+
+###### Article L132-35
+
+On entend par titre de presse, au sens de la présente section, l'organe de presse à l'élaboration duquel le journaliste professionnel a contribué, ainsi que l'ensemble des déclinaisons du titre, quels qu'en soient le support, les modes de diffusion et de consultation. Sont exclus les services de communication audiovisuelle au sens de l'article 2 de la loi n° 86-1067 du 30 septembre 1986 relative à la liberté de communication.
+
+Est assimilée à la publication dans le titre de presse la diffusion de tout ou partie de son contenu par un service de communication au public en ligne ou par tout autre service, édité par un tiers, dès lors que cette diffusion est faite sous le contrôle éditorial du directeur de la publication dont le contenu diffusé est issu ou dès lors qu'elle figure dans un espace dédié au titre de presse dont le contenu diffusé est extrait.
+
+Est également assimilée à la publication dans le titre de presse la diffusion de tout ou partie de son contenu par un service de communication au public en ligne édité par l'entreprise de presse ou par le groupe auquel elle appartient ou édité sous leur responsabilité, la mention dudit titre de presse devant impérativement figurer.
+
+
+###### Article L132-36
+
+Sous réserve des dispositions de l'article L. 121-8, la convention liant un journaliste professionnel ou assimilé au sens des articles L. 7111-3 et suivants du code du travail, qui contribue, de manière permanente ou occasionnelle, à l'élaboration d'un titre de presse, et l'employeur emporte, sauf stipulation contraire, cession à titre exclusif à l'employeur des droits d'exploitation des œuvres du journaliste réalisées dans le cadre de ce titre, qu'elles soient ou non publiées.
+
+
+###### Article L132-37
+
+L'exploitation de l'œuvre du journaliste sur différents supports, dans le cadre du titre de presse défini à l'article L. 132-35 du présent code, a pour seule contrepartie le salaire, pendant une période fixée par un accord d'entreprise ou, à défaut, par tout autre accord collectif, au sens des articles L. 2222-1 et suivants du code du travail.
+
+Cette période est déterminée en prenant notamment en considération la périodicité du titre de presse et la nature de son contenu.
+
+
+###### Article L132-38
+
+L'exploitation de l'œuvre dans le titre de presse, au-delà de la période prévue à l'article L. 132-37, est rémunérée, sous forme de droits d'auteur ou de salaire, dans des conditions déterminées par l'accord d'entreprise ou, à défaut, par tout autre accord collectif.
+
+
+###### Article L132-39
+
+Lorsque la société éditrice ou la société qui la contrôle, au sens de l'article L. 233-16 du code de commerce, édite plusieurs titres de presse, un accord d'entreprise peut prévoir la diffusion de l'œuvre par d'autres titres de cette société ou du groupe auquel elle appartient, à condition que ces titres et le titre de presse initial appartiennent à une même famille cohérente de presse. Cet accord définit la notion de famille cohérente de presse ou fixe la liste de chacun des titres de presse concernés.
+
+L'exploitation de l'œuvre du journaliste au sein de la famille cohérente de presse doit comporter des mentions qui permettent une identification dudit journaliste et, si l'accord le prévoit, du titre de presse dans lequel l'œuvre a été initialement publiée.
+
+Ces exploitations hors du titre de presse tel que défini à l'article L. 132-35 du présent code donnent lieu à rémunération, sous forme de droits d'auteur ou de salaire, dans des conditions déterminées par l'accord d'entreprise mentionné au premier alinéa du présent article.
+
+
+###### Article L132-40
+
+Toute cession de l'œuvre en vue de son exploitation hors du titre de presse initial ou d'une famille cohérente de presse est soumise à l'accord exprès et préalable de son auteur exprimé à titre individuel ou dans un accord collectif, sans préjudice, dans ce deuxième cas, de l'exercice de son droit moral par le journaliste.
+
+Ces exploitations donnent lieu à rémunération sous forme de droits d'auteur, dans des conditions déterminées par l'accord individuel ou collectif.
+
+
+###### Article L132-41
+
+Lorsque l'auteur d'une image fixe est un journaliste professionnel qui tire le principal de ses revenus de l'exploitation de telles œuvres et qui collabore de manière occasionnelle à l'élaboration d'un titre de presse, la cession des droits d'exploitation telle que prévue à l'article L. 132-36 ne s'applique que si cette œuvre a été commandée par l'entreprise de presse.
+
+Les conditions dans lesquelles le second alinéa de l'article L. 121-8 s'applique aux œuvres cédées en application du premier alinéa du présent article sont précisées par un accord collectif ou individuel.
+
+
+###### Article L132-42
+
+Les droits d'auteur mentionnés aux articles L. 132-38 et suivants n'ont pas le caractère de salaire. Ils sont déterminés conformément aux articles L. 131-4 et L. 132-6.
+
+
+###### Article L132-43
+
+Les accords collectifs peuvent prévoir de confier la gestion des droits mentionnés aux articles L. 132-38 et suivants à une ou des sociétés de perception et de répartition de droits mentionnées aux articles L. 321-1 et suivants.
+
+
+###### Article L132-44
+
+Il est créé une commission, présidée par un représentant de l'Etat, et composée, en outre, pour moitié de représentants des organisations professionnelles de presse représentatives et pour moitié de représentants des organisations syndicales de journalistes professionnels représentatives.
+
+Le représentant de l'Etat est nommé parmi les membres de la Cour de cassation, du Conseil d'Etat ou de la Cour des comptes, par arrêté du ministre chargé de la communication.
+
+A défaut de conclusion d'un accord d'entreprise dans un délai de six mois à compter de la publication de la loi n° 2009-669 du 12 juin 2009 favorisant la diffusion et la protection de la création sur internet, et en l'absence de tout autre accord collectif applicable, l'une des parties à la négociation de l'accord d'entreprise peut saisir la commission aux fins de déterminer les modes et bases de la rémunération due en contrepartie des droits d'exploitation. La demande peut également porter sur l'identification des titres composant une famille cohérente de presse au sein du groupe, en application de l'article L. 132-39.
+
+Pour les accords d'entreprise conclus pour une durée déterminée qui arrivent à échéance ou pour ceux qui sont dénoncés par l'une des parties, la commission peut être saisie dans les mêmes conditions et sur les mêmes questions qu'au précédent alinéa, à défaut de la conclusion d'un nouvel accord d'entreprise dans les six mois suivant la date d'expiration de l'accord à durée déterminée ou à défaut de la conclusion d'un accord de substitution dans les délais prévus à l'article L. 2261-10 du code du travail à la suite de la dénonciation du précédent accord.
+
+La commission recherche avec les parties une solution de compromis afin de parvenir à un accord. Elle s'appuie, à cet effet, sur les accords existants pertinents au regard de la forme de presse considérée. Elle rend sa décision dans un délai de deux mois à compter de sa saisine.
+
+La commission se détermine à la majorité de ses membres présents. En cas de partage des voix, le président a voix prépondérante.
+
+Les décisions de la commission sont exécutoires si, dans un délai d'un mois, son président n'a pas demandé une seconde délibération. Elles sont notifiées aux parties et au ministre chargé de la communication, qui en assure la publicité.
+
+L'intervention de la décision de la commission ne fait pas obstacle à ce que s'engage dans les entreprises de presse concernées une nouvelle négociation collective.L'accord collectif issu de cette négociation se substitue à la décision de la commission, après son dépôt par la partie la plus diligente auprès de l'autorité administrative, conformément à l'article L. 2231-6 du code du travail.
+
+Un décret en Conseil d'Etat fixe les conditions d'application du présent article et notamment la composition, les modalités de saisine et de fonctionnement de la commission ainsi que les voies de recours juridictionnel contre ses décisions.
+
+
+###### Article L132-45
+
+L'article L. 132-41 s'applique à compter de l'entrée en vigueur d'un accord de branche déterminant le salaire minimum des journalistes professionnels qui tirent le principal de leurs revenus de l'exploitation d'images fixes et qui collaborent de manière occasionnelle à l'élaboration d'un titre de presse. Cet accord prend en compte le caractère exclusif ou non de la cession.
+
+A défaut d'accord dans un délai de deux ans à compter de la publication de la loi n° 2009-669 du 12 juin 2009 favorisant la diffusion et la protection de la création sur internet, un décret fixe les conditions de détermination de ce salaire minimum.
 
 
 ##### Chapitre III : Rémunération au titre du prêt en bibliothèque
@@ -1037,7 +1132,7 @@ Les bénéficiaires des droits ouverts au présent titre ne peuvent interdire :
 4. La parodie, le pastiche et la caricature, compte tenu des lois du genre ;
 5. La reproduction provisoire présentant un caractère transitoire ou accessoire, lorsqu'elle est une partie intégrante et essentielle d'un procédé technique et qu'elle a pour unique objet de permettre l'utilisation licite de l'objet protégé par un droit voisin ou sa transmission entre tiers par la voie d'un réseau faisant appel à un intermédiaire ; toutefois, cette reproduction provisoire ne doit pas avoir de valeur économique propre ;
 6. La reproduction et la communication au public d'une interprétation, d'un phonogramme, d'un vidéogramme ou d'un programme dans les conditions définies aux deux premiers alinéas du 7° de l'article L. 122-5 ;
-7. Les actes de reproduction d'une interprétation, d'un phonogramme, d'un vidéogramme ou d'un programme réalisés à des fins de conservation ou destinés à préserver les conditions de sa consultation sur place, effectués par des bibliothèques accessibles au public, par des musées ou par des services d'archives, sous réserve que ceux-ci ne recherchent aucun avantage économique ou commercial.
+7. Les actes de reproduction et de représentation d'une interprétation, d'un phonogramme, d'un vidéogramme ou d'un programme réalisés à des fins de conservation ou destinés à préserver les conditions de sa consultation à des fins de recherche ou d'études privées par des particuliers, dans les locaux de l'établissement et sur des terminaux dédiés, effectués par des bibliothèques accessibles au public, par des musées ou par des services d'archives, sous réserve que ceux-ci ne recherchent aucun avantage économique ou commercial.
 
 Les exceptions énumérées par le présent article ne peuvent porter atteinte à l'exploitation normale de l'interprétation, du phonogramme, du vidéogramme ou du programme ni causer un préjudice injustifié aux intérêts légitimes de l'artiste-interprète, du producteur ou de l'entreprise de communication audiovisuelle.
 
@@ -1444,478 +1539,7 @@ V. - La commission siège dans les locaux de la Cour des comptes, qui assure son
 VI. - Un décret en Conseil d'Etat fixe l'organisation et le fonctionnement de la commission, ainsi que les procédures applicables devant elle.
 
 
-#### Titre III : Procédures et sanctions
-
-##### Chapitre Ier : Dispositions générales
-
-###### Section 1 : Dispositions communes
-
-###### Article L331-1
-
-Toutes les contestations relatives à l'application des dispositions de la première partie du présent code qui relèvent des juridictions de l'ordre judiciaire sont    exclusivement portées devant les tribunaux de grande instance, sans préjudice du droit pour la partie lésée de se pourvoir devant la juridiction répressive dans les termes du droit commun.
-
-Les organismes de défense professionnelle régulièrement constitués ont qualité pour ester en justice pour la défense des intérêts dont ils ont statutairement la charge.
-
-Le bénéficiaire valablement investi à titre exclusif, conformément aux dispositions du livre II, d'un droit exclusif d'exploitation appartenant à un producteur de phonogrammes ou de vidéogrammes peut, sauf stipulation contraire du contrat de licence, exercer l'action en justice au titre de ce droit.L'exercice de l'action est notifié au producteur.
-
-Les tribunaux de grande instance appelés à connaître des actions et des demandes en matière de propriété littéraire et artistique, y compris lorsque ces actions et demandes portent à la fois sur une question de propriété littéraire et artistique et sur une question connexe de concurrence déloyale, sont déterminés par voie réglementaire.
-
-
-###### Article L331-1-1
-
-Si le demandeur justifie de circonstances de nature à compromettre le recouvrement des dommages et intérêts, la juridiction peut ordonner la saisie conservatoire des biens mobiliers et immobiliers du prétendu auteur de l'atteinte aux droits, notamment le blocage de ses comptes bancaires et autres avoirs, conformément au droit commun. Pour déterminer les biens susceptibles de faire l'objet de la saisie, elle peut ordonner la communication des documents bancaires, financiers, comptables ou commerciaux ou l'accès aux informations pertinentes.
-
-
-###### Article L331-1-2
-
-Si la demande lui est faite, la juridiction saisie d'une procédure civile prévue aux livres Ier, II et III de la première partie peut ordonner, au besoin sous astreinte, afin de déterminer l'origine et les réseaux de distribution des marchandises et services qui portent atteinte aux droits du demandeur, la production de tous documents ou informations détenus par le défendeur ou par toute personne qui a été trouvée en possession de telles marchandises ou fournissant de tels services ou a été signalée comme intervenant dans la production, la fabrication ou la distribution de ces marchandises ou la fourniture de ces services.
-
-La production de documents ou d'informations peut être ordonnée s'il n'existe pas d'empêchement légitime.
-
-Les documents ou informations recherchés portent sur :
-
-a) Les nom et adresse des producteurs, fabricants, distributeurs, fournisseurs et autres détenteurs antérieurs des marchandises ou services, ainsi que des grossistes destinataires et des détaillants ;
-
-b) Les quantités produites, commercialisées, livrées, reçues ou commandées, ainsi que sur le prix obtenu pour les marchandises ou services en cause.
-
-
-###### Article L331-1-3
-
-Pour fixer les dommages et intérêts, la juridiction prend en considération les conséquences économiques négatives, dont le manque à gagner, subies par la partie lésée, les bénéfices réalisés par l'auteur de l'atteinte aux droits et le préjudice moral causé au titulaire de ces droits du fait de l'atteinte.
-
-Toutefois, la juridiction peut, à titre d'alternative et sur demande de la partie lésée, allouer à titre de dommages et intérêts une somme forfaitaire qui ne peut être inférieure au montant des redevances ou droits qui auraient été dus si l'auteur de l'atteinte avait demandé l'autorisation d'utiliser le droit auquel il a porté atteinte.
-
-
-###### Article L331-1-4
-
-En cas de condamnation civile pour contrefaçon, atteinte à un droit voisin du droit d'auteur ou aux droits du producteur de bases de données, la juridiction peut ordonner, à la demande de la partie lésée, que les objets réalisés ou fabriqués portant atteinte à ces droits, les supports utilisés pour recueillir les données extraites illégalement de la base de données et les matériaux ou instruments ayant principalement servi à leur réalisation ou fabrication soient rappelés des circuits commerciaux, écartés définitivement de ces circuits, détruits ou confisqués au profit de la partie lésée.
-
-La juridiction peut aussi ordonner toute mesure appropriée de publicité du jugement, notamment son affichage ou sa publication intégrale ou par extraits dans les journaux ou sur les services de communication au public en ligne qu'elle désigne, selon les modalités qu'elle précise.
-
-Les mesures mentionnées aux deux premiers alinéas sont ordonnées aux frais de l'auteur de l'atteinte aux droits.
-
-La juridiction peut également ordonner la confiscation de tout ou partie des recettes procurées par la contrefaçon, l'atteinte à un droit voisin du droit d'auteur ou aux droits du producteur de bases de données, qui seront remises à la partie lésée ou à ses ayants droit.
-
-
-###### Article L331-2
-
-Outre les procès-verbaux des officiers ou agents de police judiciaire, la preuve de la matérialité de toute infraction aux dispositions des livres Ier, II et III du présent code et de l'article 52 de la loi n° 85-660 du 3 juillet 1985 relative aux droits d'auteur et aux droits des artistes interprètes, des producteurs de phonogrammes et de vidéogrammes et des entreprises de communication audiovisuelle peut résulter des constatations d'agents assermentés désignés selon les cas par le Centre national de la cinématographie, par les organismes de défense professionnelle visés à l'article L. 331-1 et par les sociétés mentionnées au titre II du présent livre. Ces agents sont agréés par le ministre chargé de la culture dans les conditions prévues par un décret en Conseil d'Etat.
-
-
-###### Article L331-3
-
-Le Centre national de la cinématographie peut exercer les droits reconnus à la partie civile en ce qui concerne le délit de contrefaçon, au sens de l'article L. 335-3, d'une oeuvre audiovisuelle lorsque l'action publique a été mise en mouvement par le ministère public ou la partie lésée.
-
-
-###### Article L331-4
-
-Les droits mentionnés dans la première partie du présent code ne peuvent faire échec aux actes nécessaires à l'accomplissement d'une procédure parlementaire de contrôle, juridictionnelle ou administrative prévue par la loi, ou entrepris à des fins de sécurité publique.
-
-
-###### Section 2 : Mesures techniques de protection et d'information
-
-###### Article L331-5
-
-Les mesures techniques efficaces destinées à empêcher ou à limiter les utilisations non autorisées par les titulaires d'un droit d'auteur ou d'un droit voisin du droit d'auteur d'une oeuvre, autre qu'un logiciel, d'une interprétation, d'un phonogramme, d'un vidéogramme ou d'un programme sont protégées dans les conditions prévues au présent titre.
-
-On entend par mesure technique au sens du premier alinéa toute technologie, dispositif, composant qui, dans le cadre normal de son fonctionnement, accomplit la fonction prévue par cet alinéa. Ces mesures techniques sont réputées efficaces lorsqu'une utilisation visée au même alinéa est contrôlée par les titulaires de droits grâce à l'application d'un code d'accès, d'un procédé de protection tel que le cryptage, le brouillage ou toute autre transformation de l'objet de la protection ou d'un mécanisme de contrôle de la copie qui atteint cet objectif de protection.
-
-Un protocole, un format, une méthode de cryptage, de brouillage ou de transformation ne constitue pas en tant que tel une mesure technique au sens du présent article.
-
-Les mesures techniques ne doivent pas avoir pour effet d'empêcher la mise en oeuvre effective de l'interopérabilité, dans le respect du droit d'auteur. Les fournisseurs de mesures techniques donnent l'accès aux informations essentielles à l'interopérabilité dans les conditions définies aux articles L. 331-6 et L. 331-7.
-
-Les dispositions du présent chapitre ne remettent pas en cause la protection juridique résultant des articles 79-1 à 79-6 et de l'article 95 de la loi n° 86-1067 du 30 septembre 1986 relative à la liberté de communication.
-
-Les mesures techniques ne peuvent s'opposer au libre usage de l'oeuvre ou de l'objet protégé dans les limites des droits prévus par le présent code, ainsi que de ceux accordés par les détenteurs de droits.
-
-Les dispositions du présent article s'appliquent sans préjudice des dispositions de l'article L. 122-6-1 du présent code.
-
-
-###### Article L331-6
-
-L'Autorité de régulation des mesures techniques visée à l'article L. 331-17 veille à ce que les mesures techniques visées à l'article L. 331-5 n'aient pas pour conséquence, du fait de leur incompatibilité mutuelle ou de leur incapacité d'interopérer, d'entraîner dans l'utilisation d'une oeuvre des limitations supplémentaires et indépendantes de celles expressément décidées par le titulaire d'un droit d'auteur sur une oeuvre autre qu'un logiciel ou par le titulaire d'un droit voisin sur une interprétation, un phonogramme, un vidéogramme ou un programme.
-
-
-###### Article L331-7
-
-Tout éditeur de logiciel, tout fabricant de système technique et tout exploitant de service peut, en cas de refus d'accès aux informations essentielles à l'interopérabilité, demander à l'Autorité de régulation des mesures techniques de garantir l'interopérabilité des systèmes et des services existants, dans le respect des droits des parties, et d'obtenir du titulaire des droits sur la mesure technique les informations essentielles à cette interopérabilité. A compter de sa saisine, l'autorité dispose d'un délai de deux mois pour rendre sa décision.
-
-On entend par informations essentielles à l'interopérabilité la documentation technique et les interfaces de programmation nécessaires pour permettre à un dispositif technique d'accéder, y compris dans un standard ouvert au sens de l'article 4 de la loi n° 2004-575 du 21 juin 2004 pour la confiance dans l'économie numérique, à une oeuvre ou à un objet protégé par une mesure technique et aux informations sous forme électronique jointes, dans le respect des conditions d'utilisation de l'oeuvre ou de l'objet protégé qui ont été définies à l'origine.
-
-Le titulaire des droits sur la mesure technique ne peut imposer au bénéficiaire de renoncer à la publication du code source et de la documentation technique de son logiciel indépendant et interopérant que s'il apporte la preuve que celle-ci aurait pour effet de porter gravement atteinte à la sécurité et à l'efficacité de ladite mesure technique.
-
-L'autorité peut accepter des engagements proposés par les parties et de nature à mettre un terme aux pratiques contraires à l'interopérabilité. A défaut d'un accord entre les parties et après avoir mis les intéressés à même de présenter leurs observations, elle rend une décision motivée de rejet de la demande ou émet une injonction prescrivant, au besoin sous astreinte, les conditions dans lesquelles le demandeur peut obtenir l'accès aux informations essentielles à l'interopérabilité et les engagements qu'il doit respecter pour garantir l'efficacité et l'intégrité de la mesure technique, ainsi que les conditions d'accès et d'usage du contenu protégé. L'astreinte prononcée par l'autorité est liquidée par cette dernière.
-
-L'autorité a le pouvoir d'infliger une sanction pécuniaire applicable soit en cas d'inexécution de ses injonctions, soit en cas de non-respect des engagements qu'elle a acceptés. Chaque sanction pécuniaire est proportionnée à l'importance du dommage causé aux intéressés, à la situation de l'organisme ou de l'entreprise sanctionné et à l'éventuelle réitération des pratiques contraires à l'interopérabilité. Elle est déterminée individuellement et de façon motivée. Son montant maximum s'élève à 5 % du montant du chiffre d'affaires mondial hors taxes le plus élevé réalisé au cours d'un des exercices clos depuis l'exercice précédant celui au cours duquel les pratiques contraires à l'interopérabilité ont été mises en oeuvre dans le cas d'une entreprise et à 1, 5 million d'euros dans les autres cas.
-
-Les décisions de l'autorité sont rendues publiques dans le respect des secrets protégés par la loi. Elles sont notifiées aux parties qui peuvent introduire un recours devant la cour d'appel de Paris. Le recours a un effet suspensif.
-
-Le président de l'Autorité de régulation des mesures techniques saisit l'Autorité de la concurrence des abus de position dominante et des pratiques entravant le libre exercice de la concurrence dont il pourrait avoir connaissance dans le secteur des mesures techniques. Cette saisine peut être introduite dans le cadre d'une procédure d'urgence, dans les conditions prévues à l'article L. 464-1 du code de commerce. Le président de l'autorité peut également le saisir, pour avis, de toute autre question relevant de sa compétence. l'Autorité de la concurrence communique à l'autorité toute saisine entrant dans le champ de compétence de celle-ci et recueille son avis sur les pratiques dont il est saisi dans le secteur des mesures techniques mentionnées à l'article L. 331-5 du présent code.
-
-
-###### Article L331-8
-
-Le bénéfice de l'exception pour copie privée et des exceptions mentionnées au présent article est garanti par les dispositions du présent article et des articles L. 331-9 à L. 331-16.
-
-L'Autorité de régulation des mesures techniques visée à l'article L. 331-17 veille à ce que la mise en oeuvre des mesures techniques de protection n'ait pas pour effet de priver les bénéficiaires des exceptions définies aux :
-
--2°, e du 3° à compter du 1er janvier 2009,7° et 8° de l'article L. 122-5 ;
-
--2°, dernier alinéa du 3° à compter du 1er janvier 2009,6° et 7° de l'article L. 211-3 ;
-
--3° et, à compter du 1er janvier 2009,4° de l'article L. 342-3.
-
-Sous réserve des articles L. 331-9 à L. 331-16, l'autorité détermine les modalités d'exercice des exceptions précitées et fixe notamment le nombre minimal de copies autorisées dans le cadre de l'exception pour copie privée, en fonction du type d'oeuvre ou d'objet protégé, des divers modes de communication au public et des possibilités offertes par les techniques de protection disponibles.
-
-
-###### Article L331-9
-
-Les titulaires de droits qui recourent aux mesures techniques de protection définies à l'article L. 331-5 peuvent leur assigner pour objectif de limiter le nombre de copies. Ils prennent cependant les dispositions utiles pour que leur mise en oeuvre ne prive pas les bénéficiaires des exceptions visées à l'article L. 331-8 de leur exercice effectif. Ils s'efforcent de définir ces mesures en concertation avec les associations agréées de consommateurs et les autres parties intéressées.
-
-Les dispositions du présent article peuvent, dans la mesure où la technique le permet, subordonner le bénéfice effectif de ces exceptions à un accès licite à une oeuvre ou à un phonogramme, à un vidéogramme ou à un programme et veiller à ce qu'elles n'aient pas pour effet de porter atteinte à son exploitation normale ni de causer un préjudice injustifié aux intérêts légitimes du titulaire de droits sur l'oeuvre ou l'objet protégé.
-
-
-###### Article L331-10
-
-Les titulaires de droits ne sont cependant pas tenus de prendre les dispositions de l'article L. 331-9 lorsque l'oeuvre ou un autre objet protégé par un droit voisin est mis à disposition du public selon des dispositions contractuelles convenues entre les parties, de manière que chacun puisse y avoir accès de l'endroit et au moment qu'il choisit.
-
-
-###### Article L331-11
-
-Les éditeurs et les distributeurs de services de télévision ne peuvent recourir à des mesures techniques qui auraient pour effet de priver le public du bénéfice de l'exception pour copie privée, y compris sur un support et dans un format numérique, dans les conditions mentionnées au 2° de l'article L. 122-5 et au 2° de l'article L. 211-3.
-
-Le Conseil supérieur de l'audiovisuel veille au respect des obligations du premier alinéa dans les conditions définies par les articles 42 et 48-1 de la loi n° 86-1067 du 30 septembre 1986 relative à la liberté de communication.
-
-
-###### Article L331-12
-
-Les conditions d'accès à la lecture d'une oeuvre, d'un vidéogramme, d'un programme ou d'un phonogramme et les limitations susceptibles d'être apportées au bénéfice de l'exception pour copie privée mentionnée au 2° de l'article L. 122-5 et au 2° de l'article L. 211-3 par la mise en oeuvre d'une mesure technique de protection doivent être portées à la connaissance de l'utilisateur.
-
-
-###### Article L331-13
-
-Toute personne bénéficiaire des exceptions mentionnées à l'article L. 331-8 ou toute personne morale agréée qui la représente peut saisir l'Autorité de régulation des mesures techniques de tout différend portant sur les restrictions que les mesures techniques de protection définies à l'article L. 331-5 apportent au bénéfice desdites exceptions.
-
-
-###### Article L331-14
-
-Les personnes morales et les établissements ouverts au public visés au 7° de l'article L. 122-5 qui réalisent des reproductions ou des représentations d'une oeuvre ou d'un objet protégé adaptées aux personnes handicapées peuvent saisir l'Autorité de régulation des mesures techniques de tout différend portant sur la transmission des textes imprimés sous la forme d'un fichier numérique.
-
-
-###### Article L331-15
-
-Dans le respect des droits des parties, l'Autorité de régulation des mesures techniques favorise ou suscite une solution de conciliation. Lorsqu'elle dresse un procès-verbal de conciliation, celui-ci a force exécutoire ; il fait l'objet d'un dépôt au greffe du tribunal d'instance.
-
-A défaut de conciliation dans un délai de deux mois à compter de sa saisine, l'autorité, après avoir mis les intéressés à même de présenter leurs observations, rend une décision motivée de rejet de la demande ou émet une injonction prescrivant, au besoin sous astreinte, les mesures propres à assurer le bénéfice effectif de l'exception. L'astreinte prononcée par l'autorité est liquidée par cette dernière.
-
-Ces décisions ainsi que le procès-verbal de conciliation sont rendus publics dans le respect des secrets protégés par la loi. Elles sont notifiées aux parties qui peuvent introduire un recours devant la cour d'appel de Paris. Le recours a un effet suspensif.
-
-
-###### Article L331-16
-
-Un décret en Conseil d'Etat précise les conditions d'application de la présente section. Il prévoit les modalités d'information des utilisateurs d'une oeuvre, d'un vidéogramme, d'un programme ou d'un phonogramme mentionnées à l'article L. 331-12.
-
-
-###### Article L331-17
-
-L'Autorité de régulation des mesures techniques est une autorité administrative indépendante. Elle assure une mission générale de veille dans les domaines des mesures techniques de protection et d'identification des oeuvres et des objets protégés par le droit d'auteur ou par les droits voisins.
-
-Elle rend compte chaque année, dans un rapport remis au Gouvernement et au Parlement, des évolutions les plus marquantes qu'elle a constatées dans ce domaine et de leur impact prévisible sur la diffusion des contenus culturels. Elle peut être consultée par les commissions parlementaires sur les adaptations de l'encadrement législatif que ces évolutions rendraient nécessaires.
-
-Elle rend compte également des orientations qu'elle a fixées sur le fondement de l'article L. 331-8 en matière de périmètre de la copie privée, ainsi que des décisions qu'elle a rendues sur le fondement de l'article L. 331-7.
-
-
-###### Article L331-18
-
-L'Autorité de régulation des mesures techniques est composée de six membres nommés par décret.
-
-Outre le président de la commission mentionnée à l'article L. 311-5 qui participe aux travaux de la commission avec voix consultative, ses membres sont :
-1. Un conseiller d'Etat désigné par le vice-président du Conseil d'Etat ;
-2. Un conseiller à la Cour de cassation désigné par le premier président de la Cour de cassation ;
-3. Un conseiller maître à la Cour des comptes désigné par le premier président de la Cour des comptes ;
-4. Un membre désigné par le président de l'Académie des technologies, en raison de ses compétences en matière de technologies de l'information ;
-5. Un membre du Conseil supérieur de la propriété littéraire et artistique désigné par le président du Conseil supérieur de la propriété littéraire et artistique.
-
-La durée du mandat des membres de l'autorité est de six ans. Il n'est ni renouvelable, ni révocable.
-
-En cas de vacance d'un siège de membre de l'autorité, il est procédé à son remplacement pour la durée du mandat restant à courir.
-
-Le président est élu par les membres parmi les personnes mentionnées aux 1°,2° et 3°.
-
-
-###### Article L331-19
-
-Les fonctions de membre de l'Autorité de régulation des mesures techniques sont incompatibles avec les fonctions de dirigeant ou de salarié ou les qualités d'ancien dirigeant ou d'ancien salarié d'une société régie par le titre II du présent livre ou de toute entreprise exerçant une activité de production de phonogrammes ou de vidéogrammes ou offrant des services de téléchargement d'oeuvres protégées.
-
-Les membres de l'autorité ne peuvent, directement ou indirectement, détenir d'intérêts dans une entreprise exerçant une des activités mentionnées au premier alinéa.
-
-Aucun membre de l'autorité ne peut participer à une délibération concernant une entreprise ou une société contrôlée, au sens de l'article L. 233-16 du code de commerce, par une entreprise dans laquelle il a, au cours des trois années précédant la délibération, exercé des fonctions ou détenu un mandat.
-
-
-###### Article L331-20
-
-L'Autorité de régulation des mesures techniques dispose de services qui sont placés sous l'autorité de son secrétaire général.
-
-Les rapporteurs chargés de l'instruction des dossiers auprès de l'autorité sont nommés sur proposition du président par arrêté du ministre chargé de la culture.
-
-L'autorité peut faire appel à des experts. Elle propose, lors de l'élaboration du projet de loi de finances de l'année, les crédits nécessaires à l'accomplissement de ses missions. Ceux-ci sont inscrits au budget général de l'Etat.
-
-Le président de l'autorité est ordonnateur des dépenses. Il présente les comptes de l'autorité à la Cour des comptes.
-
-
-###### Article L331-21
-
-Les décisions de l'Autorité de régulation des mesures techniques sont prises à la majorité des voix. En cas de partage égal des voix, la voix du président est prépondérante.
-
-Un décret en Conseil d'Etat fixe les règles applicables à la procédure et à l'instruction des dossiers.
-
-
-##### Chapitre II : Saisie-contrefaçon
-
-##### Article L332-1
-
-Les commissaires de police et, dans les lieux où il n'y a pas de commissaire de police, les juges d'instance, sont tenus, à la demande de tout auteur d'une oeuvre protégée par le livre Ier, de ses ayants droit ou de ses ayants cause, de saisir les exemplaires constituant une reproduction illicite de cette oeuvre ou tout exemplaire, produit, appareil, dispositif, composant ou moyen portant atteinte aux mesures techniques et aux informations mentionnées respectivement aux articles L. 331-5 et L. 331-22 ;
-
-Si la saisie doit avoir pour effet de retarder ou de suspendre des représentations ou des exécutions publiques en cours ou déjà annoncées, une autorisation spéciale doit être obtenue du président du tribunal de grande instance, par ordonnance rendue sur requête. Le président du tribunal de grande instance peut également, dans la même forme, ordonner :
-1. La suspension de toute fabrication en cours tendant à la reproduction illicite d'une oeuvre ou à la réalisation d'une atteinte aux mesures techniques et aux informations mentionnées respectivement aux articles L. 331-5 et L. 331-22 ;
-2. La saisie, quels que soient le jour et l'heure, des exemplaires constituant une reproduction illicite de l'oeuvre, déjà fabriqués ou en cours de fabrication, ou des exemplaires, produits, appareils, dispositifs, composants ou moyens, fabriqués ou en cours de fabrication, portant atteinte aux mesures techniques et aux informations mentionnées respectivement aux articles L. 331-5 et L. 331-22, des recettes réalisées, ainsi que des exemplaires illicitement utilisés ; il peut également ordonner la saisie réelle des matériels et instruments utilisés pour produire ou distribuer illicitement les oeuvres, ainsi que de tout document s'y rapportant ;
-3. La saisie des recettes provenant de toute reproduction, représentation ou diffusion, par quelque moyen que ce soit, d'une oeuvre de l'esprit, effectuée en violation des droits de l'auteur ou provenant d'une atteinte aux mesures techniques et aux informations mentionnées respectivement aux articles L. 331-5 et L. 331-22 ;
-4. La suspension, par tout moyen, du contenu d'un service de communication au public en ligne portant atteinte à l'un des droits de l'auteur, y compris en ordonnant de cesser de stocker ce contenu ou, à défaut, de cesser d'en permettre l'accès. Le délai dans lequel la mainlevée ou le cantonnement des effets de cette mesure peuvent être demandés par le défendeur est fixé par voie réglementaire ;
-5. La saisie réelle des oeuvres illicites ou produits soupçonnés de porter atteinte à un droit d'auteur, ou leur remise entre les mains d'un tiers afin d'empêcher leur introduction ou leur circulation dans les circuits commerciaux ;
-
-Le président du tribunal de grande instance peut, dans les mêmes formes, ordonner les mesures prévues aux 1° à 5° à la demande des titulaires de droits voisins définis au livre II.
-
-Le président du tribunal de grande instance peut, dans les ordonnances prévues ci-dessus, ordonner la constitution préalable de garanties par le saisissant.
-
-
-##### Article L332-2
-
-Dans un délai fixé par voie réglementaire, le saisi ou le tiers saisi peuvent demander au président du tribunal de grande instance de prononcer la mainlevée de la saisie ou d'en cantonner les effets, ou encore d'autoriser la reprise de la fabrication ou celle des représentations ou exécutions publiques, sous l'autorité d'un administrateur constitué séquestre, pour le compte de qui il appartiendra, des produits de cette fabrication ou de cette exploitation.
-
-Le président du tribunal de grande instance statuant en référé peut, s'il fait droit à la demande du saisi ou du tiers saisi, ordonner à la charge du demandeur la consignation d'une somme affectée à la garantie des dommages et intérêts auxquels l'auteur pourrait prétendre.
-
-
-##### Article L332-3
-
-Faute par le saisissant de saisir la juridiction compétente dans un délai fixé par voie réglementaire, mainlevée de cette saisie pourra être ordonnée à la demande du saisi ou du tiers saisi par le président du tribunal, statuant en référé.
-
-
-##### Article L332-4
-
-En matière de logiciels et de bases de données, la saisie-contrefaçon est exécutée en vertu d'une ordonnance rendue sur requête par le président du tribunal de grande instance. Le président peut ordonner la saisie réelle des objets réalisés ou fabriqués illicitement ainsi que celle des matériels et instruments utilisés pour produire ou distribuer illicitement un logiciel ou une base de données ainsi que de tout document s'y rapportant.
-
-L'huissier instrumentaire ou le commissaire de police peut être assisté d'un expert désigné par le requérant.
-
-A défaut d'assignation ou de citation dans un délai fixé par voie réglementaire, la saisie-contrefaçon est nulle.
-
-En outre, les commissaires de police sont tenus, à la demande de tout titulaire de droits sur un logiciel ou sur une base de données, d'opérer une saisie-description du logiciel ou de la base de données contrefaisants, saisie-description qui peut se concrétiser par une copie.
-
-
-##### Chapitre III : Saisie-arrêt
-
-##### Article L333-1
-
-Lorsque les produits d'exploitation revenant à l'auteur d'une oeuvre de l'esprit ont fait l'objet d'une saisie-arrêt, le président du tribunal de grande instance peut ordonner le versement à l'auteur, à titre alimentaire, d'une certaine somme ou d'une quotité déterminée des sommes saisies.
-
-
-##### Article L333-2
-
-Sont insaisissables, dans la mesure où elles ont un caractère alimentaire, les sommes dues, en raison de l'exploitation pécuniaire ou de la cession des droits de propriété littéraire ou artistique, à tous auteurs, compositeurs ou artistes ainsi qu'à leur conjoint survivant contre lequel n'existe pas un jugement de séparation de corps passé en force de chose jugée, ou à leurs enfants mineurs pris en leur qualité d'ayants cause.
-
-
-##### Article L333-3
-
-La proportion insaisissable de ces sommes ne pourra, en aucun cas, être inférieure aux quatre cinquièmes, lorsqu'elles sont au plus égales annuellement au palier de ressources le plus élevé prévu en application du chapitre V du titre IV du livre Ier du code du travail.
-
-
-##### Article L333-4
-
-Les dispositions du présent chapitre ne font pas obstacle aux saisies-arrêts pratiquées en vertu des dispositions du code civil relatives aux créances d'aliments.
-
-
-##### Chapitre IV : Droit de suite
-
-##### Article L334-1
-
-En cas de violation des dispositions de l'article L. 122-8, l'acquéreur et les officiers ministériels peuvent être condamnés solidairement, au profit des bénéficiaires du droit de suite, à des dommages-intérêts.
-
-
-##### Chapitre V : Dispositions pénales
-
-##### Article L335-1
-
-Les officiers de police judiciaire compétents peuvent procéder, dès la constatation des infractions prévues aux articles L. 335-4 à L. 335-4-2, à la saisie des phonogrammes et vidéogrammes reproduits illicitement, des exemplaires et objets fabriqués ou importés illicitement, de tout exemplaire, produit, appareil, dispositif, composant ou moyen portant atteinte aux mesures techniques et aux informations mentionnées respectivement aux articles L. 331-5 et L. 331-22 ainsi qu'à la saisie des matériels spécialement installés en vue de tels agissements.
-
-
-##### Article L335-2
-
-Toute édition d'écrits, de composition musicale, de dessin, de peinture ou de toute autre production, imprimée ou gravée en entier ou en partie, au mépris des lois et règlements relatifs à la propriété des auteurs, est une contrefaçon et toute contrefaçon est un délit.
-
-La contrefaçon en France d'ouvrages publiés en France ou à l'étranger est punie de trois ans d'emprisonnement et de 300 000 euros d'amende.
-
-Seront punis des mêmes peines le débit, l'exportation et l'importation des ouvrages contrefaisants.
-
-Lorsque les délits prévus par le présent article ont été commis en bande organisée, les peines sont portées à cinq ans d'emprisonnement et à 500 000 euros d'amende.
-
-
-##### Article L335-2-1
-
-Est puni de trois ans d'emprisonnement et de 300 000 euros d'amende le fait :
-
-
-1. D'éditer, de mettre à la disposition du public ou de communiquer au public, sciemment et sous quelque forme que ce soit, un logiciel manifestement destiné à la mise à disposition du public non autorisée d'oeuvres ou d'objets protégés ;
-
-
-2. D'inciter sciemment, y compris à travers une annonce publicitaire, à l'usage d'un logiciel mentionné au 1°.
-
-
-##### Article L335-3
-
-Est également un délit de contrefaçon toute reproduction, représentation ou diffusion, par quelque moyen que ce soit, d'une oeuvre de l'esprit en violation des droits de l'auteur, tels qu'ils sont définis et réglementés par la loi.
-
-Est également un délit de contrefaçon la violation de l'un des droits de l'auteur d'un logiciel définis à l'article L. 122-6.
-
-
-##### Article L335-3-1
-
-I.-Est puni de 3 750 euros d'amende le fait de porter atteinte sciemment, à des fins autres que la recherche, à une mesure technique efficace telle que définie à l'article L. 331-5, afin d'altérer la protection d'une oeuvre par un décodage, un décryptage ou toute autre intervention personnelle destinée à contourner, neutraliser ou supprimer un mécanisme de protection ou de contrôle, lorsque cette atteinte est réalisée par d'autres moyens que l'utilisation d'une application technologique, d'un dispositif ou d'un composant existant mentionné au II.
-
-II.-Est puni de six mois d'emprisonnement et de 30 000 euros d'amende le fait de procurer ou proposer sciemment à autrui, directement ou indirectement, des moyens conçus ou spécialement adaptés pour porter atteinte à une mesure technique efficace telle que définie à l'article L. 331-5, par l'un des procédés suivants :
-1. En fabriquant ou en important une application technologique, un dispositif ou un composant, à des fins autres que la recherche ;
-2. En détenant en vue de la vente, du prêt ou de la location, en offrant à ces mêmes fins ou en mettant à disposition du public sous quelque forme que ce soit une application technologique, un dispositif ou un composant ;
-3. En fournissant un service à cette fin ;
-4. En incitant à l'usage ou en commandant, concevant, organisant, reproduisant, distribuant ou diffusant une publicité en faveur de l'un des procédés visés aux 1° à 3°.
-
-III.-Ces dispositions ne sont pas applicables aux actes réalisés à des fins de sécurité informatique, dans les limites des droits prévus par le présent code.
-
-
-##### Article L335-3-2
-
-I.-Est puni de 3 750 euros d'amende le fait de supprimer ou de modifier, sciemment et à des fins autres que la recherche, tout élément d'information visé à l'article L. 331-22, par une intervention personnelle ne nécessitant pas l'usage d'une application technologique, d'un dispositif ou d'un composant existant, conçus ou spécialement adaptés à cette fin, dans le but de porter atteinte à un droit d'auteur, de dissimuler ou de faciliter une telle atteinte.
-
-II.-Est puni de six mois d'emprisonnement et de 30 000 euros d'amende le fait de procurer ou proposer sciemment à autrui, directement ou indirectement, des moyens conçus ou spécialement adaptés pour supprimer ou modifier, même partiellement, un élément d'information visé à l'article L. 331-22, dans le but de porter atteinte à un droit d'auteur, de dissimuler ou de faciliter une telle atteinte, par l'un des procédés suivants :
-1. En fabriquant ou en important une application technologique, un dispositif ou un composant, à des fins autres que la recherche ;
-2. En détenant en vue de la vente, du prêt ou de la location, en offrant à ces mêmes fins ou en mettant à disposition du public sous quelque forme que ce soit une application technologique, un dispositif ou un composant ;
-3. En fournissant un service à cette fin ;
-4. En incitant à l'usage ou en commandant, concevant, organisant, reproduisant, distribuant ou diffusant une publicité en faveur de l'un des procédés visés aux 1° à 3°.
-
-III.-Est puni de six mois d'emprisonnement et de 30 000 euros d'amende le fait, sciemment, d'importer, de distribuer, de mettre à disposition du public sous quelque forme que ce soit ou de communiquer au public, directement ou indirectement, une oeuvre dont un élément d'information mentionné à l'article L. 331-22 a été supprimé ou modifié dans le but de porter atteinte à un droit d'auteur, de dissimuler ou de faciliter une telle atteinte.
-
-IV.-Ces dispositions ne sont pas applicables aux actes réalisés à des fins de recherche (Dispositions déclarées non conformes à la Constitution par la décision du Conseil constitutionnel n° 2006-540 DC du 27 juillet 2006) ou de sécurité informatique, dans les limites des droits prévus par le présent code.
-
-
-##### Article L335-4
-
-Est punie de trois ans d'emprisonnement et de 300 000 euros d'amende toute fixation, reproduction, communication ou mise à disposition du public, à titre onéreux ou gratuit, ou toute télédiffusion d'une prestation, d'un phonogramme, d'un vidéogramme ou d'un programme, réalisée sans l'autorisation, lorsqu'elle est exigée, de l'artiste-interprète, du producteur de phonogrammes ou de vidéogrammes ou de l'entreprise de communication audiovisuelle.
-
-Est punie des mêmes peines toute importation ou exportation de phonogrammes ou de vidéogrammes réalisée sans l'autorisation du producteur ou de l'artiste-interprète, lorsqu'elle est exigée.
-
-Est puni de la peine d'amende prévue au premier alinéa le défaut de versement de la rémunération due à l'auteur, à l'artiste-interprète ou au producteur de phonogrammes ou de vidéogrammes au titre de la copie privée ou de la communication publique ainsi que de la télédiffusion des phonogrammes.
-
-Est puni de la peine d'amende prévue au premier alinéa le défaut de versement du prélèvement mentionné au troisième alinéa de l'article L. 133-3.
-
-Lorsque les délits prévus au présent article ont été commis en bande organisée, les peines sont portées à cinq ans d'emprisonnement et à 500 000 euros d'amende.
-
-
-##### Article L335-4-1
-
-I.-Est puni de 3 750 euros d'amende le fait de porter atteinte sciemment, à des fins autres que la recherche, à une mesure technique efficace telle que définie à l'article L. 331-5, afin d'altérer la protection d'une interprétation, d'un phonogramme, d'un vidéogramme ou d'un programme par un décodage, un décryptage ou toute autre intervention personnelle destinée à contourner, neutraliser ou supprimer un mécanisme de protection ou de contrôle, lorsque cette atteinte est réalisée par d'autres moyens que l'utilisation d'une application technologique, d'un dispositif ou d'un composant existant mentionné au II.
-
-II.-Est puni de six mois d'emprisonnement et de 30 000 euros d'amende le fait de procurer ou proposer sciemment à autrui, directement ou indirectement, des moyens conçus ou spécialement adaptés pour porter atteinte à une mesure technique efficace telle que définie à l'article L. 331-5, par l'un des procédés suivants :
-1. En fabriquant ou en important une application technologique, un dispositif ou un composant, à des fins autres que la recherche ;
-2. En détenant en vue de la vente, du prêt ou de la location, en offrant à ces mêmes fins ou en mettant à disposition du public sous quelque forme que ce soit une application technologique, un dispositif ou un composant ;
-3. En fournissant un service à cette fin ;
-4. En incitant à l'usage ou en commandant, concevant, organisant, reproduisant, distribuant ou diffusant une publicité en faveur de l'un des procédés visés aux 1° à 3°.
-
-III.-Ces dispositions ne sont pas applicables aux actes réalisés à des fins de sécurité informatique, dans les limites des droits prévus par le présent code.
-
-
-##### Article L335-4-2
-
-I.-Est puni de 3 750 euros d'amende le fait de supprimer ou de modifier, sciemment et à des fins autres que la recherche, tout élément d'information visé à l'article L. 331-22, par une intervention personnelle ne nécessitant pas l'usage d'une application technologique, d'un dispositif ou d'un composant existant, conçus ou spécialement adaptés à cette fin, dans le but de porter atteinte à un droit voisin du droit d'auteur, de dissimuler ou de faciliter une telle atteinte.
-
-II.-Est puni de six mois d'emprisonnement et de 30 000 euros d'amende le fait de procurer ou proposer sciemment à autrui, directement ou indirectement, des moyens conçus ou spécialement adaptés pour supprimer ou modifier, même partiellement, un élément d'information visé à l'article L. 331-22, dans le but de porter atteinte à un droit voisin du droit d'auteur, de dissimuler ou de faciliter une telle atteinte, par l'un des procédés suivants :
-1. En fabriquant ou en important une application technologique, un dispositif ou un composant, à des fins autres que la recherche ;
-2. En détenant en vue de la vente, du prêt ou de la location, en offrant à ces mêmes fins ou en mettant à disposition du public sous quelque forme que ce soit une application technologique, un dispositif ou un composant ;
-3. En fournissant un service à cette fin ;
-4. En incitant à l'usage ou en commandant, concevant, organisant, reproduisant, distribuant ou diffusant une publicité en faveur de l'un des procédés visés aux 1° à 3°.
-
-III.-Est puni de six mois d'emprisonnement et de 30 000 euros d'amende le fait, sciemment, d'importer, de distribuer, de mettre à disposition du public sous quelque forme que ce soit ou de communiquer au public, directement ou indirectement, une interprétation, un phonogramme, un vidéogramme ou un programme, dont un élément d'information mentionné à l'article L. 331-22 a été supprimé ou modifié dans le but de porter atteinte à un droit voisin du droit d'auteur, de dissimuler ou de faciliter une telle atteinte.
-
-IV.-Ces dispositions ne sont pas applicables aux actes réalisés à des fins (Dispositions déclarées non conformes à la Constitution par la décision du Conseil constitutionnel n° 2006-540 DC du 27 juillet 2006) de sécurité informatique, dans les limites des droits prévus par le présent code.
-
-
-##### Article L335-5
-
-Dans le cas de condamnation fondée sur l'une des infractions définies aux articles L. 335-2 à L. 335-4-2, le tribunal peut ordonner la fermeture totale ou partielle, définitive ou temporaire, pour une durée au plus de cinq ans, de l'établissement ayant servi à commettre l'infraction.
-
-La fermeture temporaire ne peut entraîner ni rupture ni suspension du contrat de travail, ni aucun préjudice pécuniaire à l'encontre des salariés concernés. Lorsque la fermeture définitive entraîne le licenciement du personnel, elle donne lieu, en dehors de l'indemnité de préavis et de l'indemnité de licenciement, aux dommages et intérêts prévus aux articles L. 122-14-4 et L. 122-14-5 du code du travail en cas de rupture de contrat de travail. Le non-paiement de ces indemnités est puni de six mois d'emprisonnement et de 3 750 euros d'amende.
-
-
-##### Article L335-6
-
-Les personnes physiques coupables de l'une des infractions prévues aux articles L. 335-2 à L. 335-4-2 peuvent en outre être condamnées, à leurs frais, à retirer des circuits commerciaux les objets jugés contrefaisants et toute chose qui a servi ou était destinée à commettre l'infraction.
-
-La juridiction peut prononcer la confiscation de tout ou partie des recettes procurées par l'infraction ainsi que celle de tous les phonogrammes, vidéogrammes, objets et exemplaires contrefaisants ou reproduits illicitement ainsi que du matériel spécialement installé en vue de la réalisation du délit.
-
-Elle peut ordonner la destruction, aux frais du condamné, ou la remise à la partie lésée des objets et choses retirés des circuits commerciaux ou confisqués, sans préjudice de tous dommages et intérêts.
-
-Elle peut également ordonner, aux frais du condamné, l'affichage du jugement ou la diffusion du jugement prononçant la condamnation, dans les conditions prévues à l'article 131-35 du code pénal.
-
-
-##### Article L335-8
-
-Les personnes morales déclarées responsables pénalement, dans les conditions prévues par l'article 121-2 du code pénal, des infractions définies aux articles L. 335-2 à L. 335-4-2 encourent, outre l'amende suivant les modalités prévues par l'article 131-38 du code pénal, les peines prévues par l'article 131-39 du même code.
-
-L'interdiction mentionnée au 2° de l'article 131-39 du même code porte sur l'activité dans l'exercice ou à l'occasion de l'exercice de laquelle l'infraction a été commise.
-
-Les personnes morales déclarées pénalement responsables peuvent en outre être condamnées, à leurs frais, à retirer des circuits commerciaux les objets jugés contrefaisants et toute chose qui a servi ou était destinée à commettre l'infraction.
-
-La juridiction peut ordonner la destruction aux frais du condamné ou la remise à la partie lésée des objets et choses retirés des circuits commerciaux ou confisqués, sans préjudice de tous dommages et intérêts.
-
-
-##### Article L335-9
-
-Si l'auteur de l'un des délits prévus et réprimés par le présent chapitre est ou a été lié par convention avec la partie lésée, les peines encourues sont portées au double.
-
-
-##### Article L335-10
-
-L'administration des douanes peut, sur demande écrite du titulaire d'un droit d'auteur ou d'un droit voisin, assortie de justifications de son droit dans les conditions prévues par décret en Conseil d'Etat, retenir dans le cadre de ses contrôles les marchandises que celui-ci prétend constituer une contrefaçon de ce droit.
-
-Le procureur de la République, le demandeur, ainsi que le déclarant ou le détenteur des marchandises sont informés sans délai, par les services douaniers, de la retenue à laquelle ces derniers ont procédé.
-
-La mesure de retenue est levée de plein droit à défaut pour le demandeur, dans le délai de dix jours ouvrables à compter de la notification de la retenue des marchandises, de justifier auprès des services douaniers :
-
--soit des mesures conservatoires prévues par l'article L. 332-1 ;
-
--soit de s'être pourvu par la voie civile ou la voie correctionnelle et d'avoir constitué les garanties requises pour couvrir sa responsabilité éventuelle au cas où la contrefaçon ne serait pas ultérieurement reconnue.
-
-Aux fins de l'engagement des actions en justice visées à l'alinéa précédent, le demandeur peut obtenir de l'administration des douanes communication des noms et adresses de l'expéditeur, de l'importateur et du destinataire des marchandises retenues, ou de leur détenteur, ainsi que de leur quantité, nonobstant les dispositions de l'article 59 bis du code des douanes, relatif au secret professionnel auquel sont tenus les agents de l'administration des douanes.
-
-La retenue mentionnée au premier alinéa ne porte pas sur les marchandises de statut communautaire, légalement fabriquées ou mises en libre pratique dans un Etat membre de la Communauté européenne et destinées, après avoir emprunté le territoire douanier tel que défini à l'article 1er du code des douanes, à être mises sur le marché d'un autre Etat membre de la Communauté européenne, pour y être légalement commercialisées.
-
-
-##### Article L335-12
-
-Le titulaire d'un accès à des services de communication au public en ligne doit veiller à ce que cet accès ne soit pas utilisé à des fins de reproduction ou de représentation d'oeuvres de l'esprit sans l'autorisation des titulaires des droits prévus aux livres Ier et II, lorsqu'elle est requise, en mettant en oeuvre les moyens de sécurisation qui lui sont proposés par le fournisseur de cet accès en application du premier alinéa du I de l'article 6 de la loi n° 2004-575 du 21 juin 2004 pour la confiance dans l'économie numérique.
-
-
-##### Chapitre VI : Prévention du téléchargement illicite.
-
-##### Article L336-1
-
-Lorsqu'un logiciel est principalement utilisé pour la mise à disposition illicite d'oeuvres ou d'objets protégés par un droit de propriété littéraire et artistique, le président du tribunal de grande instance, statuant en référé, peut ordonner sous astreinte toutes mesures nécessaires à la protection de ce droit et conformes à l'état de l'art.
-
-Les mesures ainsi ordonnées ne peuvent avoir pour effet de dénaturer les caractéristiques essentielles ou la destination initiale du logiciel.
-
-L'article L. 332-4 est applicable aux logiciels mentionnés au présent article.
-
-
-##### Article L336-2
-
-Les personnes dont l'activité est d'offrir un accès à des services de communication au public en ligne adressent, à leurs frais, aux utilisateurs de cet accès des messages de sensibilisation aux dangers du téléchargement et de la mise à disposition illicites pour la création artistique. Un décret en Conseil d'Etat détermine les modalités de diffusion de ces messages.
-
+#### Titre III : Prévention, procédures et sanctions
 
 #### Titre IV : Droits des producteurs de bases de données
 
@@ -1972,14 +1596,18 @@ Les exceptions énumérées par le présent article ne peuvent porter atteinte �
 
 Les mesures techniques efficaces au sens de l'article L. 331-5 qui sont propres à empêcher ou à limiter les utilisations d'une base de données que le producteur n'a pas autorisées en application de l'article L. 342-1 bénéficient de la protection prévue à l'article L. 335-4-1.
 
-Les producteurs de bases de données qui recourent aux mesures techniques de protection mentionnées au premier alinéa prennent cependant les dispositions utiles pour que leur mise en oeuvre ne prive pas les bénéficiaires des exceptions définies à l'article L. 342-3 de leur bénéfice effectif, suivant les conditions prévues aux articles L. 331-8 et suivants.
+Les producteurs de bases de données qui recourent aux mesures techniques de protection mentionnées au premier alinéa prennent cependant les dispositions utiles pour que leur mise en oeuvre ne prive pas les bénéficiaires des exceptions définies à l'article L. 342-3 de leur bénéfice effectif, suivant les conditions prévues au 2° de l'article L. 331-39 et aux articles L. 331-7 à L. 331-10,
 
-Tout différend relatif à la faculté de bénéficier des exceptions définies à l'article L. 342-3 qui implique une mesure technique visée au premier alinéa du présent article est soumis à l'Autorité de régulation des mesures techniques prévue à l'article L. 331-17.
+L. 331-41 à L. 331-43 et L. 331-45.
+
+
+
+Tout différend relatif à la faculté de bénéficier des exceptions définies à l'article L. 342-3 qui implique une mesure technique visée au premier alinéa du présent article est soumis à la Haute Autorité pour la diffusion des œuvres et la protection des droits sur internet prévue à l'article L. 331-12.
 
 
 ##### Article L342-3-2
 
-Les informations sous forme électronique relatives au régime des droits du producteur d'une base de données, au sens de l'article L. 331-22, bénéficient de la protection prévue à l'article L. 335-4-2.
+Les informations sous forme électronique relatives au régime des droits du producteur d'une base de données, au sens de l'article L. 331-11, bénéficient de la protection prévue à l'article L. 335-4-2.
 
 
 ##### Article L342-4
