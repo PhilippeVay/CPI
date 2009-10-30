@@ -1,7 +1,7 @@
 Code de la propriété intellectuelle
 
-- Date de consolidation : 29 octobre 2009
-- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006069414&dateTexte=20091029)
+- Date de consolidation : 30 octobre 2009
+- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006069414&dateTexte=20091030)
 
 
 # Partie législative
@@ -1594,9 +1594,9 @@ Les exceptions énumérées par le présent article ne peuvent porter atteinte �
 
 Les mesures techniques efficaces au sens de l'article L. 331-5 qui sont propres à empêcher ou à limiter les utilisations d'une base de données que le producteur n'a pas autorisées en application de l'article L. 342-1 bénéficient de la protection prévue à l'article L. 335-4-1.
 
-Les producteurs de bases de données qui recourent aux mesures techniques de protection mentionnées au premier alinéa prennent cependant les dispositions utiles pour que leur mise en oeuvre ne prive pas les bénéficiaires des exceptions définies à l'article L. 342-3 de leur bénéfice effectif, suivant les conditions prévues au 2° de l'article L. 331-39 et aux articles L. 331-7 à L. 331-10,
+Les producteurs de bases de données qui recourent aux mesures techniques de protection mentionnées au premier alinéa prennent cependant les dispositions utiles pour que leur mise en oeuvre ne prive pas les bénéficiaires des exceptions définies à l'article L. 342-3 de leur bénéfice effectif, suivant les conditions prévues au 2° de l'article L. 331-31 et aux articles L. 331-7 à L. 331-10,
 
-L. 331-41 à L. 331-43 et L. 331-45.
+L. 331-33 à L. 331-35 et L. 331-37.
 
 
 
