@@ -1,7 +1,7 @@
 Code de la propriété intellectuelle
 
-- Date de consolidation : 22 décembre 2011
-- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006069414&dateTexte=20111222)
+- Date de consolidation : 31 décembre 2011
+- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006069414&dateTexte=20111231)
 
 
 # Partie législative
@@ -2868,6 +2868,8 @@ b) Aux actes accomplis à titre expérimental qui portent sur l'objet de l'inven
 c) A la préparation de médicaments faite extemporanément et par unité dans les officines de pharmacie, sur ordonnance médicale, ni aux actes concernant les médicaments ainsi préparés ;
 
 d) Aux études et essais requis en vue de l'obtention d'une autorisation de mise sur le marché pour un médicament, ainsi qu'aux actes nécessaires à leur réalisation et à l'obtention de l'autorisation ;
+
+d bis) Aux actes nécessaires à l'obtention du visa de publicité mentionné à l'article L. 5122-9 du code de la santé publique;
 
 e) Aux objets destinés à être lancés dans l'espace extra-atmosphérique introduits sur le territoire français.
 
