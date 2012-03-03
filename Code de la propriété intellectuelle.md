@@ -1,7 +1,7 @@
 Code de la propriété intellectuelle
 
-- Date de consolidation : 1er mars 2012
-- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006069414&dateTexte=20120301)
+- Date de consolidation : 3 mars 2012
+- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006069414&dateTexte=20120303)
 
 
 # Partie législative
@@ -169,6 +169,13 @@ Sauf dispositions statutaires ou stipulations contraires, les droits patrimoniau
 Toute contestation sur l'application du présent article est soumise au tribunal de grande instance du siège social de l'employeur.
 
 Les dispositions du premier alinéa du présent article sont également applicables aux agents de l'Etat, des collectivités publiques et des établissements publics à caractère administratif.
+
+
+##### Article L113-10
+
+L'œuvre orpheline est une œuvre protégée et divulguée, dont le titulaire des droits ne peut pas être identifié ou retrouvé, malgré des recherches diligentes, avérées et sérieuses.
+
+Lorsqu'une œuvre a plus d'un titulaire de droits et que l'un de ces titulaires a été identifié et retrouvé, elle n'est pas considérée comme orpheline.
 
 
 #### Titre II : Droits des auteurs
