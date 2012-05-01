@@ -1,7 +1,7 @@
 Code de la propriété intellectuelle
 
-- Date de consolidation : 24 mars 2012
-- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006069414&dateTexte=20120324)
+- Date de consolidation : 1er mai 2012
+- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006069414&dateTexte=20120501)
 
 
 # Partie législative
@@ -9110,7 +9110,7 @@ Le titulaire de la licence obligatoire d'exploitation peut demander au ministre 
 
 ###### Article R613-25-4
 
-Les modalités de l'identification des produits fabriqués sous licence obligatoire en application de l'article 10-5 du règlement (CE) n° 816 / 2006 sont établies par une décision du directeur général de l'Agence française de sécurité sanitaire des produits de santé.
+Les modalités de l'identification des produits fabriqués sous licence obligatoire en application de l'article 10-5 du règlement (CE) n° 816/2006 sont établies par une décision du directeur général de l'Agence nationale de sécurité du médicament et des produits de santé.
 
 
 ###### Sous-section 4 : Licences d'office dans l'intérêt du développement économique
