@@ -1,7 +1,7 @@
 Code de la propriété intellectuelle
 
-- Date de consolidation : 1er mai 2012
-- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006069414&dateTexte=20120501)
+- Date de consolidation : 6 mai 2012
+- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006069414&dateTexte=20120506)
 
 
 # Partie législative
@@ -6575,7 +6575,7 @@ Lorsque le recours contre une décision du directeur général de l'Institut nat
 
 ##### Article R411-25
 
-Le déclarant peut, devant la cour d'appel, se faire assister par un avocat ou représenter par un avoué.
+Le déclarant peut, devant  la cour d'appel, se faire        assister ou représenter par un avocat.
 
 
 ##### Article R411-26
@@ -6710,9 +6710,7 @@ Le délai de recours prévu à l'article précédent court à compter de la date
 
 ##### Article R412-17
 
-Le recours est formé par requête adressée au premier président de la cour d'appel de Paris par le demandeur en personne ou par un avoué exerçant près la cour d'appel ou par un avocat régulièrement inscrit à un barreau.
-
-Si le demandeur ne comparaît pas en personne, il peut être représenté ou assisté comme il est dit au premier alinéa du présent article.
+Le recours est formé par requête adressée au premier président de la cour d'appel de Paris par le demandeur en personne ou par un avocat régulièrement inscrit à un barreau.Si le demandeur ne comparaît pas en personne, il peut être représenté ou assisté comme il est dit au premier alinéa du présent article.
 
 
 ##### Article R412-18
