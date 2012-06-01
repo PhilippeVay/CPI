@@ -1,7 +1,7 @@
 Code de la propriété intellectuelle
 
-- Date de consolidation : 6 mai 2012
-- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006069414&dateTexte=20120506)
+- Date de consolidation : 1er juin 2012
+- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006069414&dateTexte=20120601)
 
 
 # Partie législative
@@ -6127,7 +6127,7 @@ Le délai prévu à l'article L. 332-3 et imparti au demandeur pour se pourvoir 
 Le délai prévu au troisième alinéa de l'article L. 332-4 et imparti au demandeur pour se pourvoir au fond est de vingt jours ouvrables ou de trente et un jours civils si ce délai est plus long, à compter de la date de l'ordonnance.
 
 
-#### Chapitre III : Saisie-arrêt
+#### Chapitre III : Saisie des produits d'exploitation
 
 #### Chapitre IV : Droit de suite
 
