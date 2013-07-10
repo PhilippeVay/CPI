@@ -1,7 +1,7 @@
 Code de la propriété intellectuelle
 
-- Date de consolidation : 2 mars 2013
-- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006069414&dateTexte=20130302)
+- Date de consolidation : 10 juillet 2013
+- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006069414&dateTexte=20130710)
 
 
 # Partie législative
@@ -325,7 +325,7 @@ Toute représentation ou reproduction intégrale ou partielle faite sans le cons
 
 Lorsque l'oeuvre a été divulguée, l'auteur ne peut interdire :
 1. Les représentations privées et gratuites effectuées exclusivement dans un cercle de famille ;
-2. Les  copies ou reproductions réalisées à partir d'une source licite et strictement réservées à l'usage privé du copiste et non destinées à une utilisation collective, à l'exception des copies des oeuvres d'art destinées à être utilisées pour des fins identiques à celles pour lesquelles l'oeuvre originale a été créée et des copies d'un logiciel autres que la copie de sauvegarde établie dans les conditions prévues au II de l'article L. 122-6-1 ainsi que des copies ou des reproductions d'une base de données électronique ;
+2. Les copies ou reproductions réalisées à partir d'une source licite et strictement réservées à l'usage privé du copiste et non destinées à une utilisation collective, à l'exception des copies des oeuvres d'art destinées à être utilisées pour des fins identiques à celles pour lesquelles l'oeuvre originale a été créée et des copies d'un logiciel autres que la copie de sauvegarde établie dans les conditions prévues au II de l'article L. 122-6-1 ainsi que des copies ou des reproductions d'une base de données électronique ;
 3. Sous réserve que soient indiqués clairement le nom de l'auteur et la source :
 
 a) Les analyses et courtes citations justifiées par le caractère critique, polémique, pédagogique, scientifique ou d'information de l'oeuvre à laquelle elles sont incorporées ;
@@ -336,7 +336,7 @@ c) La diffusion, même intégrale, par la voie de presse ou de télédiffusion, 
 
 d) Les reproductions, intégrales ou partielles d'oeuvres d'art graphiques ou plastiques destinées à figurer dans le catalogue d'une vente judiciaire effectuée en France pour les exemplaires mis à la disposition du public avant la vente dans le seul but de décrire les oeuvres d'art mises en vente ;
 
-e) La représentation ou la reproduction d'extraits d'oeuvres, sous réserve des oeuvres conçues à des fins pédagogiques, des partitions de musique et des oeuvres réalisées pour une édition numérique de l'écrit, à des fins exclusives d'illustration dans le cadre de l'enseignement et de la recherche, à l'exclusion de toute activité ludique ou récréative, dès lors que le public auquel cette représentation ou cette reproduction est destinée est composé majoritairement d'élèves, d'étudiants, d'enseignants ou de chercheurs directement concernés, que l'utilisation de cette représentation ou cette reproduction ne donne lieu à aucune exploitation commerciale et qu'elle est compensée par une rémunération négociée sur une base forfaitaire sans préjudice de la cession du droit de reproduction par reprographie mentionnée à l'article L. 122-10 ;
+e) La représentation ou la reproduction d'extraits d'oeuvres, sous réserve des oeuvres conçues à des fins pédagogiques et des partitions de musique, à des fins exclusives d'illustration dans le cadre de l'enseignement et de la recherche, y compris pour l'élaboration et la diffusion de sujets d'examens ou de concours organisés dans la prolongation des enseignements à l'exclusion de toute activité ludique ou récréative, dès lors que cette représentation ou cette reproduction est destinée, notamment au moyen d'un espace numérique de travail, à un public composé majoritairement d'élèves, d'étudiants, d'enseignants ou de chercheurs directement concernés par l'acte d'enseignement, de formation ou l'activité de recherche nécessitant cette représentation ou cette reproduction, qu'elle ne fait l'objet d'aucune publication ou diffusion à un tiers au public ainsi constitué, que l'utilisation de cette représentation ou cette reproduction ne donne lieu à aucune exploitation commerciale et qu'elle est compensée par une rémunération négociée sur une base forfaitaire sans préjudice de la cession du droit de reproduction par reprographie mentionnée à l'article L. 122-10 ;
 4. La parodie, le pastiche et la caricature, compte tenu des lois du genre ;
 5. Les actes nécessaires à l'accès au contenu d'une base de données électronique pour les besoins et dans les limites de l'utilisation prévue par contrat ;
 6. La reproduction provisoire présentant un caractère transitoire ou accessoire, lorsqu'elle est une partie intégrante et essentielle d'un procédé technique et qu'elle a pour unique objet de permettre l'utilisation licite de l'oeuvre ou sa transmission entre tiers par la voie d'un réseau faisant appel à un intermédiaire ; toutefois, cette reproduction provisoire qui ne peut porter que sur des oeuvres autres que les logiciels et les bases de données ne doit pas avoir de valeur économique propre ;
@@ -6463,8 +6463,6 @@ I.-Constitue une négligence caractérisée, punie de l'amende prévue pour les 
 II.-Les dispositions du I ne sont applicables que lorsque se trouvent réunies les deux conditions suivantes :
 1. En application de l'article L. 331-25 et dans les formes prévues par cet article, le titulaire de l'accès s'est vu recommander par la commission de protection des droits de mettre en œuvre un moyen de sécurisation de son accès permettant de prévenir le renouvellement d'une utilisation de celui-ci à des fins de reproduction, de représentation ou de mise à disposition ou de communication au public d'œuvres ou d'objets protégés par un droit d'auteur ou par un droit voisin sans l'autorisation des titulaires des droits prévus aux livres Ier et II lorsqu'elle est requise ;
 2. Dans l'année suivant la présentation de cette recommandation, cet accès est à nouveau utilisé aux fins mentionnées au 1° du présent II.
-
-III.-Les personnes coupables de la contravention définie au I peuvent, en outre, être condamnées à la peine complémentaire de suspension de l'accès à un service de communication au public en ligne pour une durée maximale d'un mois, conformément aux dispositions de l'article L. 335-7-1.
 
 
 ### Titre IV : Droits des producteurs de bases de données
