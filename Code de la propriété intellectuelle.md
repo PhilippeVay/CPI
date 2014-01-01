@@ -1,7 +1,7 @@
 Code de la propriété intellectuelle
 
-- Date de consolidation : 30 décembre 2013
-- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006069414&dateTexte=20131230)
+- Date de consolidation : 1er janvier 2014
+- [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006069414&dateTexte=20140101)
 
 
 # Partie législative
@@ -8565,7 +8565,7 @@ Agents non titulaires :
 
 -décision du 18 mars 1992 du ministre d'Etat, ministre de la fonction publique et de la modernisation de l'administration, du ministre de l'équipement, du logement, des transports et de l'espace et du ministre délégué au budget ;
 
--règlement du 14 mai 1973 régissant les personnels non titulaires du institut français des sciences et technologies des transports, de l'aménagement et des réseaux et des centres d'études techniques de l'équipement ;
+-règlement du 14 mai 1973 régissant les personnels non titulaires du institut français des sciences et technologies des transports, de l'aménagement et des réseaux et des centre d'études et d'expertise sur les risques, l'environnement, la mobilité et l'aménagement ;
 
 -règlement intérieur du 30 octobre 1969 modifié relatif aux personnels non titulaires employés au service d'études techniques des routes et autoroutes ;
 
