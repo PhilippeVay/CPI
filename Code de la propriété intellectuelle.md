@@ -1,6 +1,6 @@
 Code de la propriété intellectuelle
 
-- Date de consolidation : 1er juillet 2014
+- Date de consolidation : 1er juillet 2014
 - [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006069414&dateTexte=20140701)
 
 
@@ -61,6 +61,7 @@ Les dispositions du présent code protègent les droits des auteurs sur toutes l
 ##### Article L112-2
 
 Sont considérés notamment comme oeuvres de l'esprit au sens du présent code :
+
 1. Les livres, brochures et autres écrits littéraires, artistiques et scientifiques ;
 2. Les conférences, allocutions, sermons, plaidoiries et autres oeuvres de même nature ;
 3. Les oeuvres dramatiques ou dramatico-musicales ;
@@ -146,6 +147,7 @@ Les dispositions des deuxième et troisième alinéas ne sont pas applicables lo
 Ont la qualité d'auteur d'une oeuvre audiovisuelle la ou les personnes physiques qui réalisent la création intellectuelle de cette oeuvre.
 
 Sont présumés, sauf preuve contraire, coauteurs d'une oeuvre audiovisuelle réalisée en collaboration :
+
 1. L'auteur du scénario ;
 2. L'auteur de l'adaptation ;
 3. L'auteur du texte parlé ;
@@ -237,6 +239,7 @@ Si l'un des auteurs refuse d'achever sa contribution à l'oeuvre audiovisuelle o
 ##### Article L121-7
 
 Sauf stipulation contraire plus favorable à l'auteur d'un logiciel, celui-ci ne peut :
+
 1. S'opposer à la modification du logiciel par le cessionnaire des droits mentionnés au 2° de l'article L. 122-6, lorsqu'elle n'est préjudiciable ni à son honneur ni à sa réputation ;
 2. Exercer son droit de repentir ou de retrait.
 
@@ -246,6 +249,7 @@ Sauf stipulation contraire plus favorable à l'auteur d'un logiciel, celui-ci ne
 Le droit de divulgation reconnu à l'agent mentionné au troisième alinéa de l'article L. 111-1, qui a créé une oeuvre de l'esprit dans l'exercice de ses fonctions ou d'après les instructions reçues, s'exerce dans le respect des règles auxquelles il est soumis en sa qualité d'agent et de celles qui régissent l'organisation, le fonctionnement et l'activité de la personne publique qui l'emploie.
 
 L'agent ne peut :
+
 1. S'opposer à la modification de l'oeuvre décidée dans l'intérêt du service par l'autorité investie du pouvoir hiérarchique, lorsque cette modification ne porte pas atteinte à son honneur ou à sa réputation ;
 2. Exercer son droit de repentir et de retrait, sauf accord de l'autorité investie du pouvoir hiérarchique.
 
@@ -282,6 +286,8 @@ Le droit d'exploitation appartenant à l'auteur comprend le droit de représenta
 ##### Article L122-2
 
 La représentation consiste dans la communication de l'oeuvre au public par un procédé quelconque, et notamment :
+
+
 1. Par récitation publique, exécution lyrique, représentation dramatique, présentation publique, projection publique et transmission dans un lieu public de l'oeuvre télédiffusée ;
 2. Par télédiffusion.
 
@@ -298,6 +304,7 @@ Le droit de représentation d'une oeuvre télédiffusée par satellite est régi
 ##### Article L122-2-2
 
 Est également régi par les dispositions du présent code le droit de représentation d'une oeuvre télédiffusée par satellite émise à partir du territoire d'un Etat non membre de la Communauté européenne qui n'assure pas un niveau de protection des droits d'auteur équivalent à celui garanti par le présent code :
+
 1. Lorsque la liaison montante vers le satellite est effectuée à partir d'une station située sur le territoire national. Les droits prévus par le présent code peuvent alors être exercés à l'égard de l'exploitant de la station ;
 2. Lorsque la liaison montante vers le satellite n'est pas effectuée à partir d'une station située dans un Etat membre de la Communauté européenne et lorsque l'émission est réalisée à la demande, pour le compte ou sous le contrôle d'une entreprise de communication audiovisuelle ayant son principal établissement sur le territoire national. Les droits prévus par le présent code peuvent alors être exercés à l'égard de l'entreprise de communication audiovisuelle.
 
@@ -324,6 +331,7 @@ Toute représentation ou reproduction intégrale ou partielle faite sans le cons
 ##### Article L122-5
 
 Lorsque l'oeuvre a été divulguée, l'auteur ne peut interdire :
+
 1. Les représentations privées et gratuites effectuées exclusivement dans un cercle de famille ;
 2. Les copies ou reproductions réalisées à partir d'une source licite et strictement réservées à l'usage privé du copiste et non destinées à une utilisation collective, à l'exception des copies des oeuvres d'art destinées à être utilisées pour des fins identiques à celles pour lesquelles l'oeuvre originale a été créée et des copies d'un logiciel autres que la copie de sauvegarde établie dans les conditions prévues au II de l'article L. 122-6-1 ainsi que des copies ou des reproductions d'une base de données électronique ;
 3. Sous réserve que soient indiqués clairement le nom de l'auteur et la source :
@@ -364,6 +372,7 @@ Les modalités d'application du présent article, notamment les caractéristique
 ##### Article L122-6
 
 Sous réserve des dispositions de l'article L. 122-6-1, le droit d'exploitation appartenant à l'auteur d'un logiciel comprend le droit d'effectuer et d'autoriser :
+
 1. La reproduction permanente ou provisoire d'un logiciel en tout ou partie par tout moyen et sous toute forme. Dans la mesure où le chargement, l'affichage, l'exécution, la transmission ou le stockage de ce logiciel nécessitent une reproduction, ces actes ne sont possibles qu'avec l'autorisation de l'auteur ;
 2. La traduction, l'adaptation, l'arrangement ou toute autre modification d'un logiciel et la reproduction du logiciel en résultant ;
 3. La mise sur le marché à titre onéreux ou gratuit, y compris la location, du ou des exemplaires d'un logiciel par tout procédé. Toutefois, la première vente d'un exemplaire d'un logiciel dans le territoire d'un Etat membre de la Communauté européenne ou d'un Etat partie à l'accord sur l'Espace économique européen par l'auteur ou avec son consentement épuise le droit de mise sur le marché de cet exemplaire dans tous les Etats membres à l'exception du droit d'autoriser la location ultérieure d'un exemplaire.
@@ -380,11 +389,14 @@ II. La personne ayant le droit d'utiliser le logiciel peut faire une copie de sa
 III. La personne ayant le droit d'utiliser le logiciel peut sans l'autorisation de l'auteur observer, étudier ou tester le fonctionnement ou la sécurité de ce logiciel afin de déterminer les idées et principes qui sont à la base de n'importe quel élément du logiciel lorsqu'elle effectue toute opération de chargement, d'affichage, d'exécution, de transmission ou de stockage du logiciel qu'elle est en droit d'effectuer.
 
 IV. La reproduction du code du logiciel ou la traduction de la forme de ce code n'est pas soumise à l'autorisation de l'auteur lorsque la reproduction ou la traduction au sens du 1° ou du 2° de l'article L. 122-6 est indispensable pour obtenir les informations nécessaires à l'interopérabilité d'un logiciel créé de façon indépendante avec d'autres logiciels, sous réserve que soient réunies les conditions suivantes :
+
+
 1. Ces actes sont accomplis par la personne ayant le droit d'utiliser un exemplaire du logiciel ou pour son compte par une personne habilitée à cette fin ;
 2. Les informations nécessaires à l'interopérabilité n'ont pas déjà été rendues facilement et rapidement accessibles aux personnes mentionnées au 1° ci-dessus ;
 3. Et ces actes sont limités aux parties du logiciel d'origine nécessaires à cette interopérabilité.
 
 Les informations ainsi obtenues ne peuvent être :
+
 1. Ni utilisées à des fins autres que la réalisation de l'interopérabilité du logiciel créé de façon indépendante ;
 2. Ni communiquées à des tiers sauf si cela est nécessaire à l'interopérabilité du logiciel créé de façon indépendante ;
 3. Ni utilisées pour la mise au point, la production ou la commercialisation d'un logiciel dont l'expression est substantiellement similaire ou pour tout autre acte portant atteinte au droit d'auteur.
@@ -600,6 +612,7 @@ Un décret en Conseil d'Etat fixe les modalités d'application des articles L. 1
 La cession par l'auteur de ses droits sur son oeuvre peut être totale ou partielle. Elle doit comporter au profit de l'auteur la participation proportionnelle aux recettes provenant de la vente ou de l'exploitation.
 
 Toutefois, la rémunération de l'auteur peut être évaluée forfaitairement dans les cas suivants :
+
 1. La base de calcul de la participation proportionnelle ne peut être pratiquement déterminée ;
 2. Les moyens de contrôler l'application de la participation font défaut ;
 3. Les frais des opérations de calcul et de contrôle seraient hors de proportion avec les résultats à atteindre ;
@@ -687,6 +700,7 @@ Le contrat d'édition garantit aux auteurs, lors de la commercialisation ou de l
 ###### Article L132-6
 
 En ce qui concerne l'édition de librairie, la rémunération de l'auteur peut faire l'objet d'une rémunération forfaitaire pour la première édition, avec l'accord formellement exprimé de l'auteur, dans les cas suivants :
+
 1. Ouvrages scientifiques ou techniques ;
 2. Anthologies et encyclopédies ;
 3. Préfaces, annotations, introductions, présentations ;
@@ -826,6 +840,7 @@ L'entrepreneur de spectacles ne peut transférer le bénéfice de son contrat sa
 ###### Article L132-20
 
 Sauf stipulation contraire :
+
 1. L'autorisation de télédiffuser une oeuvre par voie hertzienne ne comprend pas la distribution par câble de cette télédiffusion, à moins qu'elle ne soit faite en simultané et intégralement par l'organisme bénéficiaire de cette autorisation et sans extension de la zone géographique contractuellement prévue ;
 2. L'autorisation de télédiffuser l'oeuvre ne vaut pas autorisation de communiquer la télédiffusion de cette oeuvre dans un lieu accessible au public ;
 3. L'autorisation de télédiffuser l'oeuvre par voie hertzienne ne comprend pas son émission vers un satellite permettant la réception de cette oeuvre par l'intermédiaire d'organismes tiers, à moins que les auteurs ou leurs ayants droit aient contractuellement autorisé ces organismes à communiquer l'oeuvre au public ; dans ce cas, l'organisme d'émission est exonéré du paiement de toute rémunération ;
@@ -841,6 +856,7 @@ Si le titulaire du droit n'en a pas déjà confié la gestion à l'une de ces so
 Le contrat autorisant la télédiffusion d'une oeuvre sur le territoire national mentionne la société chargée d'exercer le droit d'autoriser sa retransmission par câble, simultanée, intégrale et sans changement, dans les Etats membres de la Communauté européenne.
 
 L'agrément prévu au premier alinéa est délivré en considération :
+
 1. De la qualification professionnelle des dirigeants des sociétés et des moyens que celles-ci peuvent mettre en oeuvre pour assurer le recouvrement des droits définis au premier alinéa et l'exploitation de leur répertoire ;
 2. De l'importance de leur répertoire ;
 3. De leur respect des obligations que leur imposent les dispositions du titre II du livre III.
@@ -1107,6 +1123,7 @@ La seconde part est assise sur le prix public de vente hors taxes des livres ach
 ##### Article L133-4
 
 La rémunération au titre du prêt en bibliothèque est répartie dans les conditions suivantes :
+
 1. Une première part est répartie à parts égales entre les auteurs et leurs éditeurs à raison du nombre d'exemplaires des livres achetés chaque année, pour leurs bibliothèques accueillant du public pour le prêt, par les personnes morales mentionnées au troisième alinéa (2°) de l'article 3 de la loi n° 81-766 du 10 août 1981 précitée, déterminé sur la base des informations que ces personnes et leurs fournisseurs communiquent à la ou aux sociétés mentionnées à l'article L. 133-2 ;
 2. Une seconde part, qui ne peut excéder la moitié du total, est affectée à la prise en charge d'une fraction des cotisations dues au titre de la retraite complémentaire par les personnes visées aux troisième et quatrième alinéas de l'article L. 382-12 du code de la sécurité sociale.
 
@@ -1136,6 +1153,7 @@ Sauf dans le cas prévu au troisième alinéa de l'article L. 134-5, la reproduc
 II. ― Les sociétés agréées ont qualité pour ester en justice pour la défense des droits dont elles ont la charge.
 
 III. ― L'agrément prévu au I est délivré en considération :
+
 1. De la diversité des associés de la société ;
 2. De la représentation paritaire des auteurs et des éditeurs parmi les associés et au sein des organes dirigeants ;
 3. De la qualification professionnelle des dirigeants de la société ;
@@ -1241,6 +1259,7 @@ Outre toute personne justifiant d'un intérêt pour agir, le ministre chargé de
 ##### Article L211-3
 
 Les bénéficiaires des droits ouverts au présent titre ne peuvent interdire :
+
 1. Les représentations privées et gratuites effectuées exclusivement dans un cercle de famille ;
 2. Les reproductions réalisées à partir d'une source licite, strictement réservées à l'usage privé de la personne qui les réalise et non destinées à une utilisation collective ;
 3. Sous réserve d'éléments suffisants d'identification de la source :
@@ -1263,6 +1282,7 @@ Les exceptions énumérées par le présent article ne peuvent porter atteinte �
 ##### Article L211-4
 
 La durée des droits patrimoniaux objets du présent titre est de cinquante années à compter du 1er janvier de l'année civile suivant celle :
+
 1. De l'interprétation pour les artistes-interprètes. Toutefois, si une fixation de l'interprétation fait l'objet d'une mise à disposition du public, par des exemplaires matériels, ou d'une communication au public pendant la période définie au premier alinéa, les droits patrimoniaux de l'artiste-interprète n'expirent que cinquante ans après le 1er janvier de l'année civile suivant le premier de ces faits ;
 2. De la première fixation d'une séquence de son pour les producteurs de phonogrammes. Toutefois, si un phonogramme fait l'objet, par des exemplaires matériels, d'une mise à disposition du public pendant la période définie au premier alinéa, les droits patrimoniaux du producteur du phonogramme n'expirent que cinquante ans après le 1er janvier de l'année civile suivant ce fait. En l'absence de mise à disposition du public, ses droits expirent cinquante ans après le 1er janvier de l'année civile suivant la première communication au public ;
 3. De la première fixation d'une séquence d'images sonorisées ou non pour les producteurs de vidéogrammes. Toutefois, si un vidéogramme fait l'objet, par des exemplaires matériels, d'une mise à disposition du public ou d'une communication au public pendant la période définie au premier alinéa, les droits patrimoniaux du producteur du vidéogramme n'expirent que cinquante ans après le 1er janvier de l'année civile suivant le premier de ces faits ;
@@ -1362,6 +1382,7 @@ L'autorisation du producteur de phonogrammes est requise avant toute reproductio
 ##### Article L214-1
 
 Lorsqu'un phonogramme a été publié à des fins de commerce, l'artiste-interprète et le producteur ne peuvent s'opposer :
+
 1. A sa communication directe dans un lieu public, dès lors qu'il n'est pas utilisé dans un spectacle ;
 2. A sa radiodiffusion et à sa câblo-distribution simultanée et intégrale, ainsi qu'à sa reproduction strictement réservée à ces fins, effectuée par ou pour le compte d'entreprises de communication audiovisuelle en vue de sonoriser leurs programmes propres diffusés sur leur antenne ainsi que sur celles des entreprises de communication audiovisuelle qui acquittent la rémunération équitable.
 
@@ -1545,6 +1566,7 @@ La rémunération pour copie privée des oeuvres visées au second alinéa de l'
 ##### Article L311-8
 
 I.-La rémunération pour copie privée n'est pas due lorsque le support d'enregistrement est acquis pour leur propre usage ou production par :
+
 1. Les entreprises de communication audiovisuelle ;
 2. Les producteurs de phonogrammes ou de vidéogrammes et les personnes qui assurent, pour le compte des producteurs de phonogrammes ou de vidéogrammes, la reproduction de ceux-ci ;
 2. bis Les éditeurs d'oeuvres publiées sur des supports numériques ;
@@ -1620,6 +1642,7 @@ Les statuts des sociétés de perception et de répartition des droits doivent p
 ##### Article L321-9
 
 Ces sociétés utilisent à des actions d'aide à la création, à la diffusion du spectacle vivant et à des actions de formation des artistes :
+
 1. 25 % des sommes provenant de la rémunération pour copie privée ;
 2. La totalité des sommes perçues en application des articles L. 122-10, L. 132-20-1, L. 214-1, L. 217-2 et L. 311-1 et qui n'ont pu être réparties soit en application des conventions internationales auxquelles la France est partie, soit parce que leurs destinataires n'ont pas pu être identifiés ou retrouvés avant l'expiration du délai prévu au dernier alinéa de l'article L. 321-1.
 
@@ -1695,6 +1718,7 @@ Cette protection est indépendante et s'exerce sans préjudice de celles résult
 ##### Article L341-2
 
 Sont admis au bénéfice du présent titre :
+
 1. Les producteurs de bases de données, ressortissants d'un Etat membre de la Communauté européenne ou d'un Etat partie à l'accord sur l'Espace économique européen, ou qui ont dans un tel Etat leur résidence habituelle ;
 2. Les sociétés ou entreprises constituées en conformité avec la législation d'un Etat membre et ayant leur siège statutaire, leur administration centrale ou leur établissement principal à l'intérieur de la Communauté ou d'un Etat partie à l'accord sur l'Espace économique européen ; néanmoins, si une telle société ou entreprise n'a que son siège statutaire sur le territoire d'un tel Etat, ses activités doivent avoir un lien réel et continu avec l'économie de l'un d'entre eux.
 
@@ -1706,6 +1730,7 @@ Les producteurs de bases de données qui ne satisfont pas aux conditions mention
 ##### Article L342-1
 
 Le producteur de bases de données a le droit d'interdire :
+
 1. L'extraction, par transfert permanent ou temporaire de la totalité ou d'une partie qualitativement ou quantitativement substantielle du contenu d'une base de données sur un autre support, par tout moyen et sous toute forme que ce soit ;
 2. La réutilisation, par la mise à la disposition du public de la totalité ou d'une partie qualitativement ou quantitativement substantielle du contenu de la base, quelle qu'en soit la forme.
 
@@ -1722,6 +1747,7 @@ Le producteur peut également interdire l'extraction ou la réutilisation répé
 ##### Article L342-3
 
 Lorsqu'une base de données est mise à la disposition du public par le titulaire des droits, celui-ci ne peut interdire :
+
 1. L'extraction ou la réutilisation d'une partie non substantielle, appréciée de façon qualitative ou quantitative, du contenu de la base, par la personne qui y a licitement accès ;
 2. L'extraction à des fins privées d'une partie qualitativement ou quantitativement substantielle du contenu d'une base de données non électronique sous réserve du respect des droits d'auteur ou des droits voisins sur les oeuvres ou éléments incorporés dans la base ;
 3. L'extraction et la réutilisation d'une base de données dans les conditions définies aux deux premiers alinéas du 7° de l'article L. 122-5 ;
@@ -2056,6 +2082,7 @@ En toute matière et pour tous les services mentionnés à l'article L. 422-1, l
 ##### Article L422-12
 
 La profession de conseil en propriété industrielle est incompatible :
+
 1. Avec toute activité de caractère commercial, qu'elle soit exercée directement ou par personne interposée ;
 2. Avec la qualité d'associé dans une société en nom collectif, d'associé commandité dans une société en commandite simple ou par actions, de gérant d'une société à responsabilité limitée, de président du conseil d'administration, membre du directoire, directeur général ou directeur général délégué d'une société anonyme, de président ou dirigeant d'une société par actions simplifiée, de gérant d'une société civile, à moins que ces sociétés n'aient pour objet l'exercice de la profession de conseil en propriété industrielle ou la gestion d'intérêts professionnels connexes ou d'intérêts familiaux ;
 3. Avec la qualité de membre du conseil de surveillance ou d'administrateur d'une société commerciale, lorsque le conseil en propriété industrielle a moins de sept années d'exercice professionnel et n'a pas obtenu préalablement une dispense dans des conditions prévues par décret en Conseil d'Etat.
@@ -2176,6 +2203,7 @@ Les dessins ou modèles contraires à l'ordre public ou aux bonnes moeurs ne son
 ###### Article L511-8
 
 N'est pas susceptible de protection :
+
 1. L'apparence dont les caractéristiques sont exclusivement imposées par la fonction technique du produit ;
 2. L'apparence d'un produit dont la forme et la dimension exactes doivent être nécessairement reproduites pour qu'il puisse être mécaniquement associé à un autre produit par une mise en contact, un raccordement, un placement à l'intérieur ou à l'extérieur dans des conditions permettant à chacun de ces produits de remplir sa fonction.
 
@@ -2429,6 +2457,7 @@ Lorsque les mesures prises pour faire cesser une atteinte aux droits sont ordonn
 ##### Article L521-7
 
 Pour fixer les dommages et intérêts, la juridiction prend en considération distinctement :
+
 1. Les conséquences économiques négatives de la contrefaçon, dont le manque à gagner et la perte subis par la partie lésée ;
 2. Le préjudice moral causé à cette dernière ;
 3. Et les bénéfices réalisés par le contrefacteur, y compris les économies d'investissements intellectuels, matériels et promotionnels que celui-ci a retirées de la contrefaçon.
@@ -2543,6 +2572,7 @@ Lors du contrôle des marchandises mises en retenue, l'administration des douane
 ##### Article L521-17-1
 
 I. ― Lorsque la retenue portant sur des marchandises soupçonnées de constituer une contrefaçon d'un dessin et modèle déposé est mise en œuvre après qu'une demande mentionnée à l'article L. 521-14 a été acceptée, les marchandises soupçonnées de porter atteinte à un dessin et modèle déposé peuvent être détruites sous le contrôle des agents des douanes dès lors que les conditions suivantes sont remplies :
+
 1. Le demandeur a confirmé par écrit et par une expertise détaillée aux autorités douanières, dans un délai de dix jours ouvrables, ou de trois jours ouvrables pour les denrées périssables, à partir de la notification de la retenue, le caractère contrefaisant des marchandises ;
 2. Le demandeur a confirmé par écrit aux autorités douanières, dans un délai de dix jours ouvrables, ou de trois jours ouvrables pour les denrées périssables, à partir de la notification de la retenue, qu'il consent à la destruction, sous sa responsabilité, des marchandises ;
 3. Le détenteur des marchandises a confirmé par écrit aux autorités douanières, dans un délai de dix jours ouvrables, ou de trois jours ouvrables pour les denrées périssables, à partir de la notification de la retenue, qu'il consent à la destruction des marchandises.
@@ -2561,6 +2591,7 @@ IV. ― Dans le cadre de la communication d'informations prévues au troisième 
 I. ― Lorsque la retenue portant sur des marchandises soupçonnées de constituer une contrefaçon d'un dessin et modèle déposé est mise en œuvre après qu'une demande mentionnée à l'article L. 521-14 a été acceptée, les marchandises transportées en petits envois peuvent être détruites sous le contrôle des agents des douanes lorsque le demandeur a, dans sa demande, sollicité le recours à la procédure prévue au présent article.
 
 II. ― La notification mentionnée à la première phrase du deuxième alinéa de l'article L. 521-14 est faite dans un délai d'un jour ouvrable à compter de la date de la mise en retenue. Elle mentionne l'intention de l'administration des douanes de détruire ou non les marchandises et indique que :
+
 1. Le détenteur des marchandises dispose d'un délai de dix jours ouvrables à compter de la notification de la retenue pour faire connaître à l'administration des douanes ses observations ;
 2. Les marchandises concernées peuvent être détruites lorsque, dans un délai de dix jours ouvrables à partir de leur mise en retenue, le détenteur des marchandises a confirmé à l'administration des douanes qu'il consent à cette destruction. En cas de silence du détenteur des marchandises à l'issue de ce délai, le détenteur est réputé avoir consenti à leur destruction.
 
@@ -2590,6 +2621,7 @@ En vue de prononcer les mesures prévues aux articles L. 521-14 à L. 521-17-3, 
 ##### Article L521-19
 
 Un décret en Conseil d'Etat fixe :
+
 1. Les conditions d'application des mesures prévues aux articles L. 521-14 à L. 521-17-3 ;
 2. Les conditions dans lesquelles a lieu la destruction des marchandises susceptibles de constituer une contrefaçon d'un dessin ou modèle, prévue par la réglementation de l'Union européenne, ainsi que les conditions du prélèvement d'échantillons préalable à ladite destruction.
 
@@ -2628,6 +2660,7 @@ Sauf stipulation contraire d'un engagement international auquel la France est pa
 ###### Article L611-2
 
 Les titres de propriété industrielle protégeant les inventions sont :
+
 1. Les brevets d'invention, délivrés pour une durée de vingt ans à compter du jour du dépôt de la demande ;
 2. Les certificats d'utilité, délivrés pour une durée de six ans à compter du jour du dépôt de la demande ;
 3. Les certificats complémentaires de protection rattachés à un brevet dans les conditions prévues à l'article L. 611-3, prenant effet au terme légal du brevet auquel ils se rattachent pour une durée ne pouvant excéder sept ans à compter de ce terme et dix-sept ans à compter de la délivrance de l'autorisation de mise sur le marché mentionnée à ce même article.
@@ -2661,6 +2694,7 @@ Dans la procédure devant le directeur de l'Institut national de la propriété 
 ###### Article L611-7
 
 Si l'inventeur est un salarié, le droit au titre de propriété industrielle, à défaut de stipulation contractuelle plus favorable au salarié, est défini selon les dispositions ci-après :
+
 1. Les inventions faites par le salarié dans l'exécution soit d'un contrat de travail comportant une mission inventive qui correspond à ses fonctions effectives, soit d'études et de recherches qui lui sont explicitement confiées, appartiennent à l'employeur. Les conditions dans lesquelles le salarié, auteur d'une telle invention, bénéficie d'une rémunération supplémentaire sont déterminées par les conventions collectives, les accords d'entreprise et les contrats individuels de travail.
 
 Si l'employeur n'est pas soumis à une convention collective de branche, tout litige relatif à la rémunération supplémentaire est soumis à la commission de conciliation instituée par l'article L. 615-21 ou au tribunal de grande instance.
@@ -2783,6 +2817,7 @@ d) Les séquences totales ou partielles d'un gène prises en tant que telles.
 ###### Article L611-19
 
 I. - Ne sont pas brevetables :
+
 1. Les races animales ;
 2. Les variétés végétales telles que définies à l'article 5 du règlement (CE) n° 2100/94 du Conseil, du 27 juillet 1994, instituant un régime de protection communautaire des obtentions végétales ;
 3. Les procédés essentiellement biologiques pour l'obtention des végétaux et des animaux ; sont considérés comme tels les procédés qui font exclusivement appel à des phénomènes naturels comme le croisement ou la sélection ;
@@ -2897,6 +2932,7 @@ Le directeur de l'Institut national de la propriété industrielle examine la co
 ###### Article L612-12
 
 Est rejetée, en tout ou partie, toute demande de brevet :
+
 1. Qui ne satisfait pas aux conditions visées à l'article L. 612-1 ;
 2. Qui n'a pas été divisée conformément à l'article L. 612-4 ;
 3. Qui porte sur une demande divisionnaire dont l'objet s'étend au-delà du contenu de la description de la demande initiale ;
@@ -2996,6 +3032,7 @@ Les modalités d'application du présent article sont fixées par décret en Con
 ###### Article L612-21
 
 L'Institut national de la propriété industrielle assure la publication, dans les conditions définies par décret en Conseil d'Etat, par mention au Bulletin officiel de la propriété industrielle, par mise à la disposition du public du texte intégral ou par diffusion grâce à une banque de données ou à la distribution du support informatique :
+
 1. Du dossier de toute demande d'un brevet ou d'un certificat d'utilité au terme d'un délai de dix-huit mois à compter de sa date de dépôt ou à compter de la date de priorité si une priorité a été revendiquée, ou, sur simple requête du demandeur, avant l'expiration de ce délai ;
 2. De toute demande d'un certificat complémentaire de protection, en annexe à la demande du brevet auquel le certificat se rattache, ou si cette dernière demande a déjà été publiée, dès son dépôt, avec l'indication dans ce cas du brevet auquel le certificat se rattache ;
 3. De tout acte de procédure subséquent ;
@@ -3668,6 +3705,7 @@ Les frais liés à la mesure de retenue ou aux mesures conservatoires prononcée
 Aux fins de l'engagement des actions en justice mentionnées au quatrième alinéa du présent article, le demandeur peut obtenir de l'administration des douanes communication des nom et adresse de l'expéditeur, de l'importateur, du destinataire et du déclarant des marchandises retenues ou de leur détenteur, ainsi que des images de ces marchandises et des informations sur leur quantité, leur origine, leur provenance et leur destination, par dérogation à l'article 59 bis du code des douanes.
 
 La retenue mentionnée au premier alinéa du présent article ne porte pas :
+
 1. Sur les marchandises de statut communautaire, légalement fabriquées ou mises en libre pratique dans un Etat membre de l'Union européenne et destinées, après avoir emprunté le territoire douanier défini à l'article 1er du code des douanes, à être mises sur le marché d'un autre Etat membre de l'Union européenne pour y être légalement commercialisées ;
 2. Sur les marchandises de statut communautaire, légalement fabriquées ou mises en libre pratique dans un autre Etat membre de l'Union européenne, dans lequel elles ont été placées sous le régime du transit, et qui sont destinées, après avoir transité sur le territoire douanier défini au même article 1er, à être exportées vers un Etat non membre de l'Union européenne.
 
@@ -3706,6 +3744,7 @@ Lors du contrôle des marchandises mises en retenue, l'administration des douane
 ##### Article L614-36
 
 I. ― Lorsque la retenue portant sur des marchandises soupçonnées de constituer une contrefaçon d'un brevet, d'un certificat complémentaire de protection ou d'un certificat d'utilité est mise en œuvre après qu'une demande mentionnée à l'article L. 614-32 a été acceptée, les marchandises soupçonnées de porter atteinte à un brevet, un certificat complémentaire de protection ou un certificat d'utilité peuvent être détruites sous le contrôle des agents des douanes dès lors que les conditions suivantes sont remplies :
+
 1. Le demandeur a confirmé par écrit et par une expertise détaillée aux autorités douanières, dans un délai de dix jours ouvrables, ou de trois jours ouvrables pour les denrées périssables, à partir de la notification de la retenue, le caractère contrefaisant des marchandises ;
 2. Le demandeur a confirmé par écrit aux autorités douanières, dans un délai de dix jours ouvrables, ou de trois jours ouvrables pour les denrées périssables, à partir de la notification de la retenue, qu'il consent à la destruction, sous sa responsabilité, des marchandises ;
 3. Le détenteur des marchandises a confirmé par écrit aux autorités douanières, dans un délai de dix jours ouvrables, ou de trois jours ouvrables pour les denrées périssables, à partir de la notification de la retenue, qu'il consent à la destruction des marchandises.
@@ -3732,6 +3771,7 @@ En vue de prononcer les mesures prévues aux articles L. 614-32 à L. 614-35, le
 ##### Article L614-39
 
 Un décret en Conseil d'Etat fixe :
+
 1. Les conditions d'application des mesures prévues aux articles L. 614-32 à L. 614-37 ;
 2. Les conditions dans lesquelles a lieu la destruction des marchandises susceptibles de porter atteinte à un brevet, un certificat complémentaire de protection ou un certificat d'utilité prévue par la réglementation européenne en vigueur, ainsi que les conditions du prélèvement d'échantillons préalable à ladite destruction.
 
@@ -3790,6 +3830,7 @@ Lorsque les mesures prises pour faire cesser une atteinte aux droits sont ordonn
 Par exception aux dispositions de l'article L. 613-1, les faits antérieurs à la date à laquelle la demande de brevet a été rendue publique en vertu de l'article L. 612-21 ou à celle de la notification à tout tiers d'une copie certifiée de cette demande ne sont pas considérés comme ayant porté atteinte aux droits attachés au brevet.
 
 Toutefois, entre la date visée à l'alinéa précédent et celle de la publication de la délivrance du brevet :
+
 1. Le brevet n'est opposable que dans la mesure où les revendications n'ont pas été étendues après la première de ces dates ;
 2. Lorsque le brevet concerne l'utilisation d'un micro-organisme, il n'est opposable qu'à compter du jour où le micro-organisme est mis à la disposition du public.
 
@@ -3840,6 +3881,7 @@ Dans une instance en contrefaçon introduite en vertu d'une demande de certifica
 ###### Article L615-7
 
 Pour fixer les dommages et intérêts, la juridiction prend en considération distinctement :
+
 1. Les conséquences économiques négatives de la contrefaçon, dont le manque à gagner et la perte subis par la partie lésée ;
 2. Le préjudice moral causé à cette dernière ;
 3. Et les bénéfices réalisés par le contrefacteur, y compris les économies d'investissements intellectuels, matériels et promotionnels que celui-ci a retirées de la contrefaçon.
@@ -4090,6 +4132,7 @@ Le chapitre IV bis du titre Ier du présent livre est applicable au présent cha
 ###### Article L623-1
 
 Pour l'application du présent chapitre, constitue une " variété " un ensemble végétal d'un taxon botanique du rang le plus bas connu qui peut être :
+
 1. Défini par l'expression des caractères résultant d'un certain génotype ou d'une certaine combinaison de génotypes ;
 2. Distingué de tout autre ensemble végétal par l'expression d'au moins un desdits caractères ;
 3. Considéré comme une entité eu égard à son aptitude à être reproduit conforme.
@@ -4098,6 +4141,7 @@ Pour l'application du présent chapitre, constitue une " variété " un ensemble
 ###### Article L623-2
 
 Pour l'application du présent chapitre, est appelée "obtention végétale" la variété nouvelle créée qui :
+
 1. Se distingue nettement de toute autre variété dont l'existence, à la date du dépôt de la demande, est notoirement connue ;
 2. Est homogène, c'est-à-dire suffisamment uniforme dans ses caractères pertinents, sous réserve de la variation prévisible compte tenu des particularités de sa reproduction sexuée ou de sa multiplication végétative ;
 3. Demeure stable, c'est-à-dire identique à sa définition initiale à la suite de ses reproductions ou multiplications successives ou, en cas de cycle particulier de reproduction ou de multiplication, à la fin de chaque cycle.
@@ -4113,15 +4157,18 @@ Toute obtention végétale répondant aux conditions de l'article L. 623-2 est d
 I.-Toute obtention végétale peut faire l'objet d'un titre appelé " certificat d'obtention végétale " qui confère à son titulaire un droit exclusif de produire, reproduire, conditionner aux fins de la reproduction ou de la multiplication, offrir à la vente, vendre ou commercialiser sous toute autre forme, exporter, importer ou détenir à l'une de ces fins du matériel de reproduction ou de multiplication de la variété protégée.
 
 II.-Lorsque les produits mentionnés aux 1° et 2° du présent II ont été obtenus par l'utilisation non autorisée de matériel de reproduction ou de multiplication de la variété protégée, le droit exclusif s'étend, à moins que l'obtenteur ait raisonnablement pu exercer son droit sur les produits en question :
+
 1. Au produit de la récolte, y compris aux plantes entières et aux parties de plantes ;
 2. Aux produits fabriqués directement à partir d'un produit de récolte de la variété protégée.
 
 III.-Le droit exclusif du titulaire s'étend :
+
 1. Aux variétés qui ne se distinguent pas nettement de la variété protégée au sens de l'article L. 623-2 ;
 2. Aux variétés dont la production nécessite l'emploi répété de la variété protégée ;
 3. Aux variétés essentiellement dérivées de la variété protégée au sens du même article L. 623-2, lorsque cette variété n'est pas elle-même une variété essentiellement dérivée.
 
 IV.-Constitue une variété essentiellement dérivée d'une autre variété, dite " variété initiale ", une variété qui :
+
 1. Est principalement dérivée de la variété initiale ou d'une variété qui est elle-même principalement dérivée de la variété initiale ;
 2. Se distingue nettement de la variété initiale au sens dudit article L. 623-2 ;
 3. Sauf en ce qui concerne les différences résultant de la dérivation, est conforme à la variété initiale dans l'expression des caractères essentiels résultant du génotype ou de la combinaison de génotypes de la variété initiale.
@@ -4132,6 +4179,7 @@ V.-Sous réserve des dispositions de l'article L. 623-24-1, sont interdits, à d
 ###### Article L623-4-1
 
 I.-Le droit du titulaire ne s'étend pas :
+
 1. Aux actes accomplis à titre privé à des fins non professionnelles ou non commerciales ;
 2. Aux actes accomplis à titre expérimental ;
 3. Aux actes accomplis aux fins de la création d'une nouvelle variété ni aux actes visés au I de l'article L. 623-4 portant sur cette nouvelle variété, à moins que les III et IV de ce même article ne soient applicables.
@@ -4139,6 +4187,7 @@ I.-Le droit du titulaire ne s'étend pas :
 II.-Le droit du titulaire ne s'étend pas aux actes concernant sa variété ou une variété essentiellement dérivée de sa variété, ou une variété qui ne s'en distingue pas nettement, lorsque du matériel de cette variété ou du matériel dérivé de celui-ci a été vendu ou commercialisé sous quelque forme que ce soit par le titulaire ou avec son consentement.
 
 Toutefois, le droit du titulaire subsiste lorsque ces actes :
+
 1. Impliquent une nouvelle reproduction ou multiplication de la variété en cause ;
 2. Impliquent une exportation vers un pays n'appliquant aucune protection de la propriété intellectuelle aux variétés appartenant à la même espèce végétale de matériel de la variété permettant de la reproduire, sauf si le matériel exporté est destiné, en tant que tel, à la consommation humaine ou animale.
 
@@ -4312,6 +4361,7 @@ Si le titulaire d'une licence ne satisfait pas aux conditions auxquelles cette l
 Toute personne de droit public ou de droit privé peut obtenir une licence obligatoire dans les conditions prévues au présent article et à l'article L. 623-22-4.
 
 La demande de licence obligatoire est formée auprès du tribunal de grande instance du lieu de situation du titulaire du droit. Elle doit être accompagnée de la justification que :
+
 1. Le demandeur n'a pu obtenir une licence dans un délai d'un an à dater de sa demande auprès du titulaire du certificat ;
 2. Qu'il est en état d'exploiter la variété de manière sérieuse et effective ;
 3. Que la licence est d'intérêt public eu égard, notamment, à l'insuffisance notoire d'approvisionnement du marché agricole concerné par cette variété.
@@ -4335,6 +4385,7 @@ Cette cession ou transmission est, à peine de nullité, soumise à l'autorisati
 ###### Article L623-23
 
 Est déchu de son droit tout titulaire d'un certificat d'obtention végétale :
+
 1. Qui n'est pas en mesure de présenter à tout moment à l'administration les éléments de reproduction ou de multiplication végétative permettant de reproduire la variété protégée avec les caractères morphologiques et physiologiques tels qu'ils ont été définis dans le certificat d'obtention ;
 2. Qui refuse de se soumettre aux inspections faites en vue de vérifier les mesures qu'il a prises pour la conservation de la variété ;
 3. Qui n'a pas acquitté dans le délai prescrit la redevance annuelle visée au deuxième alinéa de l'article L. 623-16.
@@ -4345,6 +4396,7 @@ La déchéance est constatée par l'organisme mentionné à l'article L. 412-1. 
 ###### Article L623-23-1
 
 Le certificat d'obtention végétale est déclaré nul, par décision de justice, s'il est avéré :
+
 1. Soit qu'il a été attribué à une personne qui n'y avait pas droit, à moins qu'il ne soit transféré à la personne qui y a droit ;
 2. Soit qu'à la date à laquelle il a été délivré la variété ne satisfaisait pas aux conditions mentionnées à l'article L. 623-2.
 
@@ -4454,6 +4506,7 @@ La production de documents ou d'informations peut être ordonnée s'il n'existe 
 ###### Article L623-28
 
 Pour fixer les dommages et intérêts, la juridiction prend en considération distinctement :
+
 1. Les conséquences économiques négatives de la contrefaçon, dont le manque à gagner et la perte subis par la partie lésée ;
 2. Le préjudice moral causé à cette dernière ;
 3. Et les bénéfices réalisés par le contrefacteur, y compris les économies d'investissements intellectuels, matériels et promotionnels que celui-ci a retirées de la contrefaçon.
@@ -4561,6 +4614,7 @@ Les frais liés à la mesure de retenue ou aux mesures conservatoires prononcée
 Aux fins de l'engagement des actions en justice mentionnées au quatrième alinéa du présent article, le demandeur peut obtenir de l'administration des douanes communication des nom et adresse de l'expéditeur, de l'importateur, du destinataire et du déclarant des marchandises retenues ou de leur détenteur, ainsi que des images de ces marchandises et des informations sur leur quantité, leur origine, leur provenance et leur destination, par dérogation à l'article 59 bis du code des douanes.
 
 La retenue mentionnée au premier alinéa du présent article ne porte pas :
+
 1. Sur les marchandises de statut communautaire, légalement fabriquées ou mises en libre pratique dans un Etat membre de l'Union européenne et destinées, après avoir emprunté le territoire douanier défini à l'article 1er du code des douanes, à être mises sur le marché d'un autre Etat membre de l'Union européenne pour y être légalement commercialisées ;
 2. Sur les marchandises de statut communautaire, légalement fabriquées ou mises en libre pratique dans un autre Etat membre de l'Union européenne, dans lequel elles ont été placées sous le régime du transit, et qui sont destinées, après avoir transité sur le territoire douanier défini au même article 1er, à être exportées vers un Etat non membre de l'Union européenne.
 
@@ -4599,6 +4653,7 @@ Lors du contrôle des marchandises mises en retenue, l'administration des douane
 ###### Article L623-40
 
 I. ― Lorsque la retenue portant sur des marchandises soupçonnées de constituer une contrefaçon d'un certificat d'obtention végétale est mise en œuvre après qu'une demande mentionnée à l'article L. 623-36 a été acceptée, les marchandises soupçonnées de porter atteinte à un certificat d'obtention végétale peuvent être détruites sous le contrôle des agents des douanes dès lors que les conditions suivantes sont remplies :
+
 1. Le demandeur a confirmé par écrit et par une expertise détaillée aux autorités douanières, dans un délai de dix jours ouvrables, ou de trois jours ouvrables pour les denrées périssables, à partir de la notification de la retenue, le caractère contrefaisant des marchandises ;
 2. Le demandeur a confirmé par écrit aux autorités douanières, dans un délai de dix jours ouvrables, ou de trois jours ouvrables pour les denrées périssables, à partir de la notification de la retenue, qu'il consent à la destruction, sous sa responsabilité, des marchandises ;
 3. Le détenteur des marchandises a confirmé par écrit aux autorités douanières, dans un délai de dix jours ouvrables, ou de trois jours ouvrables pour les denrées périssables, à partir de la notification de la retenue, qu'il consent à la destruction des marchandises.
@@ -4625,6 +4680,7 @@ En vue de prononcer les mesures prévues aux articles L. 623-36 à L. 623-39, le
 ###### Article L623-43
 
 Un décret en Conseil d'Etat fixe :
+
 1. Les conditions d'application des mesures prévues aux articles L. 623-36 à L. 623-41 ;
 2. Les conditions dans lesquelles a lieu la destruction des marchandises susceptibles de porter atteinte à un certificat d'obtention végétale prévue par la réglementation européenne en vigueur ainsi que les conditions du prélèvement d'échantillons préalable à ladite destruction.
 
@@ -5019,6 +5075,7 @@ La marque collective de certification est appliquée au produit ou au service qu
 ##### Article L715-2
 
 Les dispositions du présent livre sont applicables aux marques collectives, sous réserve, en ce qui concerne les marques collectives de certification, des dispositions particulières ci-après ainsi que de celles de l'article L. 715-3 :
+
 1. Une marque collective de certification ne peut être déposée que par une personne morale qui n'est ni fabricant, ni importateur, ni vendeur des produits ou services ;
 2. Le dépôt d'une marque collective de certification doit comprendre un règlement déterminant les conditions auxquelles est subordonné l'usage de la marque ;
 3. L'usage de la marque collective de certification est ouvert à toutes les personnes, distinctes du titulaire, qui fournissent des produits ou des services répondant aux conditions imposées par le règlement ;
@@ -5093,6 +5150,7 @@ Lors du contrôle des marchandises mises en retenue, l'administration des douane
 ###### Article L716-8-4
 
 I.-Lorsque la retenue portant sur des marchandises soupçonnées de constituer une contrefaçon d'une marque enregistrée est mise en œuvre après qu'une demande mentionnée à l'article L. 716-8 a été acceptée, les marchandises soupçonnées de porter atteinte à la marque enregistrée peuvent être détruites sous le contrôle des agents des douanes dès lors que les conditions suivantes sont remplies :
+
 1. Le demandeur a confirmé par écrit et par une expertise détaillée aux autorités douanières, dans un délai de dix jours ouvrables, ou de trois jours ouvrables pour les denrées périssables, à partir de la notification de la retenue, le caractère contrefaisant des marchandises ;
 2. Le demandeur a confirmé par écrit aux autorités douanières, dans un délai de dix jours ouvrables, ou de trois jours ouvrables pour les denrées périssables, à partir de la notification de la retenue, qu'il consent à la destruction, sous sa responsabilité, des marchandises ;
 3. Le détenteur des marchandises a confirmé par écrit aux autorités douanières, dans un délai de dix jours ouvrables, ou de trois jours ouvrables pour les denrées périssables, à partir de la notification de la retenue, qu'il consent à la destruction des marchandises.
@@ -5111,6 +5169,7 @@ IV.-Dans le cadre de la communication d'informations prévues au troisième alin
 I.-Lorsque la retenue portant sur des marchandises soupçonnées de constituer une contrefaçon d'une marque enregistrée est mise en œuvre après qu'une demande mentionnée à l'article L. 716-8 a été acceptée, les marchandises transportées en petits envois soupçonnées de porter atteinte à une marque enregistrée peuvent être détruites sous le contrôle des agents des douanes lorsque le demandeur a, dans sa demande, sollicité le recours à la procédure prévue au présent article.
 
 II.-La notification mentionnée à la première phrase du deuxième alinéa de l'article L. 716-8 est faite dans un délai d'un jour ouvrable à compter de la date de la mise en retenue. Elle mentionne l'intention de l'administration des douanes de détruire ou non les marchandises et indique que :
+
 1. Le détenteur des marchandises dispose d'un délai de dix jours ouvrables à compter de la notification de la retenue pour faire connaître à l'administration des douanes ses observations ;
 2. Les marchandises concernées peuvent être détruites lorsque, dans un délai de dix jours ouvrables à partir de leur mise en retenue, le détenteur des marchandises a confirmé à l'administration des douanes qu'il consent à cette destruction. En cas de silence du détenteur des marchandises à l'issue de ce délai, le détenteur est réputé avoir consenti à leur destruction.
 
@@ -5140,6 +5199,7 @@ En vue de prononcer les mesures prévues aux articles L. 716-8 à L. 716-8-3, le
 ###### Article L716-8-8
 
 Un décret en Conseil d'Etat fixe :
+
 1. Les conditions d'application des mesures prévues aux articles L. 716-8 à L. 716-8-6 ;
 2. Les conditions dans lesquelles a lieu la destruction des marchandises susceptibles de constituer une contrefaçon d'une marque enregistrée, prévue par la réglementation de l'Union européenne, ainsi que les conditions du prélèvement d'échantillons préalable à ladite destruction.
 
@@ -5229,6 +5289,7 @@ Elle peut également ordonner, aux frais du condamné, l'affichage du jugement o
 ###### Article L716-14
 
 Pour fixer les dommages et intérêts, la juridiction prend en considération distinctement :
+
 1. Les conséquences économiques négatives de la contrefaçon, dont le manque à gagner et la perte subis par la partie lésée ;
 2. Le préjudice moral causé à cette dernière ;
 3. Et les bénéfices réalisés par le contrefacteur, y compris les économies d'investissements intellectuels, matériels et promotionnels que celui-ci a retirées de la contrefaçon.
@@ -5403,6 +5464,7 @@ Constitue une indication géographique la dénomination d'une zone géographique
 La demande d'homologation ou de modification du cahier des charges est déposée auprès de l'Institut national de la propriété industrielle par un organisme de défense et de gestion, défini à l'article L. 721-4, représentant les opérateurs concernés.
 
 La décision d'homologation est prise après :
+
 1. La vérification du contenu du cahier des charges et de la représentativité des opérateurs au sein de l'organisme de défense et de gestion ;
 2. La réalisation d'une enquête publique, dont les modalités sont fixées par voie réglementaire ;
 3. La consultation :
@@ -5449,6 +5511,7 @@ Pour l'application de la présente section, un opérateur désigne toute personn
 L'organisme de défense et de gestion contribue à la mission d'intérêt général de préservation et de mise en valeur des territoires, des traditions locales et des savoir-faire ainsi que des produits qui en sont issus.
 
 Pour chaque produit bénéficiant d'une indication géographique dont il assure la défense et la gestion, l'organisme :
+
 1. Elabore le projet de cahier des charges, le soumet à l'homologation de l'Institut national de la propriété industrielle et contribue à son application par les opérateurs ;
 2. Soumet tout projet de modification du cahier des charges à l'Institut national de la propriété industrielle ;
 3. S'assure que les opérations de contrôle des opérateurs par les organismes mentionnés à l'article L. 721-9 sont effectuées dans les conditions fixées par le cahier des charges. Il informe l'Institut national de la propriété industrielle des résultats des contrôles effectués et des mesures correctives appliquées ;
@@ -5461,6 +5524,7 @@ Pour chaque produit bénéficiant d'une indication géographique dont il assure 
 ###### Article L721-7
 
 Le cahier des charges d'une indication géographique précise :
+
 1. Le nom de celle-ci ;
 2. Le produit concerné ;
 3. La délimitation de la zone géographique ou du lieu déterminé associé ;
@@ -5478,6 +5542,7 @@ Le cahier des charges d'une indication géographique précise :
 ###### Article L721-8
 
 I. ― Sans préjudice des articles L. 115-16 du code de la consommation et L. 722-1 du présent code, les dénominations enregistrées sont protégées contre :
+
 1. Toute utilisation commerciale directe ou indirecte d'une dénomination enregistrée à l'égard des produits non couverts par l'enregistrement, lorsque ces produits sont comparables à ceux enregistrés sous cette dénomination ou lorsque cette utilisation permet de profiter de la réputation de la dénomination protégée ;
 2. Toute usurpation, imitation ou évocation, même si l'origine véritable des produits ou des services est indiquée ou si la dénomination protégée est traduite ou accompagnée d'une expression telle que " genre ”, " type ”, " méthode ”, " façon ”, " imitation ” ou d'une expression similaire ;
 3. Toute autre indication fausse ou fallacieuse quant à la provenance, l'origine, la nature ou les qualités essentielles du produit qui figure sur le conditionnement ou l'emballage, sur la publicité ou sur des documents afférents au produit concerné, ainsi que contre l'utilisation pour le conditionnement d'un récipient de nature à créer une impression erronée sur l'origine du produit ;
@@ -5527,6 +5592,7 @@ Les frais liés à la mesure de retenue ou aux mesures conservatoires prononcée
 Aux fins de l'engagement des actions en justice mentionnées au quatrième alinéa du présent article, le demandeur peut obtenir de l'administration des douanes communication des nom et adresse de l'expéditeur, de l'importateur, du destinataire et du déclarant des marchandises retenues ou de leur détenteur, ainsi que des images de ces marchandises et des informations sur leur quantité, leur origine, leur provenance et leur destination, par dérogation à l'article 59 bis du code des douanes.
 
 La retenue mentionnée au premier alinéa du présent article ne porte pas :
+
 1. Sur les marchandises de statut communautaire, légalement fabriquées ou mises en libre pratique dans un Etat membre de l'Union européenne et destinées, après avoir emprunté le territoire douanier défini à l'article 1er du code des douanes, à être mises sur le marché d'un autre Etat membre de l'Union européenne pour y être légalement commercialisées ;
 2. Sur les marchandises de statut communautaire, légalement fabriquées ou mises en libre pratique dans un autre Etat membre de l'Union européenne, dans lequel elles ont été placées sous le régime du transit, et qui sont destinées, après avoir transité sur le territoire douanier défini au même article 1er, à être exportées vers un Etat non membre de l'Union européenne.
 
@@ -5565,6 +5631,7 @@ Lors du contrôle des marchandises mises en retenue, l'administration des douane
 ###### Article L722-13
 
 I. ― Lorsque la retenue portant sur des marchandises soupçonnées de constituer une contrefaçon d'une indication géographique est mise en œuvre après qu'une demande mentionnée à l'article L. 722-9 a été acceptée, les marchandises soupçonnées de porter atteinte à une indication géographique peuvent être détruites sous le contrôle des agents des douanes dès lors que les conditions suivantes sont remplies :
+
 1. Le demandeur a confirmé par écrit et par une expertise détaillée aux autorités douanières, dans un délai de dix jours ouvrables, ou de trois jours ouvrables pour les denrées périssables, à partir de la notification de la retenue, le caractère contrefaisant des marchandises ;
 2. Le demandeur a confirmé par écrit aux autorités douanières, dans un délai de dix jours ouvrables, ou de trois jours ouvrables pour les denrées périssables, à partir de la notification de la retenue, qu'il consent à la destruction, sous sa responsabilité, des marchandises ;
 3. Le détenteur des marchandises a confirmé par écrit aux autorités douanières, dans un délai de dix jours ouvrables, ou de trois jours ouvrables pour les denrées périssables, à partir de la notification de la retenue, qu'il consent à la destruction des marchandises.
@@ -5583,6 +5650,7 @@ IV. ― Dans le cadre de la communication d'informations prévues au troisième 
 I. ― Lorsque la retenue portant sur des marchandises soupçonnées de constituer une contrefaçon d'une indication géographique est mise en œuvre après qu'une demande mentionnée à l'article L. 722-9 a été acceptée, les marchandises transportées en petits envois soupçonnées de porter atteinte à une indication géographique peuvent être détruites sous le contrôle des agents des douanes lorsque le demandeur a, dans sa demande, sollicité le recours à la procédure prévue au présent article.
 
 II. ― La notification mentionnée à la première phrase du deuxième alinéa de l'article L. 722-9 est faite dans un délai d'un jour ouvrable à compter de la date de la mise en retenue. Elle mentionne l'intention de l'administration des douanes de détruire ou non les marchandises et indique que :
+
 1. Le détenteur des marchandises dispose d'un délai de dix jours ouvrables à compter de la notification de la retenue pour faire connaître à l'administration des douanes ses observations ;
 2. Les marchandises concernées peuvent être détruites lorsque, dans un délai de dix jours ouvrables à partir de leur mise en retenue, le détenteur des marchandises a confirmé à l'administration des douanes qu'il consent à cette destruction. En cas de silence du détenteur des marchandises à l'issue de ce délai, le détenteur est réputé avoir consenti à leur destruction.
 
@@ -5612,6 +5680,7 @@ En vue de prononcer les mesures prévues aux articles L. 722-9 à L. 722-12, les
 ###### Article L722-17
 
 Un décret en Conseil d'Etat fixe :
+
 1. Les conditions d'application des mesures prévues aux articles L. 722-9 à L. 722-15 ;
 2. Les conditions dans lesquelles a lieu la destruction des marchandises susceptibles de porter atteinte à une indication géographique prévue par la réglementation européenne en vigueur ainsi que les conditions du prélèvement d'échantillons préalable à ladite destruction.
 
@@ -5630,6 +5699,7 @@ Le présent chapitre est applicable aux publicités, quel qu'en soit le support,
 Toute utilisation, dans les publicités et documents mentionnés au présent chapitre, de dessins, coordonnées, références ou autres signes distinctifs relatifs à un service public est soumise à l'autorisation préalable du service concerné.
 
 L'autorisation prévue au premier alinéa :
+
 1. Ne peut être délivrée sans présentation préalable d'un exemplaire du support destiné à la publication ;
 2. Ne peut être valable pour une durée supérieure à un an, éventuellement renouvelable dans les mêmes formes ;
 3. Est motivée par l'intérêt général.
@@ -5705,6 +5775,7 @@ Pour l'application des dispositions du d du 3° de l'article L. 122-5, le catalo
 ##### Article R122-2
 
 Le droit de suite prévu à l'article L. 122-8 est exigible, dans les conditions prévues au présent chapitre, lors de la vente, sous quelque forme que ce soit, d'une oeuvre d'art originale graphique ou plastique autre que la première cession opérée par l'auteur ou par ses ayants droit, dès lors que le vendeur, l'acheteur ou un intermédiaire interviennent dans cette cession dans le cadre de leur activité professionnelle et que l'une au moins des conditions suivantes est remplie :
+
 1. La vente est effectuée sur le territoire français ;
 2. La vente y est assujettie à la taxe sur la valeur ajoutée.
 
@@ -5766,6 +5837,7 @@ Le montant total du droit exigible lors de la vente d'une oeuvre ne peut excéde
 I.-Le ministre chargé de la culture fixe par arrêté une liste de sociétés de perception et de répartition de droits aptes à informer les bénéficiaires du droit de suite et susceptibles à ce titre d'être avisées des ventes d'oeuvres originales graphiques ou plastiques dans les conditions fixées au II de l'article R. 122-9.
 
 II.-Pour être inscrite sur la liste mentionnée au I du présent article, une société de perception et de répartition de droits doit à l'appui de sa demande :
+
 1. Apporter la preuve de la diversité de ses associés et du nombre des ayants droit ;
 2. Justifier la qualification de ses gérants et mandataires sociaux, appréciée en fonction de leur expérience professionnelle dans le secteur des arts graphiques ou plastiques ou de la gestion d'organismes professionnels ;
 3. Donner toutes informations relatives à son organisation administrative, à ses conditions d'installation et d'équipement et à sa capacité à informer les bénéficiaires du droit de suite, y compris à l'étranger.
@@ -5785,6 +5857,7 @@ Toute personne susceptible de bénéficier du droit de suite qui souhaite obteni
 I. - En cas de vente d'une oeuvre originale graphique ou plastique aux enchères publiques, le professionnel du marché de l'art responsable du paiement du droit de suite est, selon le cas, la société de ventes volontaires ou le commissaire-priseur judiciaire.
 
 II. - Dans les autres cas, le professionnel du marché de l'art intervenant dans la vente est responsable du paiement du droit de suite. Si la vente fait intervenir plusieurs professionnels, le professionnel responsable du paiement du droit de suite est :
+
 1. Le vendeur, s'il agit dans le cadre de son activité professionnelle ;
 2. A défaut, le professionnel du marché de l'art qui reçoit, en tant qu'intermédiaire, le paiement de l'acheteur ;
 3. A défaut, l'acheteur, s'il agit dans le cadre de son activité professionnelle.
@@ -5821,6 +5894,7 @@ III.-Le professionnel responsable du paiement du droit de suite doit, en outre, 
 ##### Article R122-12
 
 Est puni de l'amende prévue pour les contraventions de la troisième classe le fait, pour un professionnel responsable du paiement du droit de suite en application de l'article R. 122-8 :
+
 1. De ne pas verser le droit de suite au bénéficiaire qui en fait la demande conformément au I de l'article R. 122-9 ;
 2. De ne pas aviser l'une des sociétés de perception et de répartition des droits conformément aux dispositions du premier alinéa du II de l'article R. 122-9 ;
 3. De ne pas communiquer au bénéficiaire du droit de suite les informations prévues au I de l'article R. 122-10.
@@ -5895,6 +5969,7 @@ Le secrétariat de la commission est assuré conjointement par le ministre charg
 ###### Article R122-17
 
 I.-Pour être inscrit sur la liste prévue à l'article R. 122-15, la personne morale ou l'établissement doit à l'appui de sa demande adressée à la commission par lettre recommandée avec demande d'avis de réception :
+
 1. Donner toute information relative à son organisation, son fonctionnement, ses comptes financiers, ses conditions d'installation et d'équipement ainsi que, le cas échéant, à ses statuts ;
 2. Indiquer le nombre et la qualité de ses adhérents ou de ses usagers et justifier que ceux-ci entrent dans la catégorie des personnes mentionnées aux articles R. 122-13 et R. 122-14 ;
 3. Apporter la preuve de son activité de conception, de réalisation et de communication de supports au bénéfice de ces personnes en communiquant les éléments suivants :
@@ -5909,6 +5984,7 @@ I.-Pour être inscrit sur la liste prévue à l'article R. 122-15, la personne m
 4. Préciser les moyens utilisés pour contrôler l'usage des œuvres dans le respect des conditions définies au premier alinéa du 7° de l'article L. 122-5.
 
 II.-Pour être inscrit sur la même liste au titre des personnes morales et des établissements habilités à demander l'accès aux fichiers numériques ayant servi à l'édition d'œuvres imprimées, la personne morale ou l'établissement doit en outre à l'appui de sa demande :
+
 1. Donner toute information relative aux conditions de conservation et de sécurisation des fichiers numériques transmis dans un format ouvert par l'organisme dépositaire ;
 2. Donner toute information relative aux conditions d'adaptation de ces fichiers aux besoins de lecture des personnes mentionnées aux articles R. 122-13 et R. 122-14 ;
 3. Apporter la preuve de la sécurisation de ces fichiers adaptés ou non, en vue de leur transmission ;
@@ -5975,6 +6051,7 @@ L'organisme dépositaire mentionné au troisième alinéa du 7° de l'article L.
 Les nantissements du droit d'exploitation des logiciels sont inscrits sur le registre national spécial des logiciels tenu par l'Institut national de la propriété industrielle.
 
 Y figurent pour chaque logiciel :
+
 1. L'identité du titulaire du droit visé à l'article L. 122-6 et du créancier gagiste, ainsi que toutes modifications relatives à leurs nom, prénoms, dénomination sociale, forme juridique, domicile ou siège social ;
 2. L'indication des éléments de nature à permettre l'identification du logiciel, tels que le nom, la marque, la désignation du code-source, des documents de fonctionnement et des mises à jour, ainsi que toute autre caractéristique du logiciel et, le cas échéant, les références d'un dépôt ;
 3. L'acte constitutif du nantissement sur tout ou partie du droit d'exploitation du logiciel ;
@@ -5994,6 +6071,7 @@ La demande d'inscription est présentée par l'une des parties à l'acte ou par 
 La demande d'inscription du nantissement est réalisée par le dépôt d'un bordereau dont la forme est déterminée par décision du directeur général de l'Institut national de la propriété industrielle.
 
 Le bordereau comprend les indications suivantes :
+
 1. Les nom, prénoms, domicile ou la dénomination sociale, forme juridique et siège social du créancier et du débiteur ;
 2. La désignation du logiciel par son nom, sa marque avec l'indication précise de tous éléments d'identification et caractéristiques tels que la désignation du code-source, des documents de fonctionnement et des mises à jour ainsi que, le cas échéant, les références d'un dépôt du logiciel ;
 3. La nature et la date de l'acte constitutif du nantissement ;
@@ -6011,6 +6089,7 @@ A ce bordereau sont joints :
 Les actes ayant pour effet de modifier ou d'anéantir les droits publiés du débiteur et du créancier, tels que, notamment, la cession, la concession d'un droit d'exploitation, la cession du nantissement ou la renonciation à ce dernier, ainsi que les demandes en justice et les décisions judiciaires définitives relatives à ces droits, sont inscrits à la demande de l'une des parties à l'acte.
 
 La demande comprend :
+
 1. Un bordereau de demande d'inscription dont la forme est déterminée par décision du directeur général de l'Institut national de la propriété industrielle ;
 2. Un des originaux de l'acte sous seing privé ou, selon les cas, une expédition de l'acte authentique ou de l'acte introductif d'instance ;
 3. Une reproduction de l'acte susmentionné lorsque le demandeur entend que l'original ou l'expédition lui soit restitué ;
@@ -6023,6 +6102,7 @@ La demande comprend :
 Tout changement de nom, de prénoms ou de domicile des personnes physiques, toute modification de dénomination sociale, de forme juridique ou de siège social des personnes morales sont inscrits à la demande de toute personne intéressée.
 
 La demande comprend :
+
 1. Un bordereau de demande d'inscription dont la forme est déterminée par décision du directeur général de l'Institut national de la propriété industrielle ;
 2. Tout document destiné à constater les changements ou modifications de l'état civil et du domicile des personnes physiques ou de la dénomination, du statut juridique et du siège social des personnes morales ;
 3. La justification du paiement de la redevance prescrite ;
@@ -6142,6 +6222,7 @@ Les parties à la négociation de l'accord collectif en cause disposent d'un dé
 #### Article R133-1
 
 Les bibliothèques accueillant du public pour le prêt mentionnées aux articles L. 133-3 et L. 133-4 sont :
+
 1. Les bibliothèques des collectivités territoriales désignées aux articles L. 310-1 à L. 310-6 et L. 320-1 à L. 320-4 du code du patrimoine ;
 2. Les bibliothèques des établissements publics à caractère scientifique, culturel et professionnel et des autres établissements publics d'enseignement supérieur relevant du ministre chargé de l'enseignement supérieur ;
 3. Les bibliothèques des comités d'entreprise ;
@@ -6159,6 +6240,7 @@ Cette contribution est fixée à 1 euro par usager inscrit dans les bibliothèqu
 Pour la première année d'application de la loi, cette contribution est respectivement fixée à 0,5 euro par usager inscrit dans les bibliothèques des établissements d'enseignement supérieur et à 0,75 euro par usager inscrit dans les autres bibliothèques accueillant du public pour le prêt.
 
 Le nombre des usagers inscrits est précisé chaque année par arrêté dans les conditions suivantes :
+
 1. Le nombre des usagers inscrits dans les bibliothèques publiques est évalué chaque année à partir des éléments statistiques fournis par les communes et les départements en application des articles R. 1422-5 et R. 1422-14 du code général des collectivités territoriales ;
 2. Le nombre des usagers inscrits dans les bibliothèques des établissements publics à caractère scientifique, culturel et professionnel et des autres établissements publics d'enseignement supérieur relevant du ministre chargé de l'enseignement supérieur est évalué chaque année à partir des statistiques annuelles établies par le ministre chargé de l'enseignement supérieur ;
 3. Afin de tenir compte des usagers inscrits dans les autres bibliothèques accueillant du public pour le prêt, le nombre des usagers inscrits dans les bibliothèques publiques est majoré d'un taux exprimé en pourcentage. Ce taux est fixé à 4 % et révisable tous les trois ans à partir d'estimations chiffrées relatives au développement de l'activité de ces bibliothèques.
@@ -6180,6 +6262,7 @@ A chaque livre indisponible sont associées des données et informations dont la
 ##### Article Annexe à l'article R134-1
 
 Les données et informations enregistrées, selon leur disponibilité, dans le traitement dénommé Registre des livres indisponibles du xxe siècle sont les suivantes :
+
 1. Noms et prénoms ou pseudonymes du ou des auteurs.
 2. Précisions sur la qualité de l'auteur (préfacier, illustrateur...).
 3. Année du décès du ou des auteurs.
@@ -6453,6 +6536,7 @@ Les comptes rendus sont approuvés par la commission à la majorité des membres
 ##### Article R311-9
 
 Pour l'application de l'article L. 311-4-1, doivent être portés à la connaissance de l'acquéreur de tout support d'enregistrement au sens de l'article L. 311-4 :
+
 1. Le montant de la rémunération pour copie privée propre à chaque support d'enregistrement ;
 2. L'existence de la notice explicative prévue par l'article L. 311-4-1 ;
 3. L'adresse URL du site de communication au public en ligne auprès duquel une version dématérialisée de cette notice peut être consultée et téléchargée.
@@ -6497,6 +6581,7 @@ La transmission du dossier est faite par lettre recommandée avec demande d'avis
 #### Article R321-2
 
 Tout associé peut, à tout moment, demander à la société de lui adresser :
+
 1. La liste des mandataires sociaux ;
 2. Un tableau retraçant sur une période de cinq ans le montant annuel des sommes perçues et réparties ainsi que des prélèvements pour frais de gestion et des autres prélèvements ;
 3. Un document décrivant les règles de répartition applicables ;
@@ -6599,6 +6684,7 @@ La communication des comptes annuels des sociétés de perception et de réparti
 A.-En ce qui concerne la gestion financière de la société : un compte de gestion accompagné de documents de synthèse, établis dans les conditions fixées, en application du quatrième alinéa de l'article L. 321-12, par un règlement de l'Autorité des normes comptables.
 
 B.-En ce qui concerne la mise en oeuvre des actions dont le financement est prévu par l'article L. 321-9 :
+
 1. La ventilation des montants versés, par catégorie d'actions définies au premier alinéa de l'article L. 321-9, assortie d'une information particulière sur :
 
 -le coût de la gestion de ces actions ;
@@ -6638,6 +6724,7 @@ Toute aide allouée par une société de perception et de répartition des droit
 #### Article R322-1
 
 Une société régie par le titre II du livre III peut être agréée au titre de l'article L. 122-10, si elle remplit les conditions suivantes :
+
 1. Apporter la preuve de la diversité de ses associés à raison des catégories et du nombre des ayants droit, de l'importance économique exprimée en revenu ou en chiffre d'affaires et de la diversité des genres éditoriaux. Cette diversité doit trouver son expression dans la composition des organes délibérants et dirigeants ;
 2. Justifier, par toutes pièces, la qualification de ses gérants et mandataires sociaux appréciée en fonction :
 
@@ -6678,6 +6765,7 @@ Le ministre chargé de la culture désigne chaque année la ou les sociétés r�
 #### Article R323-1
 
 Une société régie par le titre II du livre III peut être agréée au titre du I de l'article L. 132-20-1 et du I de l'article L. 217-2 si elle remplit les conditions suivantes :
+
 1. Apporter la preuve de la gestion effective du droit d'autoriser la retransmission par câble, à raison du nombre des ayants droit et de l'importance économique exprimée en revenu ou en chiffre d'affaires ;
 2. Justifier par toutes pièces la qualification de ses gérants et mandataires sociaux appréciée en fonction :
 
@@ -6738,6 +6826,7 @@ La liste des médiateurs est publiée au Journal officiel de la République fran
 #### Article R324-2
 
 Les médiateurs doivent remplir les conditions suivantes :
+
 1. Jouir de leurs droits civils et politiques ;
 2. Ne pas avoir été auteurs de faits contraires à l'honneur, à la probité et aux bonnes moeurs ayant donné lieu à une sanction disciplinaire ou administrative ;
 3. Posséder la qualification nécessaire à la résolution des différends dont ils seront saisis ;
@@ -6851,6 +6940,7 @@ Les observations de la commission mettant en cause une société ou un organisme
 #### Article R326-1
 
 Une société régie par les dispositions des articles L. 321-1 à L. 321-13 est agréée au titre de l'article L. 133-2 si elle :
+
 1. Apporte la preuve, par la composition de ses organes délibérants et dirigeants, de la diversité de ses associés à raison des catégories et du nombre des ayants droit, de l'importance économique exprimée en revenu ou en chiffre d'affaires et de la diversité des genres éditoriaux ;
 2. Apporte la preuve de la représentation équitable des auteurs et des éditeurs parmi ses associés et au sein de ses organes dirigeants ;
 3. Justifie, par tout moyen, de la qualification professionnelle de ses gérants et mandataires sociaux en raison :
@@ -6911,6 +7001,7 @@ Le ministre chargé de la culture désigne chaque année la société répondant
 #### Article R327-1
 
 Une société régie par le titre II du livre III peut être agréée au titre de l'article L. 134-3, si elle :
+
 1. Apporte la preuve, par la composition de ses organes délibérants et dirigeants, de la diversité de ses associés à raison des catégories et du nombre des ayants droit, de l'importance économique exprimée en revenu ou en chiffre d'affaires et de la diversité des genres éditoriaux ;
 2. Apporte la preuve de la représentation paritaire des auteurs et des éditeurs parmi ses associés et au sein de ses organes dirigeants ;
 3. Justifie, par tout moyen, de la qualification professionnelle de ses gérants et mandataires sociaux en raison :
@@ -6984,6 +7075,7 @@ Pour délivrer l'agrément, le ministre vérifie que l'agent est ressortissant d
 L'agrément ne peut être accordé en cas de condamnation pour crime ou en cas de condamnation à une peine correctionnelle pour des faits incompatibles avec les fonctions à exercer. Le ministre chargé de la culture s'assure du respect de cette condition en demandant communication du bulletin n° 2 du casier judiciaire de l'agent au casier judiciaire national automatisé par un moyen de télécommunication sécurisé ou de son équivalent pour les ressortissants d'un Etat membre de l'Union européenne ou d'un autre Etat partie à l'accord sur l'Espace économique européen.
 
 II.-La demande présentée par le Centre national du cinéma et de l'image animée, un organisme de défense professionnelle visé à l'article L. 331-1 ou une société mentionnée au titre II du présent livre en vue d'obtenir l'agrément de l'un de ses agents comprend :
+
 1. Un extrait d'acte de naissance avec filiation pour les ressortissants français ou un document équivalent pour les ressortissants d'un Etat membre de l'Union européenne ou d'un autre Etat partie à l'accord sur l'Espace économique européen ;
 2. L'indication des fonctions confiées à l'agent et une copie des documents attestant de son niveau de formation et de son expérience professionnelle, notamment dans le recueil d'éléments probants.
 
@@ -7040,6 +7132,7 @@ Le délai prévu au troisième alinéa de l'article L. 332-4 et imparti au deman
 #### Article R335-1
 
 I.-La demande de retenue de marchandises par l'administration des douanes prévue à l'article L. 335-10 comporte :
+
 1. Les nom et prénoms ou la dénomination sociale du demandeur, son domicile ou son siège ;
 2. Le cas échéant, le nom et l'adresse du mandataire et la justification de son mandat ;
 3. La qualité du demandeur au regard des droits qu'il invoque, attestée par tous moyens ;
@@ -7065,6 +7158,7 @@ Toute publicité ou notice d'utilisation relative à un moyen permettant la supp
 #### Article R335-3
 
 Est puni de l'amende prévue pour les contraventions de la quatrième classe le fait :
+
 1. De détenir en vue d'un usage personnel ou d'utiliser une application technologique, un dispositif ou un composant conçus ou spécialement adaptés pour porter atteinte à une mesure technique efficace mentionnée à l'article L. 331-5 du présent code qui protège une oeuvre, une interprétation, un phonogramme, un vidéogramme, un programme ou une base de données ;
 2. De recourir à un service conçu ou spécialement adapté pour porter l'atteinte visée à l'alinéa précédent.
 
@@ -7074,6 +7168,7 @@ Ces dispositions ne s'appliquent pas aux actes qui ne portent pas préjudice aux
 #### Article R335-4
 
 Est puni de l'amende prévue pour les contraventions de la quatrième classe le fait :
+
 1. De détenir en vue d'un usage personnel ou d'utiliser une application technologique, un dispositif ou un composant conçus ou spécialement adaptés pour supprimer ou modifier un élément d'information visé à l'article L. 331-22 et qui ont pour but de porter atteinte à un droit d'auteur, à un droit voisin ou à un droit de producteur de base de données, de dissimuler ou de faciliter une telle atteinte ;
 2. De recourir à un service conçu ou spécialement adapté pour porter, dans les mêmes conditions, l'atteinte visée à l'alinéa précédent.
 
@@ -7083,10 +7178,12 @@ Ces dispositions ne s'appliquent pas aux actes qui ne portent pas préjudice aux
 #### Article R335-5
 
 I.-Constitue une négligence caractérisée, punie de l'amende prévue pour les contraventions de la cinquième classe, le fait, sans motif légitime, pour la personne titulaire d'un accès à des services de communication au public en ligne, lorsque se trouvent réunies les conditions prévues au II :
+
 1. Soit de ne pas avoir mis en place un moyen de sécurisation de cet accès ;
 2. Soit d'avoir manqué de diligence dans la mise en œuvre de ce moyen.
 
 II.-Les dispositions du I ne sont applicables que lorsque se trouvent réunies les deux conditions suivantes :
+
 1. En application de l'article L. 331-25 et dans les formes prévues par cet article, le titulaire de l'accès s'est vu recommander par la commission de protection des droits de mettre en œuvre un moyen de sécurisation de son accès permettant de prévenir le renouvellement d'une utilisation de celui-ci à des fins de reproduction, de représentation ou de mise à disposition ou de communication au public d'œuvres ou d'objets protégés par un droit d'auteur ou par un droit voisin sans l'autorisation des titulaires des droits prévus aux livres Ier et II lorsqu'elle est requise ;
 2. Dans l'année suivant la présentation de cette recommandation, cet accès est à nouveau utilisé aux fins mentionnées au 1° du présent II.
 
@@ -7120,6 +7217,7 @@ Le délai prévu au dernier alinéa de l'article L. 343-2 et imparti au demandeu
 ##### Article R411-1
 
 L'Institut national de la propriété industrielle a notamment pour attributions :
+
 1. L'examen des demandes de brevets d'invention et la délivrance des brevets ainsi que de tous documents les concernant ;
 2. L'enregistrement et la publication des marques de fabrique, de commerce ou de service ;
 3. La délivrance de certificats d'identité et de renseignements concernant les antériorités en matière de marques de fabrique, de commerce ou de service ;
@@ -7163,6 +7261,7 @@ Il peut déléguer sa signature, notamment en matière de passation de marchés,
 ##### Article R411-3
 
 Le conseil d'administration est composé de quatorze membres :
+
 1. Une personnalité issue du monde économique et membre du Conseil supérieur de la propriété industrielle, président, nommée par arrêté du ministre chargé de la propriété industrielle pour une période de trois ans renouvelable une fois ;
 2. Le directeur des affaires civiles et du sceau au ministère de la justice ou son représentant ;
 3. Le directeur du budget au ministère de l'économie et des finances ou son représentant ;
@@ -7186,6 +7285,7 @@ Le secrétariat du conseil d'administration est assuré par un agent de l'instit
 ##### Article R411-4
 
 Le conseil d'administration définit la politique générale de l'établissement dans le cadre des orientations fixées par les ministres de tutelle. Il dispose notamment des compétences suivantes :
+
 1. Il approuve le budget et ses modifications, le compte financier de l'exercice clos et l'affectation du résultat et se prononce sur le rapport annuel d'activité ;
 2. Il fixe les orientations de la politique tarifaire, les conditions générales de passation des contrats, conventions et marchés conclus par l'établissement, les conditions générales d'emploi et de rémunération du personnel, le règlement intérieur de l'établissement ;
 3. Il décide de la création ou de la suppression de filiales, des acquisitions ou cessions de participations, de l'achat, de la vente ou de la location d'immeubles ;
@@ -7244,6 +7344,7 @@ Le ministre chargé du budget peut déléguer sa signature au membre du corps du
 ##### Article R411-10
 
 Les ressources de l'Institut national de la propriété industrielle se composent :
+
 1. Du produit de toutes les perceptions autorisées en matière de propriété industrielle, de registres du commerce et des métiers et de dépôts des actes de sociétés ;
 2. De toutes les recettes qui peuvent être perçues par l'institut en rémunération de services rendus ;
 3. Du produit de la vente des publications ;
@@ -7256,6 +7357,7 @@ Les ressources de l'Institut national de la propriété industrielle se composen
 ##### Article R411-11
 
 Les charges de l'Institut national de la propriété industrielle comprennent :
+
 1. Les dépenses de fonctionnement et d'équipement de l'institut ;
 2. Les dépenses entraînées par la participation de la France aux organismes internationaux de propriété industrielle.
 
@@ -7280,6 +7382,7 @@ Les règles relatives à la comptabilité, à la forme des budgets et des compte
 ##### Article R411-17
 
 L'Institut national de la propriété industrielle perçoit des redevances, dont le montant et les modalités d'application sont fixés par arrêté conjoint du ministre chargé de la propriété industrielle et du ministre chargé du budget, à l'occasion des procédures et formalités suivantes :
+
 1. Pour les brevets d'invention, certificats d'utilité et certificats complémentaires de protection :
 - dépôt ;
 - rapport de recherche ou rapport de recherche complémentaire ;
@@ -7388,6 +7491,7 @@ Ce délai est, s' il y a lieu, prorogé dans les conditions prévues à l' artic
 ##### Article R411-21
 
 Le recours est formé par une déclaration écrite adressée ou remise en double exemplaire au greffe de la cour. A peine d'irrecevabilité prononcée d'office, la déclaration comporte les mentions suivantes :
+
 1. a) Si le requérant est une personne physique : ses nom, prénoms, profession, domicile, nationalité, date et lieu de naissance ;
 
 b) Si le requérant est une personne morale : sa forme, sa dénomination, son siège social et l'organe qui la représente légalement ;
@@ -7442,6 +7546,7 @@ Il est institué auprès du ministre chargé de la propriété industrielle un C
 #### Article R413-2
 
 Le Conseil supérieur de la propriété industrielle est composé comme suit :
+
 1. Un représentant du ministre chargé de la propriété industrielle désigné par lui ;
 
 Un représentant du ministre des affaires étrangères désigné par lui ;
@@ -7488,6 +7593,7 @@ Le secrétariat du conseil est assuré par l'Institut national de la propriété
 #### Article R421-1
 
 Sous réserve des dispositions de l'article R. 421-1-1, l'inscription d'une personne physique sur la liste des personnes qualifiées en propriété industrielle prévue à l'article L. 421-1 est subordonnée au respect de l'ensemble des conditions suivantes :
+
 1. La possession d'un diplôme national de deuxième cycle juridique, scientifique ou technique délivré par un établissement public à caractère scientifique, culturel et professionnel au sens de la loi n° 84-52 du 26 janvier 1984 habilité à le délivrer, ou d'un titre reconnu équivalent dans des conditions fixées par arrêté conjoint du garde des sceaux, ministre de la justice, du ministre chargé de la propriété industrielle et du ministre chargé de l'enseignement supérieur ;
 2. La possession d'un diplôme délivré par le Centre d'études internationales de la propriété industrielle (C. E. I. P. I.) de l'université de Strasbourg ou d'un titre reconnu équivalent dans des conditions fixées par arrêté conjoint du garde des sceaux, ministre de la justice, du ministre chargé de la propriété industrielle et du ministre chargé de l'enseignement supérieur ;
 3. Une pratique professionnelle de trois années au moins ;
@@ -7497,6 +7603,7 @@ Sous réserve des dispositions de l'article R. 421-1-1, l'inscription d'une pers
 #### Article R421-1-1
 
 Peuvent également être inscrits sur la liste des personnes qualifiées prévue à l'article L. 421-1 :
+
 1. Sous réserve de remplir les conditions de diplômes des 1° et 2° de l'article R. 421-1 et de justifier de huit ans au moins de pratique professionnelle en rapport avec la propriété industrielle :
 
 a) Les personnes ayant exercé au sein d'une ou plusieurs entreprises, groupements d'entreprises, associations, fondations ou établissements publics ;
@@ -7533,6 +7640,7 @@ La réalité et le contenu de la pratique professionnelle des personnes visées 
 #### Article R421-2
 
 Nul ne peut être inscrit sur la liste s'il a été :
+
 1. L'auteur de faits ayant donné lieu à condamnation pénale pour agissements contraires à l'honneur, à la probité ou aux bonnes moeurs ;
 2. L'objet, pour des faits de même nature, d'une sanction disciplinaire ou administrative de destitution, radiation, révocation, de retrait d'agrément ou d'autorisation ;
 3. Frappé de la faillite personnelle ou d'une autre sanction en application soit de la législation sur le règlement judiciaire, la liquidation des biens, la faillite personnelle et les banqueroutes, soit de la législation relative au redressement et à la liquidation judiciaire des entreprises.
@@ -7575,6 +7683,7 @@ Les conditions de désignation des membres du jury et de leurs suppléants sont 
 #### Article R421-7
 
 Les conditions de diplôme, de stage et d'examen professionnel prévues aux articles R. 421-1 et R. 421-1-1 ne sont pas applicables aux personnes qui ont suivi avec succès un cycle d'études d'une durée minimum de trois ans, ou d'une durée équivalente à temps partiel dans une université ou un établissement d'enseignement supérieur ou dans un autre établissement de même niveau de formation et, le cas échéant, la formation professionnelle requise en plus de ce cycle d'études et qui justifient :
+
 1. Soit d'un diplôme, certificat ou autre titre permettant l'exercice de la profession dans un Etat membre de l'Union européenne délivrés :
 
 a) Par l'autorité compétente de cet Etat et sanctionnant une formation acquise de façon prépondérante dans l'Union ;
@@ -7586,6 +7695,7 @@ b) Ou par une autorité d'un pays tiers, à condition que soit fournie une attes
 #### Article R421-8
 
 Le bénéfice de l'article R. 421-7 est subordonné au succès à un examen d'aptitude devant le jury prévu à l'article R. 421-6 dont le programme et les modalités sont fixés par arrêté conjoint du garde des sceaux, ministre de la justice, et du ministre chargé de la propriété industrielle :
+
 1. Soit lorsque la formation du candidat porte sur des matières substantiellement différentes de celles qui figurent aux programmes des diplômes et de l'examen professionnel mentionné à l'article R. 421-1 ;
 2. Soit lorsqu'une ou plusieurs des activités professionnelles dont l'exercice est subordonné à la possession de ce diplôme et de cet examen ne sont pas réglementées dans l'Etat membre d'origine ou de provenance ou sont réglementées de manière différente et que cette différence est caractérisée par une formation spécifique requise dans l'Etat membre d'accueil portant sur des matières substantiellement différentes de celles couvertes par le diplôme dont le demandeur fait état.
 
@@ -7634,6 +7744,7 @@ Toutefois, les personnes inscrites avec la mention Juriste dans le cadre de la p
 ##### Article R422-2
 
 L'inscription sur la liste prévue à l'article R. 422-1 est subordonnée aux conditions suivantes :
+
 1. Offrir ou s'engager à offrir dans un délai de trois mois au public les services prévus à l'article L. 422-1 soit à titre individuel ou en groupe, soit comme salarié d'un autre conseil en propriété industrielle ou d'une société de conseil en propriété industrielle ;
 2. Etre de nationalité française ou ressortissant d'un autre Etat membre de la Communauté européenne ou d'un autre Etat partie à l'accord sur l'Espace économique européen ;
 3. Avoir un domicile ou un établissement professionnel en France ;
@@ -7683,6 +7794,7 @@ Toute décision de radiation d'une société est, dans le mois de sa date, notif
 ##### Article R422-7
 
 Le capital social d'une société de conseil en propriété industrielle mentionnée à l'article L. 422-7 (b) peut, conformément à l'article L. 423-2 (e), n'être détenu qu'à concurrence de 25 % par un conseil en propriété industrielle, dès lors que la société a pour objet de regrouper un ou plusieurs conseils en propriété industrielle avec d'autres prestataires de services exerçant à titre principal l'une des activités ci-après :
+
 1. Construction de prototypes ;
 2. Rapprochement entre offres et demandes de licences ;
 3. Création de marques ;
@@ -7766,6 +7878,7 @@ Si les statuts sont établis par actes sous seing privé, il en est dressé auta
 ###### Article R422-16
 
 Sans préjudice des dispositions qu'en vertu des articles 10 et 11 de la loi n° 66-879 du 29 novembre 1966 les statuts doivent comporter, de celles qu'en vertu des articles 8,14,15,19,20 et 24 de la même loi ils peuvent contenir, concernant respectivement la répartition des parts, les gérants, la raison sociale, la répartition des bénéfices, les dettes sociales, les cessions des parts sociales et la dissolution de la société et des articles R. 422-6 et R. 422-7, les statuts doivent indiquer :
+
 1. Les nom, prénoms, domicile des associés, leur situation matrimoniale et, le cas échéant, l'existence de clauses, d'actes opposables aux tiers ou de décisions restrictives à la libre disposition de leurs biens ;
 2. Le titre de chacun des associés ;
 3. La durée pour laquelle la société est constituée ;
@@ -7781,6 +7894,7 @@ Sans préjudice des dispositions qu'en vertu des articles 10 et 11 de la loi n°
 ###### Article R422-17
 
 Peuvent faire l'objet d'apports à une société civile professionnelle, en propriété ou en jouissance :
+
 1. Tous droits incorporels, mobiliers ou immobiliers, notamment, s'il y a lieu, le droit pour un associé de présenter la société comme successeur à sa clientèle ;
 2. Tous documents et archives, et, d'une manière générale, tous objets mobiliers à usage professionnel ;
 3. Les immeubles ou locaux utiles à l'exercice de la profession ;
@@ -8174,6 +8288,7 @@ Il établit un barème indicatif du montant de ses honoraires, distincts des rem
 ##### Article R422-54
 
 Le conseil en propriété industrielle :
+
 1. S'abstient dans une même affaire de conseiller, assister ou représenter des clients ayant des intérêts opposés ; il s'abstient également d'accepter un nouveau dossier si le secret des informations confiées par un ancien client risque d'être violé ;
 2. Observe le secret professionnel : ce secret s'étend notamment aux consultations qu'il donne à son client, aux correspondances professionnelles échangées ainsi qu'à tous documents préparés à cette occasion ;
 3. Conduit jusqu'à son terme l'affaire dont il est chargé, sauf si son client l'en dessaisit ;
@@ -8193,6 +8308,7 @@ L'autorité compétente statue sur la demande de dispense après avis de la Comp
 ##### Article R422-56
 
 La chambre de discipline, prévue à l'article L. 422-10 pour connaître des manquements à leurs obligations des conseils en propriété industrielle, est composée de sept membres :
+
 1. Un magistrat de l'ordre judiciaire, président, nommé sur proposition du premier président de la cour d'appel de Paris ;
 2. Un membre du Conseil d'Etat nommé sur proposition du vice-président du Conseil d'Etat ;
 3. Le président de la Compagnie nationale des conseils en propriété industrielle ou son suppléant désigné par lui pour la durée de son mandat parmi les vice-présidents de cette compagnie ;
@@ -8387,6 +8503,7 @@ Sauf lorsqu'il a la qualité de conseil en propriété industrielle ou d'avocat,
 Lorsqu'un même dépôt porte sur plusieurs dessins ou modèles, les produits dans lesquels ces dessins ou modèles sont destinés à être incorporés ou auxquels ils sont destinés à être appliqués doivent relever d'une même classe, au sens de la classification établie par l'Arrangement de Locarno du 8 octobre 1968. Toutefois, cette condition ne s'applique pas lorsque le dépôt porte sur des ornementations ou s'il a été effectué sous la forme simplifiée prévue au cinquième alinéa de l'article L. 512-2.
 
 Le dépôt comprend :
+
 1. Une demande d'enregistrement établie dans les conditions prévues par   la décision mentionnée à l'article R. 514-5 et précisant notamment :
 
 a) L'identification du déposant ;
@@ -8487,6 +8604,7 @@ Toutefois, sont exclues de la communication au public les pièces non communiqu�
 #### Article R512-11
 
 Lorsque le dépôt a été effectué sous forme simplifiée, le déposant doit, au plus tard six mois avant le terme du délai de trois ans prévu à l'article R. 512-10, renoncer par écrit à l'ajournement de la publication et remettre à l'Institut national de la propriété industrielle :
+
 1. Les reproductions graphiques ou photographiques du ou des dessins ou modèles à publier conformes aux exigences de présentation prévues au 2° de l'article R. 512-3 ;
 2. La justification du paiement des redevances prescrites.
 
@@ -8513,6 +8631,7 @@ La décision motivée est notifiée au demandeur.
 Le Registre national des dessins et modèles est tenu par l'Institut national de la propriété industrielle.
 
 Y figurent, pour chaque dépôt :
+
 1. L'identification du titulaire et les références du dépôt ainsi que les actes ultérieurs en affectant l'existence ou la portée ;
 2. Les actes modifiant la propriété d'un dessin ou modèle ou la jouissance des droits qui lui sont attachés ; en cas de revendication de propriété, l'assignation correspondante ;
 3. Les changements de nom, de forme juridique ou d'adresse ainsi que les rectifications d'erreurs matérielles affectant les inscriptions.
@@ -8534,6 +8653,7 @@ Les actes modifiant la propriété d'un dépôt de dessin ou modèle ou la jouis
 Toutefois, un acte ne peut être inscrit que si la personne indiquée dans l'acte comme le titulaire du dépôt de dessin et modèle avant la modification résultant de l'acte est inscrite comme telle au Registre national des dessins et modèles.
 
 La demande comprend :
+
 1. Un bordereau de demande d'inscription ;
 2. Une copie ou un extrait de l'acte constatant la modification de la propriété ou de la jouissance ;
 3. La justification du paiement de la redevance prescrite ;
@@ -8543,6 +8663,7 @@ La demande comprend :
 #### Article R512-16
 
 Par dérogation au 2° de l'article R. 512-15, peut être produit avec la demande :
+
 1. En cas de mutation par décès : copie de tout acte établissant le transfert, à la demande des héritiers ou légataires ;
 2. En cas de transfert par suite de fusion, scission ou absorption : copie d'un extrait du registre du commerce et des sociétés à jour de la modification ;
 3. Sur justification de l'impossibilité matérielle de produire une copie : tout document établissant la modification de la propriété ou de la jouissance.
@@ -8553,6 +8674,7 @@ Par dérogation au 2° de l'article R. 512-15, peut être produit avec la demand
 Les changements de nom, de forme juridique, d'adresse et les rectifications d'erreurs matérielles sont inscrits à la demande du titulaire du dépôt, qui doit être le titulaire inscrit au registre national des dessins et modèles. Toutefois, lorsque ces changements et rectifications portent sur un acte précédemment inscrit, la demande peut être présentée par toute partie à l'acte.
 
 La demande comprend :
+
 1. Un bordereau de demande d'inscription ;
 2. S'il y a lieu, le pouvoir du mandataire, à moins qu'il n'ait la qualité de conseil en propriété industrielle ou d'avocat ;
 3. S'il s'agit d'une rectification d'erreur matérielle, la justification du paiement de la redevance prescrite.
@@ -8574,6 +8696,7 @@ La notification peut être assortie d'une proposition de régularisation. Cette 
 Toute inscription portée au Registre national des dessins et modèles fait l'objet d'une mention au Bulletin officiel de la propriété industrielle.
 
 Toute personne intéressée peut obtenir de l'institut :
+
 1. Un certificat d'identité comprenant les indications relatives au dépôt, le numéro national et, s'il y a lieu, les renonciations ou prorogation dont il a fait l'objet ;
 2. Une reproduction des inscriptions portées au Registre national des dessins et modèles ;
 3. Un certificat constatant qu'il n'existe pas d'inscription.
@@ -8590,6 +8713,7 @@ La première prorogation peut toutefois être demandée lors du dépôt.
 La prorogation prend effet le jour suivant la date d'expiration de l'enregistrement.
 
 La déclaration doit à peine d'irrecevabilité :
+
 1. Etre présentée au cours d'un délai de six mois expirant le dernier jour du mois au cours duquel prend fin chaque période de protection et être accompagnée de la justification du paiement de la redevance prescrite. Toutefois, la déclaration peut encore être présentée ou la redevance acquittée dans un délai supplémentaire de six mois, décompté depuis le lendemain du dernier jour du mois d'expiration de la protection, moyennant le paiement d'un supplément de redevance ;
 2. Comporter la désignation de l'enregistrement à proroger et émaner du titulaire inscrit, au jour de la déclaration, au registre national des dessins et modèles, ou de son mandataire ;
 
@@ -8603,6 +8727,7 @@ L'irrecevabilité ne peut être prononcée sans que le déposant ait été mis e
 Le titulaire d'un enregistrement de dessin ou modèle publié peut à tout moment y renoncer, pour tout ou partie.
 
 La déclaration de renonciation doit, à peine d'irrecevabilité :
+
 1. Emaner du titulaire de l'enregistrement inscrit, au jour de la déclaration, au registre national des dessins et modèles ou de son mandataire ;
 2. Etre accompagnée de la justification du paiement de la redevance prescrite.
 
@@ -8641,6 +8766,7 @@ Le délai qui expirerait normalement un samedi, un dimanche ou un jour férié o
 ##### Article R514-3
 
 Toute notification est réputée régulière si elle est faite :
+
 1. Soit au dernier titulaire du dépôt déclaré à l'institut ou, après la publication prévue à l'article R. 512-10, au dernier titulaire inscrit au Registre national des dessins et modèles ;
 2. Soit au mandataire du titulaire susmentionné.
 
@@ -8659,6 +8785,7 @@ Si l'adresse du destinataire est inconnue, la notification est faite par publica
 ##### Article R514-5
 
 Les modalités de présentation du dépôt et le contenu du dossier sont précisés        par décision du directeur général de l'Institut national de la propriété industrielle, notamment en ce qui concerne :
+
 1. La demande d'enregistrement et les spécifications matérielles auxquelles doit répondre la reproduction graphique ou photographique prévue à l'article R. 512-3 ;
 2. La déclaration de prorogation prévue à l'article R. 513-1 ;
 3. La demande d'inscription au Registre national des dessins et modèles prévue aux articles R. 512-15 et R. 512-17 ;
@@ -8679,6 +8806,7 @@ L'institut apporte une assistance aux déposants par tout moyen approprié, pré
 ##### Article R514-6
 
 Les articles R. 512-1 à R. 514-5 sont applicables aux dépôts produisant effet à la date du 15 septembre 1992 sous réserve des dispositions ci-après :
+
 1. Les dépôts effectués avant le 15 septembre 1992 restent soumis, en ce qui concerne les conditions de présentation matérielle, aux dispositions antérieurement applicables ;
 2. Les réquisitions de maintien, réquisitions de publicité ou prorogation, demandes de restitution ou de communication présentées avant le 15 septembre 1992 sont exécutées conformément aux dispositions antérieurement en vigueur ;
 3. Les dépôts effectués pour cinq ans et conservés au secret y sont maintenus lorsque le propriétaire ne requiert pas la prorogation de leurs effets jusqu'à vingt-cinq ans. La demande doit être présentée, avant l'expiration des cinq ans, dans les conditions prévues à l'article R. 513-1 ;
@@ -8712,6 +8840,7 @@ En cas de pluralité d'inventeurs, une déclaration conjointe peut être faite p
 La déclaration contient les informations, en la possession du salarié, suffisantes pour permettre à l'employeur d'apprécier le classement de l'invention dans l'une des catégories prévues aux paragraphes 1 et 2 de l'article L. 611-7.
 
 Ces informations concernent :
+
 1. L'objet de l'invention ainsi que les applications envisagées ;
 2. Les circonstances de sa réalisation, par exemple : instructions ou directives reçues, expériences ou travaux de l'entreprise utilisés, collaborations obtenues ;
 3. Le classement de l'invention tel qu'il apparaît au salarié.
@@ -8722,6 +8851,7 @@ Ces informations concernent :
 Lorsque le classement implique l'ouverture au profit de l'employeur du droit d'attribution, la déclaration est accompagnée d'une description de l'invention.
 
 Cette description expose :
+
 1. Le problème que s'est posé le salarié compte tenu éventuellement de l'état de la technique antérieure ;
 2. La solution qu'il lui a apportée ;
 3. Au moins un exemple de la réalisation accompagné éventuellement de dessins.
@@ -9162,6 +9292,7 @@ Sauf lorsqu'il a la qualité de conseil en propriété industrielle ou d'avocat,
 ##### Article R612-3
 
 La demande de brevet comprend une requête en délivrance de brevet dont le modèle est fixé par décision du directeur général de l'Institut national de la propriété industrielle et à laquelle sont annexés :
+
 1. Une description de l'invention, accompagnée le cas échéant de dessins ;
 2. Une ou plusieurs revendications ;
 3. Un abrégé du contenu technique de l'invention ;
@@ -9171,6 +9302,7 @@ La demande de brevet comprend une requête en délivrance de brevet dont le mod�
 ##### Article R612-4
 
 La demande de brevet ne doit pas contenir :
+
 1. D'éléments ou de dessins dont la publication ou la mise en oeuvre serait contraire à l'ordre public ou aux bonnes moeurs ;
 2. De déclarations dénigrantes concernant des produits ou procédés de tiers ou le mérite ou la validité de demandes de brevet ou de brevets de tiers. De simples comparaisons avec l'état de la technique ne sont pas en elles-mêmes considérées comme dénigrantes ;
 3. D'éléments manifestement étrangers à la description de l'invention.
@@ -9227,6 +9359,7 @@ Le cas échéant, la nouvelle date de dépôt est notifiée au demandeur.
 ##### Article R612-10
 
 La requête en délivrance est signée du demandeur ou de son mandataire. Y figurent :
+
 1. La nature du titre de propriété industrielle demandé ;
 2. Le titre de l'invention faisant apparaître de manière claire et concise la désignation technique de l'invention et ne comportant aucune dénomination de fantaisie ;
 3. La désignation de l'inventeur : toutefois, si le demandeur n'est pas l'inventeur ou l'unique inventeur, la désignation est effectuée dans un document séparé contenant les nom, prénoms et domicile de l'inventeur ainsi que la signature du demandeur ou de son mandataire ;
@@ -9237,6 +9370,7 @@ La requête en délivrance est signée du demandeur ou de son mandataire. Y figu
 ##### Article R612-11
 
 La requête en délivrance est complétée, le cas échéant, par les indications relatives :
+
 1. A la réduction du taux des redevances accordée au demandeur ou requise par lui ;
 2. Aux dépôts antérieurs dont les éléments ont été éventuellement repris ;
 3. Aux priorités revendiquées ;
@@ -9248,6 +9382,7 @@ En cas de non-respect des dispositions prévues au 3° de l'article R. 612-10, i
 ##### Article R612-12
 
 La description comprend :
+
 1. L'indication du domaine technique auquel se rapporte l'invention ;
 2. L'indication de l'état de la technique antérieure, connu du demandeur, pouvant être considérée comme utile pour l'intelligence de l'invention et pour l'établissement du rapport de recherche ; les documents servant à refléter l'état de la technique antérieure sont, autant que possible, cités ;
 3. Un exposé de l'invention, telle que caractérisée dans les revendications, permettant la compréhension du problème technique ainsi que la solution qui lui est apportée ; sont indiqués, le cas échéant, les avantages de l'invention par rapport à l'état de la technique antérieure ;
@@ -9261,6 +9396,7 @@ La description comprend :
 La description est présentée dans les conditions et dans l'ordre prévus à l'article R. 612-12 à moins que la nature de l'invention ne permette une présentation différente plus intelligible et plus concise.
 
 Peuvent en outre figurer en annexe à la fin de la description notamment :
+
 1. De courts extraits de programmes d'ordinateurs présentés sous forme de listages rédigés en langages de programmation courants, lorsqu'ils sont nécessaires à la compréhension de l'invention ;
 2. Des listes de séquences de nucléotides et/ ou d'acides aminés ;
 3. Des formules chimiques ou mathématiques.
@@ -9271,6 +9407,7 @@ Les schémas d'étapes de processus, les diagrammes ainsi que les courts extrait
 ##### Article R612-14
 
 Dans le cas prévu à l'article L. 612-5, deuxième alinéa, la culture est déposée au plus tard à la date de dépôt de la demande de brevet et la description précise :
+
 1. Les informations dont dispose le demandeur sur les caractéristiques du micro-organisme ;
 2. L'organisme habilité auprès duquel le dépôt de la culture a été effectué ainsi que le numéro du dépôt.
 
@@ -9280,6 +9417,7 @@ Les indications prévues au 2° de l'alinéa précédent peuvent être fournies 
 ##### Article R612-15
 
 Si la culture cesse d'être accessible soit parce qu'elle n'est plus viable, soit parce que l'organisme habilité n'est plus en mesure d'en délivrer des échantillons, il n'est pas tenu compte de cette interruption, à condition que :
+
 1. Un nouveau dépôt du micro-organisme soit effectué dans un délai de trois mois à compter de la date à laquelle l'interruption a été notifiée au demandeur ou au titulaire du brevet soit par l'organisme habilité, soit par l'Institut national de la propriété industrielle ;
 2. Copie du récépissé du dépôt délivré par l'organisme habilité, accompagné de l'indication du numéro de la demande de brevet ou du brevet, soit communiquée à l'Institut national de la propriété industrielle dans les quatre mois de la date du nouveau dépôt.
 
@@ -9298,6 +9436,7 @@ Les revendications définissent l'objet de la protection demandée en indiquant 
 ##### Article R612-17
 
 Toute revendication comprend :
+
 1. Un préambule mentionnant la désignation de l'objet de l'invention et les caractéristiques techniques qui sont nécessaires à la définition des éléments revendiqués mais qui, combinées entre elles, font partie de l'état de la technique ;
 2. Une partie caractérisante, précédée d'une expression du type "caractérisé par", exposant les caractéristiques techniques qui, en liaison avec les caractéristiques prévues au 1°, sont celles pour lesquelles la protection est recherchée.
 
@@ -9325,6 +9464,7 @@ Toute revendication énonçant les caractéristiques essentielles de l'invention
 ##### Article R612-19
 
 Au sens de l'article L. 612-4, peuvent être notamment incluses dans une même demande de brevet, soit :
+
 1. Une revendication indépendante pour un produit, une revendication indépendante pour un procédé conçu spécialement pour la fabrication de ce produit, et une revendication indépendante pour une utilisation de ce produit ;
 2. Une revendication indépendante pour un procédé, et une revendication indépendante pour un dispositif ou moyen spécialement conçu pour la mise en oeuvre de ce procédé ;
 3. Une revendication indépendante pour un produit, une revendication indépendante pour un procédé conçu spécialement pour la fabrication de ce produit et une revendication indépendante pour un dispositif ou moyen spécialement conçu pour la mise en oeuvre de ce procédé.
@@ -9375,6 +9515,7 @@ Les indications contenues dans la déclaration de priorité sont mentionnées da
 ##### Article R612-25
 
 La requête du bénéfice de la date de dépôt d'une ou plusieurs demandes antérieures n'est pas recevable lorsque :
+
 1. Elle n'est pas effectuée au moment du dépôt de la demande de brevet ;
 2. La date de dépôt de la ou des demandes antérieures dont le bénéfice est requis est antérieure de plus de douze mois ;
 3. Le dépôt de la ou des demandes, dont le bénéfice de la date de dépôt a été requis, a été effectué dans des conditions qui n'en permettent pas la publication.
@@ -9537,6 +9678,7 @@ Toute autre pièce écartée de la consultation par décision du directeur gén�
 Lorsque l'invention concerne un micro-organisme, toute personne peut, soit à compter du jour de la publication prévue à l'article R. 612-39, soit avant cette date si une copie de la demande de brevet lui a été notifiée, demander à avoir accès à la culture déposée conformément aux articles R. 612-14 et R. 612-15.
 
 La requête est présentée par écrit à l'Institut national de la propriété industrielle. Y figurent notamment le nom et l'adresse du requérant ainsi que son engagement :
+
 1. De ne communiquer à quiconque la culture ou une culture qui en est dérivée, à moins que la demande de brevet n'ait été rejetée ou retirée ou que le brevet n'ait cessé de produire effet ;
 2. De n'utiliser la culture ou une culture qui en est dérivée qu'à des fins expérimentales, à moins que la demande de brevet n'ait été rejetée ou retirée ou que n'ait été publiée la mention de la délivrance prévue à l'article R. 612-74 ; toutefois, ce dernier engagement ne fait pas obstacle à l'utilisation de la culture en vertu d'une licence obligatoire ou d'une licence d'office.
 
@@ -9548,6 +9690,7 @@ Pour l'application de l'article R. 612-42 (1° et 2°), on entend par culture d�
 Le demandeur du brevet peut indiquer par une déclaration écrite faite avant le terme des préparatifs techniques en vue de la publication visée à l'article R. 612-39 que, jusqu'à la publication de la délivrance du brevet, du retrait ou du rejet de la demande, seul un expert désigné par le requérant peut avoir accès à la culture déposée.
 
 Peut être désignée comme expert par le requérant :
+
 1. Soit toute personne physique, à condition que le requérant fournisse la preuve, lors du dépôt de la requête, que le demandeur du brevet a donné son accord à cette désignation ;
 2. Soit toute personne physique figurant sur une liste établie par le directeur général de l'Institut national de la propriété industrielle.
 
@@ -9870,6 +10013,7 @@ Il est notifié au propriétaire du brevet et aux titulaires de licences. Il est
 La demande de licence d'exploitation prévue à l'article L. 613-18 (alinéa 4) est adressée au ministre chargé de la propriété industrielle.
 
 Elle indique :
+
 1. Les nom, prénom et profession du demandeur et, éventuellement, le nom de la personne chargée de le représenter ou de l'assister ;
 2. Le brevet dont la licence est demandée ;
 3. La justification de la qualification du demandeur, du point de vue technique, industriel et financier, pour l'exploitation du brevet en cause, au regard des conditions visées à l'alinéa 2 de l'article R. 613-28.
@@ -9904,6 +10048,7 @@ La procédure d'octroi de la licence d'exploitation est également applicable au
 ###### Article R613-34
 
 La demande adressée par le ministre chargé de la défense nationale au ministre chargé de la propriété industrielle en vue d'obtenir, en application de l'article L. 613-19, une licence d'office pour les besoins de la défense nationale, comporte toutes précisions utiles sur les conditions nécessaires à la satisfaction de ces besoins et se rapportant en particulier :
+
 1. Au caractère total ou partiel de la licence en ce qui concerne les applications de l'invention, objet de la demande de brevet ou du brevet ;
 2. A la durée de la licence ;
 3. Aux droits et obligations respectifs de l'Etat et du propriétaire de la demande de brevet ou du brevet en ce qui concerne les perfectionnements ou modifications apportés par l'un d'eux à l'invention.
@@ -9984,6 +10129,7 @@ Les dispositions prévues aux articles R. 613-4 à R. 613-43 et R. 613-51 s'appl
 La requête en renonciation ou en limitation est faite par une déclaration écrite.
 
 La requête doit, pour être recevable :
+
 1. Emaner du titulaire du brevet inscrit, au jour de la requête, sur le registre national des brevets, ou de son mandataire, lequel, sauf s'il a la qualité de conseil en propriété industrielle ou d'avocat, doit joindre à la requête un pouvoir spécial de renonciation ou de limitation.
 
 Si le brevet appartient à plusieurs personnes, la renonciation ou la limitation ne peut être effectuée que si elle est requise par l'ensemble de celles-ci ;
@@ -10081,6 +10227,7 @@ La décision motivée est notifiée au requérant.
 Le Registre national des brevets est tenu par l'Institut national de la propriété industrielle.
 
 Y figurent, pour chaque demande de brevet ou brevet :
+
 1. L'identification du demandeur, et les références de la demande de brevet ou du brevet, ainsi que les actes ultérieurs en affectant l'existence ou la portée ;
 2. Les actes modifiant la propriété de la demande de brevet ou du brevet ou la jouissance des droits qui lui sont attachés ; en cas de revendication de propriété : l'assignation correspondante ainsi que la suspension et la reprise de la procédure de délivrance ;
 3. Les changements de nom, de forme juridique ou d'adresse ainsi que les rectifications d'erreurs matérielles affectant les inscriptions.
@@ -10102,6 +10249,7 @@ Les actes modifiant la propriété d'une demande de brevet ou d'un brevet ou la 
 Toutefois, un acte ne peut être inscrit que si la personne indiquée dans l'acte à inscrire comme étant le titulaire de la demande de brevet ou du brevet avant la modification résultant de l'acte est inscrite comme telle au registre national des brevets.
 
 La demande comprend :
+
 1. Un bordereau de demande d'inscription ;
 2. Une copie ou un extrait de l'acte constatant la modification de la propriété ou de la jouissance ;
 3. La justification du paiement de la redevance prescrite ;
@@ -10111,6 +10259,7 @@ La demande comprend :
 ##### Article R613-56
 
 Par dérogation au 2° de l'article R. 613-55, peut être produit avec la demande :
+
 1. En cas de mutation par décès, copie de tout acte établissant le transfert, à la demande des héritiers ou légataires ;
 2. En cas de transfert par suite de fusion, scission ou absorption : copie d'un extrait du registre du commerce et de sociétés à jour de la modification ;
 3. Sur justification de l'impossibilité matérielle de produire une copie : tout document établissant la modification de la propriété ou de la jouissance.
@@ -10121,6 +10270,7 @@ Par dérogation au 2° de l'article R. 613-55, peut être produit avec la demand
 Les changements de nom, de forme juridique, d'adresse et les rectifications d'erreurs matérielles sont inscrits à la demande du titulaire de la demande de brevet ou du brevet, qui doit être le titulaire inscrit au registre national des brevets. Toutefois, lorsque ces changements et rectifications portent sur un acte précédemment inscrit, la demande peut être présentée par toute partie à l'acte.
 
 La demande comprend :
+
 1. Un bordereau de demande d'inscription ;
 2. S'il y a lieu, le pouvoir du mandataire, à moins qu'il n'ait la qualité de conseil en propriété industrielle ou d'avocat ;
 3. S'il s'agit d'une rectification d'erreur matérielle, la justification du paiement de la redevance prescrite.
@@ -10140,6 +10290,7 @@ La notification peut être assortie d'une proposition de régularisation. Dans c
 Toute inscription portée au Registre national des brevets fait l'objet d'une mention au Bulletin officiel de la propriété industrielle.
 
 Toute personne intéressée peut obtenir de l'institut :
+
 1. Une reproduction des inscriptions portées au Registre national des brevets ;
 2. Un certificat constatant qu'il n'existe pas d'inscription.
 
@@ -10160,10 +10311,12 @@ La demande est irrecevable si elle n'est pas accompagnée de la justification du
 L'avis documentaire est établi selon la procédure ci-après :
 
 I.-Lorsqu'il est demandé par le titulaire du brevet :
+
 1. Un projet est établi et notifié au titulaire du brevet. Un délai lui est imparti pour en discuter éventuellement le bien-fondé.
 2. L'avis est établi au vu du projet et des observations le cas échéant formulées. Il est notifié au titulaire du brevet.
 
 II.-Lorsqu'il n'est pas demandé par le titulaire du brevet :
+
 1. La demande d'avis est notifiée sans délai au titulaire du brevet. Un délai lui est imparti pour présenter des observations et, le cas échéant, constituer un mandataire répondant aux conditions prévues à l'article R. 612-2.
 
 
@@ -10249,6 +10402,7 @@ Les dispositions de l'article R. 614-11 sont applicables à la production de la 
 ##### Article R614-13
 
 Font l'objet d'une inscription d'office au registre national des brevets :
+
 1. La décision définitive mentionnée à l'article R. 614-6 ;
 2. La remise de la traduction et celle de la traduction révisée des revendications de la demande de brevet ou des revendications du brevet européen mentionnées aux articles R. 614-11 et R. 614-12.
 
@@ -10426,6 +10580,7 @@ La commission est saisie par une demande déposée au secrétariat soit par le r
 La demande est signée du requérant ou de son mandataire.
 
 Elle indique :
+
 1. Les nom, prénoms, profession, adresse du requérant et des autres parties ;
 2. L'objet du litige ;
 3. Les moyens et conclusions du requérant ;
@@ -10677,6 +10832,7 @@ L'institut apporte une assistance aux déposants par tout moyen approprié, pré
 Un dépôt ne peut porter que sur une seule topographie.
 
 Il comprend :
+
 1. Une déclaration de dépôt contenant des renseignements suffisants pour identifier le déposant, la topographie et la date et le lieu de sa première exploitation ou, à défaut, la date à laquelle elle a été fixée ou codée pour la première fois ;
 2. Une représentation graphique de la topographie, insérée dans un pli, dans laquelle ont été masquées les parties dont le déposant entend qu'elles ne soient pas communiquées aux tiers ; cette représentation peut être accompagnée d'un support d'informations et de spécimens de produit incorporant la topographie ;
 3. La justification du paiement de la redevance.
@@ -10763,6 +10919,7 @@ Peuvent être annexés à la demande des dessins ou photographies et tous rensei
 ###### Article R623-5
 
 Le déposant doit joindre à la demande de certificat d'obtention végétale :
+
 1. Une déclaration affirmant :
 
 -que la variété pour laquelle la protection est demandée constitue à sa connaissance une obtention au sens de l'article L. 623-1 ;
@@ -11646,6 +11803,7 @@ Le siège et le ressort des tribunaux de grande instance ayant compétence exclu
 #### Article R811-1
 
 Sous réserve des adaptations prévues par l'article R. 811-3 ci-après, sont applicables dans les îles Wallis et Futuna, en Nouvelle-Calédonie et dans les Terres australes et antarctiques françaises :
+
 1. Les dispositions du livre Ier à l'exception des articles R. 133-1 et R. 133-2 (4°) ;
 2. Les dispositions du livre II ;
 3. Les dispositions du livre III à l'exception des articles R. 326-1 à R. 326-7 ;
