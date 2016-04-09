@@ -2698,14 +2698,17 @@ Si l'inventeur est un salarié, le droit au titre de propriété industrielle, �
 1. Les inventions faites par le salarié dans l'exécution soit d'un contrat de travail comportant une mission inventive qui correspond à ses fonctions effectives, soit d'études et de recherches qui lui sont explicitement confiées, appartiennent à l'employeur. Les conditions dans lesquelles le salarié, auteur d'une telle invention, bénéficie d'une rémunération supplémentaire sont déterminées par les conventions collectives, les accords d'entreprise et les contrats individuels de travail.
 
 Si l'employeur n'est pas soumis à une convention collective de branche, tout litige relatif à la rémunération supplémentaire est soumis à la commission de conciliation instituée par l'article L. 615-21 ou au tribunal de grande instance.
+
 2. Toutes les autres inventions appartiennent au salarié. Toutefois, lorsqu'une invention est faite par un salarié soit dans le cours de l'exécution de ses fonctions, soit dans le domaine des activités de l'entreprise, soit par la connaissance ou l'utilisation des techniques ou de moyens spécifiques à l'entreprise, ou de données procurées par elle, l'employeur a le droit, dans des conditions et délais fixés par décret en Conseil d'Etat, de se faire attribuer la propriété ou la jouissance de tout ou partie des droits attachés au brevet protégeant l'invention de son salarié.
 
 Le salarié doit en obtenir un juste prix qui, à défaut d'accord entre les parties, est fixé par la commission de conciliation instituée par l'article L. 615-21 ou par le tribunal de grande instance : ceux-ci prendront en considération tous éléments qui pourront leur être fournis notamment par l'employeur et par le salarié, pour calculer le juste prix tant en fonction des apports initiaux de l'un et de l'autre que de l'utilité industrielle et commerciale de l'invention.
+
 3. Le salarié auteur d'une invention en informe son employeur qui en accuse réception selon des modalités et des délais fixés par voie réglementaire.
 
 Le salarié et l'employeur doivent se communiquer tous renseignements utiles sur l'invention en cause. Ils doivent s'abstenir de toute divulgation de nature à compromettre en tout ou en partie l'exercice des droits conférés par le présent livre.
 
 Tout accord entre le salarié et son employeur ayant pour objet une invention de salarié doit, à peine de nullité, être constaté par écrit.
+
 4. Les modalités d'application du présent article sont fixées par décret en Conseil d'Etat.
 5. Les dispositions du présent article sont également applicables aux agents de l'Etat, des collectivités publiques et de toutes autres personnes morales de droit public, selon des modalités qui sont fixées par décret en Conseil d'Etat.
 
@@ -2738,6 +2741,7 @@ b) Les créations esthétiques ;
 c) Les plans, principes et méthodes dans l'exercice d'activités intellectuelles, en matière de jeu ou dans le domaine des activités économiques, ainsi que les programmes d'ordinateurs ;
 
 d) Les présentations d'informations.
+
 3. Les dispositions du 2 du présent article n'excluent la brevetabilité des éléments énumérés auxdites dispositions que dans la mesure où la demande de brevet ou le brevet ne concerne que l'un de ces éléments considéré en tant que tel.
 4. Sous réserve des dispositions des articles L. 611-16 à L. 611-19, sont brevetables aux conditions prévues au 1 les inventions portant sur un produit constitué en totalité ou en partie de matière biologique, ou sur un procédé permettant de produire, de traiter ou d'utiliser de la matière biologique.
 
@@ -5981,6 +5985,7 @@ I.-Pour être inscrit sur la liste prévue à l'article R. 122-15, la personne m
 -les conditions d'accès et d'utilisation de ses collections ;
 
 -un bilan annuel des services rendus et, le cas échéant, des œuvres rendues accessibles permettant d'apprécier l'effectivité de son activité au bénéfice des personnes mentionnées aux articles R. 122-13 et R. 122-14 ;
+
 4. Préciser les moyens utilisés pour contrôler l'usage des œuvres dans le respect des conditions définies au premier alinéa du 7° de l'article L. 122-5.
 
 II.-Pour être inscrit sur la même liste au titre des personnes morales et des établissements habilités à demander l'accès aux fichiers numériques ayant servi à l'édition d'œuvres imprimées, la personne morale ou l'établissement doit en outre à l'appui de sa demande :
@@ -6690,6 +6695,7 @@ B.-En ce qui concerne la mise en oeuvre des actions dont le financement est pré
 -le coût de la gestion de ces actions ;
 
 -les organismes ayant bénéficié de concours pendant trois années consécutives ;
+
 2. Une description des procédures d'attribution ;
 3. Un commentaire des orientations suivies en la matière par la société.
 4. La liste des conventions mentionnées à l'article R. 321-10.
@@ -6733,6 +6739,7 @@ a) De leur qualité d'auteur ;
 b) Ou de la nature et du niveau de leurs diplômes ;
 
 c) Ou de leur expérience professionnelle dans le secteur de l'édition ou de la gestion d'organismes professionnels ;
+
 3. Donner toutes informations relatives à son organisation administrative et aux conditions d'installation et d'équipement. Ces informations doivent concerner la collecte des données sur la pratique de la reprographie, la perception des rémunérations, le traitement des données nécessaires pour la répartition des rémunérations perçues, le plan de financement et le budget prévisionnel des trois exercices suivant la demande d'agrément ;
 4. Prévoir dans ses statuts, son règlement général et les actes types d'engagement de chacun des associés les règles garantissant le caractère équitable des modalités prévues pour la répartition des rémunérations perçues par les auteurs et les éditeurs.
 
@@ -6772,11 +6779,13 @@ Une société régie par le titre II du livre III peut être agréée au titre d
 a) De la nature et du niveau de leurs diplômes ;
 
 b) Ou de leur expérience de la gestion d'organismes professionnels ;
+
 3. Donner toutes informations relatives :
 
 a) A l'organisation administrative et aux conditions d'installation et d'équipement ;
 
 b) Aux perceptions reçues ou attendues à l'occasion de la retransmission par câble, simultanée, intégrale et sans changement, sur le territoire national, à partir d'un Etat membre de la Communauté européenne et aux données nécessaires pour leur répartition ;
+
 4. Communiquer :
 
 a) Copie des conventions passées avec les tiers relatives à la retransmission par câble, simultanée, intégrale et sans changement, sur le territoire national, à partir d'un Etat membre de la Communauté européenne ;
@@ -6950,6 +6959,7 @@ a) De leur qualité d'auteur ;
 b) Ou de la nature et du niveau de leurs diplômes ;
 
 c) Ou de leur expérience dans le secteur de l'édition ou de la gestion d'organismes professionnels ;
+
 4. Donne les informations nécessaires relatives :
 
 a) A l'organisation administrative et aux conditions d'installation et d'équipement de la société ;
@@ -6959,6 +6969,7 @@ b) Aux moyens mis en oeuvre pour la collecte des données statistiques sur les a
 c) Aux moyens mis en oeuvre pour la perception des rémunérations et le traitement des données nécessaires à la répartition de ces rémunérations ;
 
 d) Au plan de financement et au budget prévisionnel des trois exercices suivant la demande d'agrément ;
+
 5. Indique les dispositions qu'elle a prises ou qu'elle entend prendre pour garantir le respect des règles de répartition des rémunérations entre les auteurs et les éditeurs, ainsi que le caractère équitable de la répartition au sein de chacune de ces catégories.
 
 
@@ -7011,6 +7022,7 @@ a) De leur qualité d'auteur ; ou
 b) De la nature et du niveau de leurs diplômes ; ou
 
 c) De leur expérience dans le secteur de l'édition ou de la gestion d'organismes professionnels ;
+
 4. Donne les informations nécessaires relatives :
 
 a) A l'organisation administrative et aux conditions d'installation et d'équipement ;
@@ -7020,6 +7032,7 @@ b) Aux moyens mis en œuvre pour gérer les opérations relatives aux livres ind
 c) Aux moyens mis en œuvre pour la perception des rémunérations et le traitement des données nécessaires à la répartition de ces rémunérations ;
 
 d) Au plan de financement et au budget prévisionnel des trois exercices suivant la demande d'agrément ;
+
 5. Indique les dispositions qu'elle a prises ou qu'elle entend prendre pour garantir le respect des règles de répartition des rémunérations entre les auteurs et les éditeurs ainsi que le caractère équitable des règles de répartition des sommes perçues entre les ayants droit, qu'ils soient ou non parties au contrat d'édition ;
 6. Donne les informations nécessaires relatives aux moyens mis en œuvre afin d'identifier et de retrouver les titulaires de droits aux fins de répartir les sommes perçues ;
 7. Donne les informations nécessaires relatives aux moyens mis en œuvre pour développer des relations contractuelles permettant d'assurer la plus grande disponibilité possible des œuvres ;
@@ -7393,11 +7406,13 @@ L'Institut national de la propriété industrielle perçoit des redevances, dont
 - délivrance et impression du fascicule ;
 - maintien en vigueur ;
 - recours en restauration.
+
 2. Pour les brevets européens :
 
 Publication de traduction ou de traduction révisée des revendications d'une demande de brevet ou des revendications d'un brevet européen ;
 
 Etablissement et transmission de copies de la demande de brevet européen aux Etats destinataires ;
+
 3. Pour les demandes internationales (traité de coopération en matière de brevets, PCT) :
 
 Transmission d'une demande internationale ;
@@ -7405,6 +7420,7 @@ Transmission d'une demande internationale ;
 Supplément pour paiement tardif ;
 
 Préparation d'exemplaires complémentaires ;
+
 4. Pour les marques de fabrique, de commerce ou de service :
 
 Dépôt ;
@@ -7420,6 +7436,7 @@ Renouvellement ;
 Demande d'inscription au registre international des marques ;
 
 Relevé de déchéance ;
+
 5. Pour les dessins et modèles :
 
 Dépôt ;
@@ -7429,6 +7446,7 @@ Prorogation ;
 Régularisation, rectification, relevé de déchéance ;
 
 Enregistrement et gardiennage d'enveloppe spéciale ;
+
 6. Redevances communes aux brevets d'invention, certificats d'utilité, certificats complémentaires de protection, logiciels, marques, dessins ou modèles.-Palmarès et récompenses :
 
 Supplément pour requête tardive, paiement tardif ou accomplissement tardif d'une formalité ;
@@ -7438,9 +7456,11 @@ Renonciation ;
 Demande d'inscription sur le registre national ;
 
 Enregistrement d'un palmarès, d'une récompense ou transcription d'une déclaration de cession ou de transmission ;
+
 7. Pour les droits voisins de la propriété industrielle :
 
 Topographies de produits semi-conducteurs : dépôt et conservation ; inscription d'un acte modifiant ou transmettant les droits ;.
+
 8. S'agissant du registre national du commerce et des sociétés :
 
 Déclaration ;
@@ -7495,6 +7515,7 @@ Le recours est formé par une déclaration écrite adressée ou remise en double
 1. a) Si le requérant est une personne physique : ses nom, prénoms, profession, domicile, nationalité, date et lieu de naissance ;
 
 b) Si le requérant est une personne morale : sa forme, sa dénomination, son siège social et l'organe qui la représente légalement ;
+
 2. La date et l'objet de la décision attaquée ;
 3. Le nom et l'adresse du propriétaire du titre ou du titulaire de la demande, si le requérant n'a pas l'une de ces qualités.
 
@@ -7556,6 +7577,7 @@ Un représentant du ministre de la justice désigné par lui ;
 Un représentant du ministre chargé de la recherche désigné par lui ;
 
 Le directeur général de l'Institut national de la propriété industrielle ;
+
 2. Deux professeurs d'université ;
 
 Quatre personnalités représentant les intérêts du commerce et de l'industrie ;
@@ -7613,6 +7635,7 @@ b) Les salariés d'un avocat ou d'un conseil en propriété industrielle, d'une 
 c) Les fonctionnaires et anciens fonctionnaires de catégorie A ou les personnes assimilées aux fonctionnaires de cette catégorie ayant exercé dans une administration ou un service public ou une organisation internationale ;
 
 Les personnes mentionnées aux a, b et c peuvent avoir exercé leurs activités dans plusieurs des fonctions visées dans ces dispositions dès lors que la durée totale de ces activités est au moins égale à huit ans ;
+
 2. Les personnes remplissant l'ensemble des conditions suivantes :
 
 a) La possession d'un diplôme équivalant à un diplôme de second cycle de l'enseignement supérieur juridique, scientifique ou technique, obtenu, le cas échéant, dans le cadre de la formation professionnelle ;
@@ -7689,6 +7712,7 @@ Les conditions de diplôme, de stage et d'examen professionnel prévues aux arti
 a) Par l'autorité compétente de cet Etat et sanctionnant une formation acquise de façon prépondérante dans l'Union ;
 
 b) Ou par une autorité d'un pays tiers, à condition que soit fournie une attestation émanant de l'autorité compétente de l'Etat membre qui a reconnu le diplôme, certificat ou autre titre certifiant que son titulaire a une expérience professionnelle de trois ans au moins dans cet Etat ;
+
 2. Soit de l'exercice à plein temps de la profession pendant deux ans au moins au cours des dix années précédentes dans un Etat membre qui ne réglemente pas l'accès ou l'exercice de cette profession, à condition que cet exercice soit attesté par l'autorité compétente de cet Etat.
 
 
@@ -8517,6 +8541,7 @@ d) Le nombre de reproductions qui se rapportent à chaque dessin ou modèle iden
 e) La désignation usuelle du produit dans lequel le dessin ou modèle est destiné à être incorporé ou auquel il est destiné à être appliqué ;
 
 f) Le cas échéant, l'indication que la publication du dépôt doit être différée, que le droit de priorité attaché à un précédent dépôt étranger est revendiqué ou qu'un certificat de garantie a été délivré en application de la loi du 13 avril 1908 ;
+
 2. Une reproduction graphique ou photographique des dessins et modèles présentée dans les conditions prévues par   la décision mentionnée au 1°. Chaque reproduction doit porter sur un seul objet et ne représenter que celui-ci, à l'exclusion de tout autre objet, accessoire, personne ou animal. Les textes explicatifs, légendes, ou toute autre indication ne faisant pas partie intégrante du dessin ou modèle ne sont pas admis sur ou à côté des reproductions. Les reproductions peuvent être accompagnées d'une brève description, établie exclusivement à des fins documentaires. Son contenu définitif est, si nécessaire, mis en forme par l'Institut national de la propriété industrielle ;
 3. La justification du paiement des redevances prescrites ;
 4. S'il est constitué un mandataire, le pouvoir de ce dernier, à moins qu'il n'ait la qualité de conseil en propriété industrielle ou d'avocat.
@@ -9348,7 +9373,7 @@ Si la demande contient un renvoi conformément à l'alinéa précédent, une cop
 
 ##### Article R612-9
 
-1.S'il est constaté que des parties de la description, ou des dessins auxquels il est fait référence dans la description ou les revendications, ne semblent pas figurer dans la demande, le demandeur est invité à produire les parties manquantes dans le délai de deux mois.
+1. S'il est constaté que des parties de la description, ou des dessins auxquels il est fait référence dans la description ou les revendications, ne semblent pas figurer dans la demande, le demandeur est invité à produire les parties manquantes dans le délai de deux mois.
 2. Si les parties manquantes de la description ou les dessins manquants sont remis dans le délai de deux mois après la date de dépôt ou, lorsqu'une invitation est émise conformément au paragraphe 1, dans le délai de deux mois à compter de cette invitation, le demandeur est informé que la date de dépôt de la demande est celle à laquelle les parties manquantes de la description ou les dessins manquants ont été déposés, à moins que les parties manquantes de la description ou les dessins manquants ne soient retirés dans un délai d'un mois à compter de la date de leur dépôt.
 3. Si les parties manquantes de la description ou les dessins manquants sont remis dans le délai prévu au 2°, et si la demande revendique la priorité d'une demande antérieure, la date de dépôt reste la date à laquelle il a été satisfait aux exigences de l'article L. 612-2, sous réserve que les parties manquantes de la description ou les dessins manquants figurent intégralement dans la demande antérieure et que, dans le délai prévu au 2°, le demandeur en fasse la demande et produise une copie de la demande antérieure, à moins qu'une telle copie ne soit à la disposition de l'Institut national de la propriété industrielle ainsi que, le cas échéant, une traduction en langue française. Le demandeur doit alors indiquer l'endroit où les parties manquantes de la description ou les dessins manquants figurent intégralement dans la demande antérieure et, le cas échéant, dans la traduction de celle-ci.
 4. Si le demandeur ne dépose pas les parties manquantes de la description ou les dessins manquants dans les délais prévus aux 1° et 2°, toute référence faite à ces parties de la description ou ces dessins est supprimée.
@@ -10133,6 +10158,7 @@ La requête doit, pour être recevable :
 1. Emaner du titulaire du brevet inscrit, au jour de la requête, sur le registre national des brevets, ou de son mandataire, lequel, sauf s'il a la qualité de conseil en propriété industrielle ou d'avocat, doit joindre à la requête un pouvoir spécial de renonciation ou de limitation.
 
 Si le brevet appartient à plusieurs personnes, la renonciation ou la limitation ne peut être effectuée que si elle est requise par l'ensemble de celles-ci ;
+
 2. Etre accompagnée de la justification du paiement de la redevance prescrite ;
 3. Ne viser qu'un seul brevet ;
 4. Etre accompagnée, si des droits réels, de gage ou de licence ont été inscrits au registre national des brevets, du consentement des titulaires de ces droits ;
@@ -10927,6 +10953,7 @@ Le déposant doit joindre à la demande de certificat d'obtention végétale :
 -qu'elle n'a pas été offerte à la vente ou commercialisée en France ou sur le territoire de l'Espace économique européen avec l'accord de l'obtenteur ou de son ou de ses ayants cause depuis plus de douze mois à la date de la demande ;
 
 -qu'elle n'a pas été offerte à la vente ou commercialisée avec l'accord de l'obtenteur sur le territoire de tout autre Etat depuis plus de six ans dans le cas de la vigne, des arbres forestiers, des arbres fruitiers et des arbres d'ornement, y compris dans chaque cas leurs porte-greffes, ou depuis plus de quatre ans dans le cas des autres genres ou espèces ;
+
 2. Le cas échéant, si la demande porte sur une variété dont la production commerciale exige l'emploi répété d'une variété protégée, l'autorisation écrite du titulaire du certificat d'obtention végétale d'utiliser cette variété protégée ;
 3. L'engagement de fournir à la requête du responsable des missions relevant de l'instance nationale des obtentions végétales dans les délais qu'il fixe, sous peine de rejet de la demande, le matériel de reproduction ou de multiplication végétative de la variété destiné à permettre un examen de ladite variété, y compris, le cas échéant, les différents composants héréditaires nécessaires à la reproduction de la variété ;
 4. Eventuellement, le pouvoir du mandataire ;
